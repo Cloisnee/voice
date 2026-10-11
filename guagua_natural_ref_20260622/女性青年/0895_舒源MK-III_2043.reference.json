@@ -1,0 +1,20 @@
+{
+  "id": 2043,
+  "name": "舒源MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2043",
+  "robotId": "2043",
+  "engineVoiceId": "create_voice_guagua_2043",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。我会把情绪收好，不影响接下来的事。灯影晃了一下，心绪也跟着沉了下去。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0895_舒源MK-III_2043.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0895_舒源MK-III_2043.mp3",
+  "audioHash": "8ee68e2ea884292b9d79117627a764f9a45556f13b62cc8efd7529152c5c7adf",
+  "durationMs": 14808,
+  "materialId": 810621709,
+  "bookId": 112782,
+  "chapterId": 25527689,
+  "updatedAt": "2026-06-22T17:24:15.818Z"
+}

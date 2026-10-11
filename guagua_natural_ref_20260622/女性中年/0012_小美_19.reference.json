@@ -1,0 +1,20 @@
+{
+  "id": 19,
+  "name": "小美",
+  "category": "女性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG19",
+  "robotId": "19",
+  "engineVoiceId": "create_voice_guagua_19",
+  "referenceText": "有些话说出口以前，总要在心里转上好几遍。该承担的别躲，该放下的也别抓太紧。帘外风声一紧，话到嘴边便轻了半分。天总会亮的，人也总要往前看。",
+  "emotionProfile": "沉稳安抚，低强度情绪起伏",
+  "sampleStyle": "女性中年/古风",
+  "audioFile": "0012_小美_19.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性中年/0012_小美_19.mp3",
+  "audioHash": "4e401f727261b44af5f313f2d1e1144500874bb709199d1883b085fc6abbe550",
+  "durationMs": 15312,
+  "materialId": 810355198,
+  "bookId": 111975,
+  "chapterId": 25523534,
+  "updatedAt": "2026-06-22T14:25:26.171Z"
+}

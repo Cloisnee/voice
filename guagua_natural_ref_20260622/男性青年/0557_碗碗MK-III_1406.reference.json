@@ -1,0 +1,20 @@
+{
+  "id": 1406,
+  "name": "碗碗MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1406",
+  "robotId": "1406",
+  "engineVoiceId": "create_voice_guagua_1406",
+  "referenceText": "事情已经到了这一步，退后反而更危险。我会把人带回来，也会给你一个交代。停了一会儿，语气终于慢慢平稳下来。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0557_碗碗MK-III_1406.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0557_碗碗MK-III_1406.mp3",
+  "audioHash": "9a4c719cd26f0413835e354a9e525a1b095f4e23877b5a0ae45b85faab817737",
+  "durationMs": 13704,
+  "materialId": 810617832,
+  "bookId": 112445,
+  "chapterId": 25526906,
+  "updatedAt": "2026-06-22T17:21:08.721Z"
+}

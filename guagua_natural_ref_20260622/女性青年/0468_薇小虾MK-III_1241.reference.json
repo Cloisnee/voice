@@ -1,0 +1,20 @@
+{
+  "id": 1241,
+  "name": "薇小虾MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1241",
+  "robotId": "1241",
+  "engineVoiceId": "create_voice_guagua_1241",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。如果还有机会，我想重新来一次。帘外风声一紧，话到嘴边便轻了半分。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0468_薇小虾MK-III_1241.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0468_薇小虾MK-III_1241.mp3",
+  "audioHash": "e631d7d76579a4dfada30e5b95d4f9951fecd290c86a98df9d1dc30a52a9b1e4",
+  "durationMs": 16752,
+  "materialId": 810615554,
+  "bookId": 112356,
+  "chapterId": 25526717,
+  "updatedAt": "2026-06-22T17:20:48.337Z"
+}

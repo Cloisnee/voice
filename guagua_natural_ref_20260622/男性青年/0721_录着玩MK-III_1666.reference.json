@@ -1,0 +1,20 @@
+{
+  "id": 1666,
+  "name": "录着玩MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1666",
+  "robotId": "1666",
+  "engineVoiceId": "create_voice_guagua_1666",
+  "referenceText": "事情已经到了这一步，退后反而更危险。先稳住呼吸，再看清楚前面的路。帘外风声一紧，话到嘴边便轻了半分。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0721_录着玩MK-III_1666.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0721_录着玩MK-III_1666.mp3",
+  "audioHash": "879115e4d4a74ac988c98c092ddbce68b381729456cb9d68bee1d9dac6a92119",
+  "durationMs": 15552,
+  "materialId": 810620539,
+  "bookId": 112608,
+  "chapterId": 25527341,
+  "updatedAt": "2026-06-22T17:22:38.094Z"
+}

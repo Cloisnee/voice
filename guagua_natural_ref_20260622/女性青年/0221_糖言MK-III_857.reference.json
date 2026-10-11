@@ -1,0 +1,20 @@
+{
+  "id": 857,
+  "name": "糖言MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG857",
+  "robotId": "857",
+  "engineVoiceId": "create_voice_guagua_857",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。你不用立刻回答，我可以等。灯影晃了一下，心绪也跟着沉了下去。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0221_糖言MK-III_857.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0221_糖言MK-III_857.mp3",
+  "audioHash": "10bb5e5c804fee5b79f04728b82f4eba38c504dcfa74c3287be23f1e948189bb",
+  "durationMs": 15264,
+  "materialId": 810542793,
+  "bookId": 112120,
+  "chapterId": 25525843,
+  "updatedAt": "2026-06-22T16:16:33.010Z"
+}

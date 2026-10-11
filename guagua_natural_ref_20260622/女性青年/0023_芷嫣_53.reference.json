@@ -1,0 +1,20 @@
+{
+  "id": 53,
+  "name": "芷嫣",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG53",
+  "robotId": "53",
+  "engineVoiceId": "create_voice_guagua_53",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。我会把情绪收好，不影响接下来的事。灯影晃了一下，心绪也跟着沉了下去。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0023_芷嫣_53.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0023_芷嫣_53.mp3",
+  "audioHash": "9f83a2fe76896d5367a52421243d1f3a3449b8f751574c616ceb5b8f2dcd43f8",
+  "durationMs": 14136,
+  "materialId": 810371852,
+  "bookId": 111986,
+  "chapterId": 25524058,
+  "updatedAt": "2026-06-22T14:25:49.373Z"
+}

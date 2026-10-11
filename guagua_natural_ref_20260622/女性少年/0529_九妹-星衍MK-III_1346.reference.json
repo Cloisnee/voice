@@ -1,0 +1,20 @@
+{
+  "id": 1346,
+  "name": "九妹-星衍MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1346",
+  "robotId": "1346",
+  "engineVoiceId": "create_voice_guagua_1346",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。你不用立刻回答，我可以等。停了一会儿，语气终于慢慢平稳下来。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0529_九妹-星衍MK-III_1346.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0529_九妹-星衍MK-III_1346.mp3",
+  "audioHash": "53cb5f684b32250cde6bc6b0c18791cc957786fedb11917782572c3fefa5c474",
+  "durationMs": 13872,
+  "materialId": 810616819,
+  "bookId": 112417,
+  "chapterId": 25526858,
+  "updatedAt": "2026-06-22T17:21:02.115Z"
+}

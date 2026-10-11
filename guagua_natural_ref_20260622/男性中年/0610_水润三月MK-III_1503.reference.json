@@ -1,0 +1,20 @@
+{
+  "id": 1503,
+  "name": "水润三月MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1503",
+  "robotId": "1503",
+  "engineVoiceId": "create_voice_guagua_1503",
+  "referenceText": "这件事没你想得那么简单。该问的一个都不能漏。帘外风声一紧，话到嘴边便轻了半分。别慌，先按计划来。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0610_水润三月MK-III_1503.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0610_水润三月MK-III_1503.mp3",
+  "audioHash": "c7eaf1225d6f2738663335e8b5eeaeea44acfb89caac8e88549c0f851ce1a6bb",
+  "durationMs": 8784,
+  "materialId": 810618744,
+  "bookId": 112498,
+  "chapterId": 25527175,
+  "updatedAt": "2026-06-22T17:21:35.580Z"
+}

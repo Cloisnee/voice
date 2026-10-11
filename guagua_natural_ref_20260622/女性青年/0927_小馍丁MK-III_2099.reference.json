@@ -1,0 +1,20 @@
+{
+  "id": 2099,
+  "name": "小馍丁MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2099",
+  "robotId": "2099",
+  "engineVoiceId": "create_voice_guagua_2099",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。我会把情绪收好，不影响接下来的事。这句话不需要喊出来，却要让人听得真切。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0927_小馍丁MK-III_2099.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0927_小馍丁MK-III_2099.mp3",
+  "audioHash": "4bfb7b8ba4f95dd2076cd5817ccdd83cb5e3ee9696b668498e569a787522448b",
+  "durationMs": 13944,
+  "materialId": 810621828,
+  "bookId": 112814,
+  "chapterId": 25527747,
+  "updatedAt": "2026-06-22T17:24:33.649Z"
+}

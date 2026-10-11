@@ -1,0 +1,20 @@
+{
+  "id": 1875,
+  "name": "梧玥MK-III",
+  "category": "女性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1875",
+  "robotId": "1875",
+  "engineVoiceId": "create_voice_guagua_1875",
+  "referenceText": "吃过早饭。王美芳先把儿子打发去上学。然后又把闺女和男人打发去上班。\n　当屋里只剩下了王美芳和许语嫣两个人后。王美芳掏出锁和钥匙，将她和许大伯的房间锁得严严实实。",
+  "emotionProfile": "沉稳安抚，低强度情绪起伏",
+  "sampleStyle": "女性中年/古风",
+  "audioFile": "0812_梧玥MK-III_1875.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性中年/0812_梧玥MK-III_1875.mp3",
+  "audioHash": "2eed9e8269b613cb25bc8216a6986879750725edc11caad5042befbb8d593cb9",
+  "durationMs": 16416,
+  "materialId": 810621331,
+  "bookId": 112699,
+  "chapterId": 25527562,
+  "updatedAt": "2026-06-22T17:23:29.954Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1091,
+  "name": "小福星MK-III",
+  "category": "女性儿童",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1091",
+  "robotId": "1091",
+  "engineVoiceId": "create_voice_guagua_1091",
+  "referenceText": "你别走得太快，我会努力跟上的。如果你在旁边，我就没那么怕了。灯影晃了一下，心绪也跟着沉了下去。那我们说好了，不许丢下我。",
+  "emotionProfile": "害怕到安心，轻声停顿，尾音柔软",
+  "sampleStyle": "女性儿童/古风",
+  "audioFile": "0355_小福星MK-III_1091.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性儿童/0355_小福星MK-III_1091.mp3",
+  "audioHash": "8ba46685b1b1d1c9b7a93b81674b0a16c592d6b295f8c2829a74991555a02cb7",
+  "durationMs": 12696,
+  "materialId": 810598397,
+  "bookId": 112243,
+  "chapterId": 25526447,
+  "updatedAt": "2026-06-22T17:03:19.083Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 161,
+  "name": "天启MK-II",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG161",
+  "robotId": "161",
+  "engineVoiceId": "create_voice_guagua_161",
+  "referenceText": "我不是不相信你，只是现在必须谨慎。有些责任，躲是躲不过去的。帘外风声一紧，话到嘴边便轻了半分。别慌，先按计划来。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0054_天启MK-II_161.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0054_天启MK-II_161.mp3",
+  "audioHash": "5296ad0d4a65bb5ef17d9d201cca2f1b19f877906197460936e25bdc3ad8d167",
+  "durationMs": 14952,
+  "materialId": 810398367,
+  "bookId": 112024,
+  "chapterId": 25524436,
+  "updatedAt": "2026-06-22T14:40:43.017Z"
+}

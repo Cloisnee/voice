@@ -1,0 +1,20 @@
+{
+  "id": 1459,
+  "name": "欢脱博儿MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1459",
+  "robotId": "1459",
+  "engineVoiceId": "create_voice_guagua_1459",
+  "referenceText": "你听，他们还在等我回去。如果必须有人留下，那就让我来。这句话不需要喊出来，却要让人听得真切。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0587_欢脱博儿MK-III_1459.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0587_欢脱博儿MK-III_1459.mp3",
+  "audioHash": "99a48f44ae184f06fcf71728ba4c25a1851f766b87f16da742eb4dc64e039796",
+  "durationMs": 12360,
+  "materialId": 810618411,
+  "bookId": 112475,
+  "chapterId": 25527140,
+  "updatedAt": "2026-06-22T17:21:23.039Z"
+}

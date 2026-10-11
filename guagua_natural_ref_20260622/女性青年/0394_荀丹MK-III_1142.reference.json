@@ -1,0 +1,20 @@
+{
+  "id": 1142,
+  "name": "荀丹MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1142",
+  "robotId": "1142",
+  "engineVoiceId": "create_voice_guagua_1142",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。算了，我们先往前走吧。这句话不需要喊出来，却要让人听得真切。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0394_荀丹MK-III_1142.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0394_荀丹MK-III_1142.mp3",
+  "audioHash": "87c0d4612484e25b649edaaafb076412cd80654ed1a817d0aa2a95d65d2b3c88",
+  "durationMs": 14040,
+  "materialId": 810607997,
+  "bookId": 112282,
+  "chapterId": 25526586,
+  "updatedAt": "2026-06-22T17:12:37.934Z"
+}

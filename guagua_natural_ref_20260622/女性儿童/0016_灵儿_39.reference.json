@@ -1,0 +1,20 @@
+{
+  "id": 39,
+  "name": "灵儿",
+  "category": "女性儿童",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG39",
+  "robotId": "39",
+  "engineVoiceId": "create_voice_guagua_39",
+  "referenceText": "刚才那一下真的吓到我了。我下次一定会小心的。说完这句，眼睛又亮了一点。我会慢慢说清楚的。",
+  "emotionProfile": "害怕到安心，轻声停顿，尾音柔软",
+  "sampleStyle": "女性儿童/童真",
+  "audioFile": "0016_灵儿_39.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性儿童/0016_灵儿_39.mp3",
+  "audioHash": "a0ab6781c18d6ad05e05a6615519ef3f668324a78d42e29d5139ebe13a1e6cec",
+  "durationMs": 12264,
+  "materialId": 810355116,
+  "bookId": 111979,
+  "chapterId": 25523539,
+  "updatedAt": "2026-06-22T14:25:26.201Z"
+}

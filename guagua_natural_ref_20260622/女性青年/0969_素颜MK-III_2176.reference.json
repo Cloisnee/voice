@@ -1,0 +1,20 @@
+{
+  "id": 2176,
+  "name": "素颜MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2176",
+  "robotId": "2176",
+  "engineVoiceId": "create_voice_guagua_2176",
+  "referenceText": "那些脱口而出的狠话，那些欲言又止的委屈，那些无法言说的误解，都在夜里反复拉扯，让她喘不过气来",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/现代",
+  "audioFile": "0969_素颜MK-III_2176.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0969_素颜MK-III_2176.mp3",
+  "audioHash": "9e1b27ffa822bc38cc49f758f1cdacbae68b673e76ac95ee7c10bec9f96ce90c",
+  "durationMs": 9792,
+  "materialId": 810621969,
+  "bookId": 112856,
+  "chapterId": 25527823,
+  "updatedAt": "2026-06-22T17:24:57.211Z"
+}

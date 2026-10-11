@@ -1,0 +1,20 @@
+{
+  "id": 1171,
+  "name": "小文MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1171",
+  "robotId": "1171",
+  "engineVoiceId": "create_voice_guagua_1171",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。你不用立刻回答，我可以等。这句话不需要喊出来，却要让人听得真切。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0417_小文MK-III_1171.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0417_小文MK-III_1171.mp3",
+  "audioHash": "c6afcc256c6cbf30fb82804c378c28297d6b5c81ccf8a754c68fda88ac34fe4a",
+  "durationMs": 12840,
+  "materialId": 810610603,
+  "bookId": 112305,
+  "chapterId": 25526629,
+  "updatedAt": "2026-06-22T17:17:03.868Z"
+}

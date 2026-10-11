@@ -1,0 +1,20 @@
+{
+  "id": 137,
+  "name": "清妍MK-II",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG137",
+  "robotId": "137",
+  "engineVoiceId": "create_voice_guagua_137",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。你不用立刻回答，我可以等。灯影晃了一下，心绪也跟着沉了下去。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0037_清妍MK-II_137.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0037_清妍MK-II_137.mp3",
+  "audioHash": "0e9964af0e2f8f043646e87f5175cee9a1d39ebeb546ffab37817125ff91dc93",
+  "durationMs": 14688,
+  "materialId": 810372399,
+  "bookId": 112000,
+  "chapterId": 25524082,
+  "updatedAt": "2026-06-22T14:26:08.968Z"
+}

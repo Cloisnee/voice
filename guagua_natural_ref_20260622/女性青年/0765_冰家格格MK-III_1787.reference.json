@@ -1,0 +1,20 @@
+{
+  "id": 1787,
+  "name": "冰家格格MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1787",
+  "robotId": "1787",
+  "engineVoiceId": "create_voice_guagua_1787",
+  "referenceText": "武德将军夫人体弱多病，近日*又感了风寒，府里传了新聘请的府医画临前来医治。将军府派头大，当他们的府医不光要开方子、还要包煎药。画临忙了几日*折腾不过来，请求允许让自己的女徒弟*也入府打下手。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0765_冰家格格MK-III_1787.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0765_冰家格格MK-III_1787.mp3",
+  "audioHash": "80261f4de2cc283788ce2d0c952ebc1bd7ef9a66b486930858f2079dceb3bc89",
+  "durationMs": 21240,
+  "materialId": 810620730,
+  "bookId": 112652,
+  "chapterId": 25527419,
+  "updatedAt": "2026-06-22T17:23:02.577Z"
+}

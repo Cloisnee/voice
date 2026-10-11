@@ -1,0 +1,20 @@
+{
+  "id": 1235,
+  "name": "蛮腰小亦MK-III",
+  "category": "女性少年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1235",
+  "robotId": "1235",
+  "engineVoiceId": "create_voice_guagua_1235",
+  "referenceText": "你们不相信我也没关系，我会自己证明。别替我决定，我有自己的答案。灯影晃了一下，心绪也跟着沉了下去。你听，我没有哭，只是声音有点抖。",
+  "emotionProfile": "不服输但克制，轻微急促，句尾回稳",
+  "sampleStyle": "女性少年/古风",
+  "audioFile": "0463_蛮腰小亦MK-III_1235.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性少年/0463_蛮腰小亦MK-III_1235.mp3",
+  "audioHash": "5a7f1daa3d28db3f1e37dff1643bbe413f1fcc7d0ee0b6535876f3dd21111135",
+  "durationMs": 16680,
+  "materialId": 810615237,
+  "bookId": 112351,
+  "chapterId": 25526708,
+  "updatedAt": "2026-06-22T17:20:47.217Z"
+}

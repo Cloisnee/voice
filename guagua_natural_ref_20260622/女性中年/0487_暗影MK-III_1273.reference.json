@@ -1,0 +1,20 @@
+{
+  "id": 1273,
+  "name": "暗影MK-III",
+  "category": "女性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1273",
+  "robotId": "1273",
+  "engineVoiceId": "create_voice_guagua_1273",
+  "referenceText": "我知道你委屈，可委屈不能替你做决定。我们先把眼前这一关过了。灯影晃了一下，心绪也跟着沉了下去。等你想明白了，再回来也不迟。",
+  "emotionProfile": "沉稳安抚，低强度情绪起伏",
+  "sampleStyle": "女性中年/古风",
+  "audioFile": "0487_暗影MK-III_1273.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性中年/0487_暗影MK-III_1273.mp3",
+  "audioHash": "d8b16e9cb84f6c6ef508c4eb0b261e59bd1d189e211ea6fa28522acaa70b7031",
+  "durationMs": 14760,
+  "materialId": 810616199,
+  "bookId": 112375,
+  "chapterId": 25526775,
+  "updatedAt": "2026-06-22T17:20:52.312Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1173,
+  "name": "晚晚晴天MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1173",
+  "robotId": "1173",
+  "engineVoiceId": "create_voice_guagua_1173",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。我会把情绪收好，不影响接下来的事。手机屏幕暗下去以后，房间里只剩下彼此的呼吸。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/现代",
+  "audioFile": "0419_晚晚晴天MK-III_1173.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0419_晚晚晴天MK-III_1173.mp3",
+  "audioHash": "993654a23f604a621df2cd72b0599806187149485b42df3674138c37387fd6e7",
+  "durationMs": 14664,
+  "materialId": 810610623,
+  "bookId": 112307,
+  "chapterId": 25526633,
+  "updatedAt": "2026-06-22T17:17:04.335Z"
+}

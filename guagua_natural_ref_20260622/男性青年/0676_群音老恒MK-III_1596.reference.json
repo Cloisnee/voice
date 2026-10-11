@@ -1,0 +1,20 @@
+{
+  "id": 1596,
+  "name": "群音老恒MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1596",
+  "robotId": "1596",
+  "engineVoiceId": "create_voice_guagua_1596",
+  "referenceText": "刚才那句话，我不是随便说说。别担心，我知道自己在做什么。门外那一点动静，让所有话都停在了半空。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/悬疑",
+  "audioFile": "0676_群音老恒MK-III_1596.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0676_群音老恒MK-III_1596.mp3",
+  "audioHash": "1bb6c1f580ebf698ca63d403e39b87997abcbd68391d0f420bc1aa0a232c6ee0",
+  "durationMs": 15720,
+  "materialId": 810619942,
+  "bookId": 112564,
+  "chapterId": 25527273,
+  "updatedAt": "2026-06-22T17:22:12.407Z"
+}

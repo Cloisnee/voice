@@ -1,0 +1,20 @@
+{
+  "id": 657,
+  "name": "南伶MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG657",
+  "robotId": "657",
+  "engineVoiceId": "create_voice_guagua_657",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。你不用立刻回答，我可以等。灯影晃了一下，心绪也跟着沉了下去。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0137_南伶MK-III_657.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0137_南伶MK-III_657.mp3",
+  "audioHash": "86c3d93a2fd4426a76560162a0ce646e55449cd481a60d99f2495b79a75ffda6",
+  "durationMs": 12984,
+  "materialId": 810435636,
+  "bookId": 112046,
+  "chapterId": 25524474,
+  "updatedAt": "2026-06-22T15:06:22.999Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 806,
+  "name": "堂七七MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG806",
+  "robotId": "806",
+  "engineVoiceId": "create_voice_guagua_806",
+  "referenceText": "事情已经到了这一步，退后反而更危险。我会把人带回来，也会给你一个交代。停了一会儿，语气终于慢慢平稳下来。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0193_堂七七MK-III_806.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0193_堂七七MK-III_806.mp3",
+  "audioHash": "bdce33939fc4c9e0c83fbc19579b245ef12d82a2c1c5fed5946cf077d6ecf2d8",
+  "durationMs": 12528,
+  "materialId": null,
+  "bookId": 112102,
+  "chapterId": 25525816,
+  "updatedAt": "2026-06-22T16:07:04.143Z"
+}

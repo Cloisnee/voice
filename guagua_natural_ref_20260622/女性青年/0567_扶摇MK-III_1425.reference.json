@@ -1,0 +1,20 @@
+{
+  "id": 1425,
+  "name": "扶摇MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1425",
+  "robotId": "1425",
+  "engineVoiceId": "create_voice_guagua_1425",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。我会把情绪收好，不影响接下来的事。这句话不需要喊出来，却要让人听得真切。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0567_扶摇MK-III_1425.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0567_扶摇MK-III_1425.mp3",
+  "audioHash": "69a16797a2ee2249ee42b6a256817797f51076b6b74f586261827db0402968cf",
+  "durationMs": 15888,
+  "materialId": 810618181,
+  "bookId": 112455,
+  "chapterId": 25526923,
+  "updatedAt": "2026-06-22T17:21:12.390Z"
+}

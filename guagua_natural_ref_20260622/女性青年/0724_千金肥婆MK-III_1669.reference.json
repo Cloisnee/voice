@@ -1,0 +1,20 @@
+{
+  "id": 1669,
+  "name": "千金肥婆MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1669",
+  "robotId": "1669",
+  "engineVoiceId": "create_voice_guagua_1669",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。如果还有机会，我想重新来一次。停了一会儿，语气终于慢慢平稳下来。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0724_千金肥婆MK-III_1669.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0724_千金肥婆MK-III_1669.mp3",
+  "audioHash": "a0b6d3ff94cb5e0a57c4ce6d892b7c13772a8f42f52dcf595ea93f83dd59b8d9",
+  "durationMs": 17664,
+  "materialId": 810620161,
+  "bookId": 112611,
+  "chapterId": 25527350,
+  "updatedAt": "2026-06-22T17:22:39.679Z"
+}

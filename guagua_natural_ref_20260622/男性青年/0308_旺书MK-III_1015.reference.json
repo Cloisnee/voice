@@ -1,0 +1,20 @@
+{
+  "id": 1015,
+  "name": "旺书MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1015",
+  "robotId": "1015",
+  "engineVoiceId": "create_voice_guagua_1015",
+  "referenceText": "张云扬记得旁边小厢房的杂物堆里有一把木弹弓，还有一把有些生锈的猎枪。\n刚才姐妹二人帮忙收东西的时候，以为木弹弓没用，已经扔到厨房的柴火堆里了。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0308_旺书MK-III_1015.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0308_旺书MK-III_1015.mp3",
+  "audioHash": "7677f1d8772833a5be0e106e9475c0a48f6db77fb8e9e3aa3e0715bc9d26fe04",
+  "durationMs": 13080,
+  "materialId": 810581412,
+  "bookId": 112196,
+  "chapterId": 25526373,
+  "updatedAt": "2026-06-22T16:48:36.548Z"
+}

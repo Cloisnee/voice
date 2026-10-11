@@ -1,0 +1,20 @@
+{
+  "id": 1793,
+  "name": "Prove炫蓝MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1793",
+  "robotId": "1793",
+  "engineVoiceId": "create_voice_guagua_1793",
+  "referenceText": "我当然会怕，可是现在不能停下。别担心，我知道自己在做什么。窗外车声一闪而过，语气也慢慢稳住了。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/现代",
+  "audioFile": "0768_Prove炫蓝MK-III_1793.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0768_Prove炫蓝MK-III_1793.mp3",
+  "audioHash": "a7f8801be37e89679972dd1f1dc177545285d609d3a423e5bd86a5c280caf4a8",
+  "durationMs": 13848,
+  "materialId": 810620722,
+  "bookId": 112655,
+  "chapterId": 25527423,
+  "updatedAt": "2026-06-22T17:23:04.235Z"
+}

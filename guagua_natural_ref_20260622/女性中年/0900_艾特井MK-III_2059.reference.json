@@ -1,0 +1,20 @@
+{
+  "id": 2059,
+  "name": "艾特井MK-III",
+  "category": "女性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2059",
+  "robotId": "2059",
+  "engineVoiceId": "create_voice_guagua_2059",
+  "referenceText": "1932年底，金陵，秦淮河畔乌衣巷。\n    漫天飘雪。\n    一朝金陵雪，半梦醉人间。\n    郑耀先点燃一支烟，推开了阁楼的窗户。\n    眼角的余光缓缓扫过这条仅有几十米长的巷子，行人不多，有",
+  "emotionProfile": "沉稳安抚，低强度情绪起伏",
+  "sampleStyle": "女性中年/古风",
+  "audioFile": "0900_艾特井MK-III_2059.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性中年/0900_艾特井MK-III_2059.mp3",
+  "audioHash": "a4e2f9d4cce00ca725b9aa92646413f06415a714b65103912c265a831ef2c58d",
+  "durationMs": 22968,
+  "materialId": 810621708,
+  "bookId": 112787,
+  "chapterId": 25527697,
+  "updatedAt": "2026-06-22T17:24:18.469Z"
+}

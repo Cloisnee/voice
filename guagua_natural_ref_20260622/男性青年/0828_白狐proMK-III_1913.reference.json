@@ -1,0 +1,20 @@
+{
+  "id": 1913,
+  "name": "白狐proMK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1913",
+  "robotId": "1913",
+  "engineVoiceId": "create_voice_guagua_1913",
+  "referenceText": "而那青年男子，身前空间再度扭曲，如水波荡漾。又是三道空间波动演化剑意，更是后发先至。就听“嗖”的一声异响，却正是天光针催化剑罡回援，以攻为守，直刺那妖修后脑。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0828_白狐proMK-III_1913.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0828_白狐proMK-III_1913.mp3",
+  "audioHash": "e9bf270272aebc2ed2a70dce92f1307e78d92c40cf5ecae7a6d1e363de12b8e9",
+  "durationMs": 17424,
+  "materialId": 810621113,
+  "bookId": 112715,
+  "chapterId": 25527584,
+  "updatedAt": "2026-06-22T17:23:38.710Z"
+}

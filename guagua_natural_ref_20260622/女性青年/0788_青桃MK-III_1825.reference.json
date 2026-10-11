@@ -1,0 +1,20 @@
+{
+  "id": 1825,
+  "name": "青桃MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1825",
+  "robotId": "1825",
+  "engineVoiceId": "create_voice_guagua_1825",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。如果还有机会，我想重新来一次。帘外风声一紧，话到嘴边便轻了半分。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0788_青桃MK-III_1825.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0788_青桃MK-III_1825.mp3",
+  "audioHash": "29ff83fd142d9304722ec16eeebcb7d4459f633d6b45b67b989ec12d7d5e70ac",
+  "durationMs": 18528,
+  "materialId": 810620948,
+  "bookId": 112675,
+  "chapterId": 25527528,
+  "updatedAt": "2026-06-22T17:23:15.825Z"
+}

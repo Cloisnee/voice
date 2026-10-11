@@ -1,0 +1,20 @@
+{
+  "id": 1546,
+  "name": "栖乐MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1546",
+  "robotId": "1546",
+  "engineVoiceId": "create_voice_guagua_1546",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。算了，我们先往前走吧。这句话不需要喊出来，却要让人听得真切。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0638_栖乐MK-III_1546.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0638_栖乐MK-III_1546.mp3",
+  "audioHash": "87b83bf2d302c754110918eb6d11a84b1e9c888f34291ef146e702cfd3bbc904",
+  "durationMs": 14496,
+  "materialId": 810619255,
+  "bookId": 112526,
+  "chapterId": 25527215,
+  "updatedAt": "2026-06-22T17:21:51.312Z"
+}

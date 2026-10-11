@@ -1,0 +1,20 @@
+{
+  "id": 981,
+  "name": "长卿MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG981",
+  "robotId": "981",
+  "engineVoiceId": "create_voice_guagua_981",
+  "referenceText": "我当然会怕，可是现在不能停下。别担心，我知道自己在做什么。停了一会儿，语气终于慢慢平稳下来。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0288_长卿MK-III_981.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0288_长卿MK-III_981.mp3",
+  "audioHash": "8a50b083063d3f78054e49a08dcaba3c4402c6abb0d077d603c12b4aba2cbf7f",
+  "durationMs": 12432,
+  "materialId": 810572861,
+  "bookId": 112176,
+  "chapterId": 25526344,
+  "updatedAt": "2026-06-22T16:40:40.628Z"
+}

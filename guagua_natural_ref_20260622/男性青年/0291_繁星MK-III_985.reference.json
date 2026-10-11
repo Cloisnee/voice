@@ -1,0 +1,20 @@
+{
+  "id": 985,
+  "name": "繁星MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG985",
+  "robotId": "985",
+  "engineVoiceId": "create_voice_guagua_985",
+  "referenceText": "刚才那句话，我不是随便说说。如果必须有人留下，那就让我来。灯影晃了一下，心绪也跟着沉了下去。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0291_繁星MK-III_985.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0291_繁星MK-III_985.mp3",
+  "audioHash": "e0d43f230710ecb7901f8d91928e22be34fd7fd26e66632bda89ca8ba4439eda",
+  "durationMs": 13056,
+  "materialId": 810573134,
+  "bookId": 112179,
+  "chapterId": 25526349,
+  "updatedAt": "2026-06-22T16:40:41.414Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 816,
+  "name": "丫丫MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG816",
+  "robotId": "816",
+  "engineVoiceId": "create_voice_guagua_816",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。算了，我们先往前走吧。灯影晃了一下，心绪也跟着沉了下去。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0198_丫丫MK-III_816.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0198_丫丫MK-III_816.mp3",
+  "audioHash": "80fcffdd8b50d6cdde0b0efad2e272346bf38a4a3ab8ea54ee79ac11eba27be3",
+  "durationMs": 15456,
+  "materialId": 810542023,
+  "bookId": 112107,
+  "chapterId": 25525822,
+  "updatedAt": "2026-06-22T16:16:30.284Z"
+}

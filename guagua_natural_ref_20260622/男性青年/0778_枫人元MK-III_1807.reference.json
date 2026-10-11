@@ -1,0 +1,20 @@
+{
+  "id": 1807,
+  "name": "枫人元MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1807",
+  "robotId": "1807",
+  "engineVoiceId": "create_voice_guagua_1807",
+  "referenceText": "我当然会怕，可是现在不能停下。先稳住呼吸，再看清楚前面的路。帘外风声一紧，话到嘴边便轻了半分。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0778_枫人元MK-III_1807.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0778_枫人元MK-III_1807.mp3",
+  "audioHash": "169f8b22cda9359b69e91025e5e0b992271d8132712f6322e8adf6283b2e6134",
+  "durationMs": 12336,
+  "materialId": 810621186,
+  "bookId": 112665,
+  "chapterId": 25527438,
+  "updatedAt": "2026-06-22T17:23:09.970Z"
+}

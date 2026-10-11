@@ -1,0 +1,20 @@
+{
+  "id": 957,
+  "name": "伊越MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG957",
+  "robotId": "957",
+  "engineVoiceId": "create_voice_guagua_957",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。你不用立刻回答，我可以等。灯影晃了一下，心绪也跟着沉了下去。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0273_伊越MK-III_957.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0273_伊越MK-III_957.mp3",
+  "audioHash": "9ca982308a157422fde455849e1ffe96bdd9143e12fee4dfe0720cb2cd224270",
+  "durationMs": 14040,
+  "materialId": 810572019,
+  "bookId": 112161,
+  "chapterId": 25526307,
+  "updatedAt": "2026-06-22T16:40:37.691Z"
+}

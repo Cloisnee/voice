@@ -1,0 +1,20 @@
+{
+  "id": 2134,
+  "name": "冰哥旁白二代MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2134",
+  "robotId": "2134",
+  "engineVoiceId": "create_voice_guagua_2134",
+  "referenceText": "【三年前，由于某个国家的核电站不慎发生泄漏，国家陷入恐慌，磁场遭到了干扰混乱，一些武器在未被发出指令的情况下，不受控制的打击了许多国家，激起了各国的怒火，许多国家·纷纷卷入了这场战争…",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0945_冰哥旁白二代MK-III_2134.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0945_冰哥旁白二代MK-III_2134.mp3",
+  "audioHash": "a25b9bd85b9f10a15f3d05f6869139ad48eb2bb9992bdeb484031ee7808b6174",
+  "durationMs": 18720,
+  "materialId": 810622115,
+  "bookId": 112832,
+  "chapterId": 25527780,
+  "updatedAt": "2026-06-22T17:24:43.613Z"
+}

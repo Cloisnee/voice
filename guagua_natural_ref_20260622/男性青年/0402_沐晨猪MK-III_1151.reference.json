@@ -1,0 +1,20 @@
+{
+  "id": 1151,
+  "name": "沐晨猪MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1151",
+  "robotId": "1151",
+  "engineVoiceId": "create_voice_guagua_1151",
+  "referenceText": "我当然会怕，可是现在不能停下。先稳住呼吸，再看清楚前面的路。停了一会儿，语气终于慢慢平稳下来。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0402_沐晨猪MK-III_1151.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0402_沐晨猪MK-III_1151.mp3",
+  "audioHash": "6e5219b20d9a036037cecaf2499a52ac4f8c77efc8a9391b28dc17db7115b4da",
+  "durationMs": 13176,
+  "materialId": 810608415,
+  "bookId": 112290,
+  "chapterId": 25526601,
+  "updatedAt": "2026-06-22T17:12:39.714Z"
+}

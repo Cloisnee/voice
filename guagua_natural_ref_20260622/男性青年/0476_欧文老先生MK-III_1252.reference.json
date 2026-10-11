@@ -1,0 +1,20 @@
+{
+  "id": 1252,
+  "name": "欧文老先生MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1252",
+  "robotId": "1252",
+  "engineVoiceId": "create_voice_guagua_1252",
+  "referenceText": "刚才那句话，我不是随便说说。别担心，我知道自己在做什么。这句话不需要喊出来，却要让人听得真切。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0476_欧文老先生MK-III_1252.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0476_欧文老先生MK-III_1252.mp3",
+  "audioHash": "9f1cbffdfb393a757cbf4def495bbb4b2e7a455c8e0632d261b22b52ef59faf2",
+  "durationMs": 12528,
+  "materialId": 810615428,
+  "bookId": 112364,
+  "chapterId": 25526734,
+  "updatedAt": "2026-06-22T17:20:50.156Z"
+}

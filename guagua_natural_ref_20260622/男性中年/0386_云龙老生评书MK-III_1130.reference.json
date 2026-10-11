@@ -1,0 +1,20 @@
+{
+  "id": 1130,
+  "name": "云龙老生评书MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1130",
+  "robotId": "1130",
+  "engineVoiceId": "create_voice_guagua_1130",
+  "referenceText": "话说十八路诸侯围困虎牢关。袁邵派人叫阵。只听得鼓声大作，城门大开，杀出一支人马。正中央一杆大旗，是迎风招展。大旗上绣着斗（dou3）大一个“吕”字。众人定睛瞧看，来将正是吕布、吕奉先。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0386_云龙老生评书MK-III_1130.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0386_云龙老生评书MK-III_1130.mp3",
+  "audioHash": "448aaf2fd2d95718ade4e6e89000bef69350b5bf2d14e47a5ce5ae0c01ebe079",
+  "durationMs": 22848,
+  "materialId": 810604378,
+  "bookId": 112274,
+  "chapterId": 25526571,
+  "updatedAt": "2026-06-22T17:08:03.491Z"
+}

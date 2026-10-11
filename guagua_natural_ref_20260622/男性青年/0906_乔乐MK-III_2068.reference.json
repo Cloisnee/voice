@@ -1,0 +1,20 @@
+{
+  "id": 2068,
+  "name": "乔乐MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2068",
+  "robotId": "2068",
+  "engineVoiceId": "create_voice_guagua_2068",
+  "referenceText": "你听，他们还在等我回去。先稳住呼吸，再看清楚前面的路。灯影晃了一下，心绪也跟着沉了下去。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0906_乔乐MK-III_2068.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0906_乔乐MK-III_2068.mp3",
+  "audioHash": "7129eaff4d793a0cf4531af75f555808126c3249348d8e9fa8f2556fdf29fe24",
+  "durationMs": 11664,
+  "materialId": 810621698,
+  "bookId": 112793,
+  "chapterId": 25527709,
+  "updatedAt": "2026-06-22T17:24:21.810Z"
+}

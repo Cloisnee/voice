@@ -1,0 +1,20 @@
+{
+  "id": 1258,
+  "name": "青书MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1258",
+  "robotId": "1258",
+  "engineVoiceId": "create_voice_guagua_1258",
+  "referenceText": "你听，他们还在等我回去。别担心，我知道自己在做什么。灯影晃了一下，心绪也跟着沉了下去。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0480_青书MK-III_1258.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0480_青书MK-III_1258.mp3",
+  "audioHash": "9b307eb2851b0dd8cae14aa1d136a78577db09d0317922adaf6a5b371398febf",
+  "durationMs": 12744,
+  "materialId": 810615516,
+  "bookId": 112368,
+  "chapterId": 25526742,
+  "updatedAt": "2026-06-22T17:20:50.946Z"
+}

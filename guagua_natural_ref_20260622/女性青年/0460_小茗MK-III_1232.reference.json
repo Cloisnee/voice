@@ -1,0 +1,20 @@
+{
+  "id": 1232,
+  "name": "小茗MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1232",
+  "robotId": "1232",
+  "engineVoiceId": "create_voice_guagua_1232",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。如果还有机会，我想重新来一次。灯影晃了一下，心绪也跟着沉了下去。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0460_小茗MK-III_1232.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0460_小茗MK-III_1232.mp3",
+  "audioHash": "3a85a5ebfdda95cea1d47c8c19e93224bd44e49f7a670f9420c492507cb3616e",
+  "durationMs": 13440,
+  "materialId": 810614346,
+  "bookId": 112348,
+  "chapterId": 25526701,
+  "updatedAt": "2026-06-22T17:17:13.382Z"
+}

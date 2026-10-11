@@ -1,0 +1,20 @@
+{
+  "id": 997,
+  "name": "靴靴角色MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG997",
+  "robotId": "997",
+  "engineVoiceId": "create_voice_guagua_997",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。如果还有机会，我想重新来一次。帘外风声一紧，话到嘴边便轻了半分。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0296_靴靴角色MK-III_997.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0296_靴靴角色MK-III_997.mp3",
+  "audioHash": "c6544e82830cb56257afe43c25b39f0eb5837bdbd0f45de3040486316dfb218e",
+  "durationMs": 16272,
+  "materialId": 810578765,
+  "bookId": 112184,
+  "chapterId": 25526357,
+  "updatedAt": "2026-06-22T16:48:34.019Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2065,
+  "name": "行香子MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2065",
+  "robotId": "2065",
+  "engineVoiceId": "create_voice_guagua_2065",
+  "referenceText": "周谦站在她的面前，两人之间不过半米的距离。男人突然伸出手来，牵住了她的手，还轻轻地捏了捏。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0904_行香子MK-III_2065.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0904_行香子MK-III_2065.mp3",
+  "audioHash": "2b780b7e3cd64bb2c96db0fff602d7e11c62cae44bae92cc093e8896ae2a0b2f",
+  "durationMs": 9432,
+  "materialId": 810621713,
+  "bookId": 112791,
+  "chapterId": 25527705,
+  "updatedAt": "2026-06-22T17:24:20.652Z"
+}

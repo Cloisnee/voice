@@ -1,0 +1,20 @@
+{
+  "id": 1342,
+  "name": "李然MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1342",
+  "robotId": "1342",
+  "engineVoiceId": "create_voice_guagua_1342",
+  "referenceText": "我当然会怕，可是现在不能停下。如果必须有人留下，那就让我来。停了一会儿，语气终于慢慢平稳下来。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0527_李然MK-III_1342.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0527_李然MK-III_1342.mp3",
+  "audioHash": "9c2b8bfd76069e5a090cde75fd662caf3bb9eb113bcc7e24d182b062e668e41a",
+  "durationMs": 11616,
+  "materialId": 810616751,
+  "bookId": 112415,
+  "chapterId": 25526854,
+  "updatedAt": "2026-06-22T17:21:01.692Z"
+}

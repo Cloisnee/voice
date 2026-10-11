@@ -1,0 +1,20 @@
+{
+  "id": 2014,
+  "name": "八方来财MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2014",
+  "robotId": "2014",
+  "engineVoiceId": "create_voice_guagua_2014",
+  "referenceText": "刚才那句话，我不是随便说说。先稳住呼吸，再看清楚前面的路。手机屏幕暗下去以后，房间里只剩下彼此的呼吸。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/现代",
+  "audioFile": "0878_八方来财MK-III_2014.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0878_八方来财MK-III_2014.mp3",
+  "audioHash": "16f83dcad899f429b24895877503082c5f27454420256d2dc1730273eb4c27cc",
+  "durationMs": 12648,
+  "materialId": 810621790,
+  "bookId": 112765,
+  "chapterId": 25527661,
+  "updatedAt": "2026-06-22T17:24:06.265Z"
+}

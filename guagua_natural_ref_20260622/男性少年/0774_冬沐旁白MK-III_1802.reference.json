@@ -1,0 +1,20 @@
+{
+  "id": 1802,
+  "name": "冬沐旁白MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1802",
+  "robotId": "1802",
+  "engineVoiceId": "create_voice_guagua_1802",
+  "referenceText": "刚才那句话，我不是随便说说。先稳住呼吸，再看清楚前面的路。灯影晃了一下，心绪也跟着沉了下去。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0774_冬沐旁白MK-III_1802.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0774_冬沐旁白MK-III_1802.mp3",
+  "audioHash": "a2f0fdb7463c30b47c67520e8c0c2c11ef2c663d4f726886219bd05ad507e3ca",
+  "durationMs": 11712,
+  "materialId": 810620822,
+  "bookId": 112661,
+  "chapterId": 25527433,
+  "updatedAt": "2026-06-22T17:23:07.650Z"
+}

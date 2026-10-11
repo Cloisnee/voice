@@ -1,0 +1,20 @@
+{
+  "id": 1038,
+  "name": "布布MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1038",
+  "robotId": "1038",
+  "engineVoiceId": "create_voice_guagua_1038",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。我会把情绪收好，不影响接下来的事。帘外风声一紧，话到嘴边便轻了半分。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0323_布布MK-III_1038.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0323_布布MK-III_1038.mp3",
+  "audioHash": "1707809e50c0bb3cd37b179ef7fbed81eb22cf6fbd0ace6ecd7958b2f5fb183a",
+  "durationMs": 18000,
+  "materialId": 810591975,
+  "bookId": 112211,
+  "chapterId": 25526395,
+  "updatedAt": "2026-06-22T16:58:24.233Z"
+}

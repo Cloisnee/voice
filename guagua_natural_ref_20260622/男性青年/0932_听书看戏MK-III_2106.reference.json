@@ -1,0 +1,20 @@
+{
+  "id": 2106,
+  "name": "听书看戏MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2106",
+  "robotId": "2106",
+  "engineVoiceId": "create_voice_guagua_2106",
+  "referenceText": "也不知道自己为何会想到“柔弱”，可能和他的身子有关。这十日在别处宅子，听到的都是傅三爷自幼身子不好，留洋时还被西洋大夫“开膛破肚”，大伤了元气，又或许就是因为这缘由，退了三次亲，年过三旬，孑然一身",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0932_听书看戏MK-III_2106.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0932_听书看戏MK-III_2106.mp3",
+  "audioHash": "aae4a76455a300e49b63193c67f07b4095e4cca40c6a2921072baab00346472b",
+  "durationMs": 23016,
+  "materialId": 810621860,
+  "bookId": 112819,
+  "chapterId": 25527756,
+  "updatedAt": "2026-06-22T17:24:36.372Z"
+}

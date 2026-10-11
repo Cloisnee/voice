@@ -1,0 +1,20 @@
+{
+  "id": 1174,
+  "name": "萝莉MK-III",
+  "category": "女性儿童",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1174",
+  "robotId": "1174",
+  "engineVoiceId": "create_voice_guagua_1174",
+  "referenceText": "你别走得太快，我会努力跟上的。我下次一定会小心的。灯影晃了一下，心绪也跟着沉了下去。我会慢慢说清楚的。",
+  "emotionProfile": "害怕到安心，轻声停顿，尾音柔软",
+  "sampleStyle": "女性儿童/古风",
+  "audioFile": "0420_萝莉MK-III_1174.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性儿童/0420_萝莉MK-III_1174.mp3",
+  "audioHash": "eb179d92bf83ae1a5fafb6538a30751fc7362b93be3249682f220874fa662ee4",
+  "durationMs": 11784,
+  "materialId": 810610691,
+  "bookId": 112308,
+  "chapterId": 25526634,
+  "updatedAt": "2026-06-22T17:17:04.534Z"
+}

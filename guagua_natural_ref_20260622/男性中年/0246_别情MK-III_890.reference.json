@@ -1,0 +1,20 @@
+{
+  "id": 890,
+  "name": "别情MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG890",
+  "robotId": "890",
+  "engineVoiceId": "create_voice_guagua_890",
+  "referenceText": "多年经验告诉我，越平静的地方越要小心。你把人手安排好，我去看现场。灯影晃了一下，心绪也跟着沉了下去。别慌，先按计划来。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0246_别情MK-III_890.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0246_别情MK-III_890.mp3",
+  "audioHash": "8370a252dc583009ee830879a4275d6752637d2bebd6e8efb206c70f042ad498",
+  "durationMs": 12864,
+  "materialId": 810560883,
+  "bookId": 112134,
+  "chapterId": 25526264,
+  "updatedAt": "2026-06-22T16:28:04.776Z"
+}

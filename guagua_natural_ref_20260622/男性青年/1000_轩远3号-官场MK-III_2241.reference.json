@@ -1,0 +1,20 @@
+{
+  "id": 2241,
+  "name": "轩远3号-官场MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2241",
+  "robotId": "2241",
+  "engineVoiceId": "create_voice_guagua_2241",
+  "referenceText": "军人出身的林海，因为一次见义勇为，得罪了权贵，转业成为了一名乡镇公务员，却因与当地黑恶势力的斗争，不断遭到打击和压制。他却凭借着军人不屈的意志，在逆境中崛起！",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "1000_轩远3号-官场MK-III_2241.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/1000_轩远3号-官场MK-III_2241.mp3",
+  "audioHash": "b0625828d660142a77009b66c80cf2f17b2df87a11c7653d2fa3fe4cd351a608",
+  "durationMs": 15936,
+  "materialId": 810622149,
+  "bookId": 112887,
+  "chapterId": 25527871,
+  "updatedAt": "2026-06-22T17:25:13.863Z"
+}

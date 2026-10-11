@@ -1,0 +1,20 @@
+{
+  "id": 1522,
+  "name": "志明MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1522",
+  "robotId": "1522",
+  "engineVoiceId": "create_voice_guagua_1522",
+  "referenceText": "多年经验告诉我，越平静的地方越要小心。你把人手安排好，我去看现场。灯影晃了一下，心绪也跟着沉了下去。别慌，先按计划来。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0618_志明MK-III_1522.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0618_志明MK-III_1522.mp3",
+  "audioHash": "9a1578bccaa51785cae41f2f75277f4efa2b26fefbe43b76ade516b96d4c2c90",
+  "durationMs": 12168,
+  "materialId": 810619103,
+  "bookId": 112506,
+  "chapterId": 25527187,
+  "updatedAt": "2026-06-22T17:21:39.948Z"
+}

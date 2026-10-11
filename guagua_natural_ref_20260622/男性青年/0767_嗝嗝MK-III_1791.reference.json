@@ -1,0 +1,20 @@
+{
+  "id": 1791,
+  "name": "嗝嗝MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1791",
+  "robotId": "1791",
+  "engineVoiceId": "create_voice_guagua_1791",
+  "referenceText": "方羽今年刚研究生毕业，成为滨海市人民医院妇科唯一的男医生。唐颖就像她的名字一样，美丽性感，尤其是一张厚唇，让美丽的瓜子脸更添风情，少妇气息更加浓烈。唐颖美丽的容颜，配上成熟妩媚的娇躯，简直就是能够让人",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0767_嗝嗝MK-III_1791.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0767_嗝嗝MK-III_1791.mp3",
+  "audioHash": "d69e0eb92dd3f77c26c4b7c63bee10f67ff36033bf87e5dfb856b1101b76fa06",
+  "durationMs": 21264,
+  "materialId": 810620764,
+  "bookId": 112654,
+  "chapterId": 25527422,
+  "updatedAt": "2026-06-22T17:23:03.701Z"
+}

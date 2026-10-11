@@ -1,0 +1,20 @@
+{
+  "id": 1417,
+  "name": "呓语MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1417",
+  "robotId": "1417",
+  "engineVoiceId": "create_voice_guagua_1417",
+  "referenceText": "你听，他们还在等我回去。我会把人带回来，也会给你一个交代。这句话不需要喊出来，却要让人听得真切。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0561_呓语MK-III_1417.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0561_呓语MK-III_1417.mp3",
+  "audioHash": "bb2f77c19d5f5f659a3466690fe46dc29331b54d89ac5dd1c30d0caa086e8201",
+  "durationMs": 12672,
+  "materialId": 810617951,
+  "bookId": 112449,
+  "chapterId": 25526913,
+  "updatedAt": "2026-06-22T17:21:09.575Z"
+}

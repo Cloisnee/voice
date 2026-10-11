@@ -1,0 +1,20 @@
+{
+  "id": 1349,
+  "name": "小小狸-星衍MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1349",
+  "robotId": "1349",
+  "engineVoiceId": "create_voice_guagua_1349",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。如果还有机会，我想重新来一次。帘外风声一紧，话到嘴边便轻了半分。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0532_小小狸-星衍MK-III_1349.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0532_小小狸-星衍MK-III_1349.mp3",
+  "audioHash": "1f75cd0ea3e143dcb4e4b45b1030e39ce0d8b8358e10396e12499dee245ea3a7",
+  "durationMs": 16824,
+  "materialId": 810617180,
+  "bookId": 112420,
+  "chapterId": 25526864,
+  "updatedAt": "2026-06-22T17:21:02.759Z"
+}

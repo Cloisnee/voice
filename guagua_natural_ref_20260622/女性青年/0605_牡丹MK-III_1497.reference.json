@@ -1,0 +1,20 @@
+{
+  "id": 1497,
+  "name": "牡丹MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1497",
+  "robotId": "1497",
+  "engineVoiceId": "create_voice_guagua_1497",
+  "referenceText": "暮春的雨，淅淅沥沥打湿了雕花窗棂，也打湿了窗内人拢着的那支白梅。\n 沈清辞指尖微凉，捻着梅枝上的残雪，抬眼时，正撞进萧珩深如寒潭的眸子里。他一身玄色锦袍，袍角沾着未干的雨渍，不知在廊下站了多久……",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0605_牡丹MK-III_1497.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0605_牡丹MK-III_1497.mp3",
+  "audioHash": "50b6a4e27b8e1be7e0458513fc2ddc3b45b432fb0f25fa1844b7dff3c81a0599",
+  "durationMs": 21456,
+  "materialId": 810618743,
+  "bookId": 112493,
+  "chapterId": 25527167,
+  "updatedAt": "2026-06-22T17:21:33.021Z"
+}

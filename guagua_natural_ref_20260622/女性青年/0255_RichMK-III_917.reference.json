@@ -1,0 +1,20 @@
+{
+  "id": 917,
+  "name": "RichMK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG917",
+  "robotId": "917",
+  "engineVoiceId": "create_voice_guagua_917",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。我会把情绪收好，不影响接下来的事。灯影晃了一下，心绪也跟着沉了下去。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0255_RichMK-III_917.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0255_RichMK-III_917.mp3",
+  "audioHash": "5dce5bf8c29a2c52a05409232833ff77bf9a53f732b6c31dc318c4adce27a75b",
+  "durationMs": 14280,
+  "materialId": 810561176,
+  "bookId": 112143,
+  "chapterId": 25526280,
+  "updatedAt": "2026-06-22T16:28:06.778Z"
+}

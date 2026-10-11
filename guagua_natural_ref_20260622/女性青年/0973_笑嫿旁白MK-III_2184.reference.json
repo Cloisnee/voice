@@ -1,0 +1,20 @@
+{
+  "id": 2184,
+  "name": "笑嫿旁白MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2184",
+  "robotId": "2184",
+  "engineVoiceId": "create_voice_guagua_2184",
+  "referenceText": "春耕时节，佟穗潦潦草草地出嫁了。夫家远在二十里外，她从未去过。她也从未见过那位在外服了六年兵役的夫君，只听说，他一身杀气，一般的等闲之辈都不敢招惹。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0973_笑嫿旁白MK-III_2184.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0973_笑嫿旁白MK-III_2184.mp3",
+  "audioHash": "dafe80e90dbd48100348dd00b1ff2c70c5bbcab9e77016a3ea4bc83bbf219b0a",
+  "durationMs": 16272,
+  "materialId": 810622210,
+  "bookId": 112860,
+  "chapterId": 25527829,
+  "updatedAt": "2026-06-22T17:24:59.272Z"
+}

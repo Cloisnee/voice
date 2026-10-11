@@ -1,0 +1,20 @@
+{
+  "id": 2186,
+  "name": "思有为MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2186",
+  "robotId": "2186",
+  "engineVoiceId": "create_voice_guagua_2186",
+  "referenceText": "张青山全然没注意到这些，他只感觉伤口在最开始酒精碰上去痛了一下之后，现在非但已经不疼了，甚至因为酒精挥发带来的凉意，加上乔寡妇轻轻的抚摸，开始有了舒爽的感觉，舒服得让他恨不得粗喘出声。可惜好景不长，",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0974_思有为MK-III_2186.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0974_思有为MK-III_2186.mp3",
+  "audioHash": "c40efacfadf00eb23aea87e645c21507c55b604cad0ad5bc6c50ee4a96b66c06",
+  "durationMs": 21408,
+  "materialId": 810622077,
+  "bookId": 112861,
+  "chapterId": 25527830,
+  "updatedAt": "2026-06-22T17:24:59.776Z"
+}

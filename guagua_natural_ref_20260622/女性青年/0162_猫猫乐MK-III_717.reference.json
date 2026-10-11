@@ -1,0 +1,20 @@
+{
+  "id": 717,
+  "name": "猫猫乐MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG717",
+  "robotId": "717",
+  "engineVoiceId": "create_voice_guagua_717",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。算了，我们先往前走吧。停了一会儿，语气终于慢慢平稳下来。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0162_猫猫乐MK-III_717.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0162_猫猫乐MK-III_717.mp3",
+  "audioHash": "5df3dfd9d67a77a710bbb96f5b77c6f43eb66bcda0c746b56bb4db2081c3bfe3",
+  "durationMs": 13680,
+  "materialId": 810472974,
+  "bookId": 112071,
+  "chapterId": 25525097,
+  "updatedAt": "2026-06-22T15:31:05.622Z"
+}

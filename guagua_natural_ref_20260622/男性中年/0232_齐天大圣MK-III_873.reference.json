@@ -1,0 +1,20 @@
+{
+  "id": 873,
+  "name": "齐天大圣MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG873",
+  "robotId": "873",
+  "engineVoiceId": "create_voice_guagua_873",
+  "referenceText": "这件事没你想得那么简单。稳住局面，比什么都重要。帘外风声一紧，话到嘴边便轻了半分。等证据齐了，再做决定。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0232_齐天大圣MK-III_873.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0232_齐天大圣MK-III_873.mp3",
+  "audioHash": "113f51563295d1aa5b235e532f62746602b85f0713711594c5e52a66ceac553d",
+  "durationMs": 11280,
+  "materialId": 810561122,
+  "bookId": 112132,
+  "chapterId": 25526256,
+  "updatedAt": "2026-06-22T16:28:04.316Z"
+}

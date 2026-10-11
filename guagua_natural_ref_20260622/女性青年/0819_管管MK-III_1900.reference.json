@@ -1,0 +1,20 @@
+{
+  "id": 1900,
+  "name": "管管MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1900",
+  "robotId": "1900",
+  "engineVoiceId": "create_voice_guagua_1900",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。我会把情绪收好，不影响接下来的事。窗外车声一闪而过，语气也慢慢稳住了。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/现代",
+  "audioFile": "0819_管管MK-III_1900.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0819_管管MK-III_1900.mp3",
+  "audioHash": "046c361013eb5819eb039a7dfd0ea0ea6edd7ded0d7cffd695c262f1c30a52f5",
+  "durationMs": 15168,
+  "materialId": 810621432,
+  "bookId": 112706,
+  "chapterId": 25527572,
+  "updatedAt": "2026-06-22T17:23:33.692Z"
+}

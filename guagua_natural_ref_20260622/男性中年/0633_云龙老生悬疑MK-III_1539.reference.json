@@ -1,0 +1,20 @@
+{
+  "id": 1539,
+  "name": "云龙老生悬疑MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1539",
+  "robotId": "1539",
+  "engineVoiceId": "create_voice_guagua_1539",
+  "referenceText": "一个老旧的钨丝灯被黑色的电线悬在屋子中央，闪烁着昏暗的光芒。静谧的气氛犹如墨汁滴入清水，正在房间内染延。\n房间中央放着一张大圆桌，已经斑驳不堪，桌子中央立着一尊小小的座钟，花纹十分繁复，此刻正滴答作响",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0633_云龙老生悬疑MK-III_1539.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0633_云龙老生悬疑MK-III_1539.mp3",
+  "audioHash": "729dd61268915cfdbc1b163f219ad6698f39dff543825ad98d3e2f5faeb5136c",
+  "durationMs": 23328,
+  "materialId": 810619207,
+  "bookId": 112521,
+  "chapterId": 25527207,
+  "updatedAt": "2026-06-22T17:21:48.639Z"
+}

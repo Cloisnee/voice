@@ -1,0 +1,20 @@
+{
+  "id": 1852,
+  "name": "文姐姐MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1852",
+  "robotId": "1852",
+  "engineVoiceId": "create_voice_guagua_1852",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。如果还有机会，我想重新来一次。这句话不需要喊出来，却要让人听得真切。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0800_文姐姐MK-III_1852.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0800_文姐姐MK-III_1852.mp3",
+  "audioHash": "74e815670c2ebab2720f487ccfc5cce0217f54787702d2c707075b03fe51e68a",
+  "durationMs": 13560,
+  "materialId": 810620965,
+  "bookId": 112687,
+  "chapterId": 25527545,
+  "updatedAt": "2026-06-22T17:23:22.736Z"
+}

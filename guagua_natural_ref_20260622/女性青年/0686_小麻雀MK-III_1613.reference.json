@@ -1,0 +1,20 @@
+{
+  "id": 1613,
+  "name": "小麻雀MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1613",
+  "robotId": "1613",
+  "engineVoiceId": "create_voice_guagua_1613",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。算了，我们先往前走吧。帘外风声一紧，话到嘴边便轻了半分。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0686_小麻雀MK-III_1613.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0686_小麻雀MK-III_1613.mp3",
+  "audioHash": "574eec8ee3dc225e902be0f35134ac80007d75de4fa2e97f2d3135951ce6b601",
+  "durationMs": 15336,
+  "materialId": 810619848,
+  "bookId": 112574,
+  "chapterId": 25527287,
+  "updatedAt": "2026-06-22T17:22:18.171Z"
+}

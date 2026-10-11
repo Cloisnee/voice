@@ -1,0 +1,20 @@
+{
+  "id": 2001,
+  "name": "恐龙乐园MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2001",
+  "robotId": "2001",
+  "engineVoiceId": "create_voice_guagua_2001",
+  "referenceText": "多年经验告诉我，越平静的地方越要小心。有些责任，躲是躲不过去的。灯影晃了一下，心绪也跟着沉了下去。天亮之前，我们必须有结果。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0871_恐龙乐园MK-III_2001.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0871_恐龙乐园MK-III_2001.mp3",
+  "audioHash": "895ee168aca049daf117581d272fe87053ea3968c1fb9846f39edf8dc89e15aa",
+  "durationMs": 14040,
+  "materialId": 810621776,
+  "bookId": 112758,
+  "chapterId": 25527651,
+  "updatedAt": "2026-06-22T17:24:02.288Z"
+}

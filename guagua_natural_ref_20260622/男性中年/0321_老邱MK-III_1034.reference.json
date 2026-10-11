@@ -1,0 +1,20 @@
+{
+  "id": 1034,
+  "name": "老邱MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1034",
+  "robotId": "1034",
+  "engineVoiceId": "create_voice_guagua_1034",
+  "referenceText": "我不是不相信你，只是现在必须谨慎。该问的一个都不能漏。帘外风声一紧，话到嘴边便轻了半分。这句话我只说一遍，你记住。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0321_老邱MK-III_1034.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0321_老邱MK-III_1034.mp3",
+  "audioHash": "d462ffe16dc98f7c417b0e44d869b5c1e265464d480827ff3eb0a4962e227762",
+  "durationMs": 12600,
+  "materialId": 810591664,
+  "bookId": 112209,
+  "chapterId": 25526392,
+  "updatedAt": "2026-06-22T16:58:23.805Z"
+}

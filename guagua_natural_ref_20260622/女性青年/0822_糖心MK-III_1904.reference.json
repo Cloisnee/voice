@@ -1,0 +1,20 @@
+{
+  "id": 1904,
+  "name": "糖心MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1904",
+  "robotId": "1904",
+  "engineVoiceId": "create_voice_guagua_1904",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。算了，我们先往前走吧。这句话不需要喊出来，却要让人听得真切。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0822_糖心MK-III_1904.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0822_糖心MK-III_1904.mp3",
+  "audioHash": "1e4c0149f0dc78b5a214d0e86e14df7577fae974c5c84713993eaef8b57dd96e",
+  "durationMs": 15336,
+  "materialId": 810621108,
+  "bookId": 112709,
+  "chapterId": 25527576,
+  "updatedAt": "2026-06-22T17:23:35.298Z"
+}

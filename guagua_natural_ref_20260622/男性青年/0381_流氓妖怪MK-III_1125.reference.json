@@ -1,0 +1,20 @@
+{
+  "id": 1125,
+  "name": "流氓妖怪MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1125",
+  "robotId": "1125",
+  "engineVoiceId": "create_voice_guagua_1125",
+  "referenceText": "你听，他们还在等我回去。别担心，我知道自己在做什么。这句话不需要喊出来，却要让人听得真切。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0381_流氓妖怪MK-III_1125.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0381_流氓妖怪MK-III_1125.mp3",
+  "audioHash": "f551cd61e7c71bc34b04419e3c04991f788d21b0a46ff69b71d9db0ec22adf5c",
+  "durationMs": 10848,
+  "materialId": 810604074,
+  "bookId": 112269,
+  "chapterId": 25526487,
+  "updatedAt": "2026-06-22T17:08:02.403Z"
+}

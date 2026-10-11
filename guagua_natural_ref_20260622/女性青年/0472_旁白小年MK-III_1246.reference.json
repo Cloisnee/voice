@@ -1,0 +1,20 @@
+{
+  "id": 1246,
+  "name": "旁白小年MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1246",
+  "robotId": "1246",
+  "engineVoiceId": "create_voice_guagua_1246",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。如果还有机会，我想重新来一次。这句话不需要喊出来，却要让人听得真切。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0472_旁白小年MK-III_1246.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0472_旁白小年MK-III_1246.mp3",
+  "audioHash": "5c9690ac3e68ac28e4aaebcf2d1c567d9f201bdc53b4bd0fcf5958fd84e94c7c",
+  "durationMs": 13512,
+  "materialId": 810615302,
+  "bookId": 112360,
+  "chapterId": 25526725,
+  "updatedAt": "2026-06-22T17:20:49.260Z"
+}

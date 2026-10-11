@@ -1,0 +1,20 @@
+{
+  "id": 55,
+  "name": "闻雪",
+  "category": "女性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG55",
+  "robotId": "55",
+  "engineVoiceId": "create_voice_guagua_55",
+  "referenceText": "我知道你委屈，可委屈不能替你做决定。慢慢说，我听着呢。这句话不需要喊出来，却要让人听得真切。这话不重，可你得记在心里。",
+  "emotionProfile": "沉稳安抚，低强度情绪起伏",
+  "sampleStyle": "女性中年/通用",
+  "audioFile": "0025_闻雪_55.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性中年/0025_闻雪_55.mp3",
+  "audioHash": "e4780aebc6146fc9809816fe5c0483616959db12efa6348420364e90341c4506",
+  "durationMs": 16800,
+  "materialId": 810371696,
+  "bookId": 111988,
+  "chapterId": 25524062,
+  "updatedAt": "2026-06-22T14:25:49.978Z"
+}

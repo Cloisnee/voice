@@ -1,0 +1,20 @@
+{
+  "id": 2064,
+  "name": "白月MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2064",
+  "robotId": "2064",
+  "engineVoiceId": "create_voice_guagua_2064",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。我会把情绪收好，不影响接下来的事。帘外风声一紧，话到嘴边便轻了半分。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0903_白月MK-III_2064.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0903_白月MK-III_2064.mp3",
+  "audioHash": "49c69964e079f75f5d13fb52f595729fe6b2909243c3c95bbf33f865e94413e4",
+  "durationMs": 16704,
+  "materialId": 810622147,
+  "bookId": 112790,
+  "chapterId": 25527702,
+  "updatedAt": "2026-06-22T17:24:20.068Z"
+}

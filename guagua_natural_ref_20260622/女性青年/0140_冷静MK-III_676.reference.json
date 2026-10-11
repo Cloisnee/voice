@@ -1,0 +1,20 @@
+{
+  "id": 676,
+  "name": "冷静MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG676",
+  "robotId": "676",
+  "engineVoiceId": "create_voice_guagua_676",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。如果还有机会，我想重新来一次。灯影晃了一下，心绪也跟着沉了下去。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0140_冷静MK-III_676.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0140_冷静MK-III_676.mp3",
+  "audioHash": "4ff8bb45e9b3f25aa52f818e068d74b0b6b5c1f0939dde336dcc5c8a918ab7e9",
+  "durationMs": 15216,
+  "materialId": 810435632,
+  "bookId": 112049,
+  "chapterId": 25524479,
+  "updatedAt": "2026-06-22T15:06:23.528Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2149,
+  "name": "依酒MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2149",
+  "robotId": "2149",
+  "engineVoiceId": "create_voice_guagua_2149",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。我会把情绪收好，不影响接下来的事。手机屏幕暗下去以后，房间里只剩下彼此的呼吸。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/现代",
+  "audioFile": "0955_依酒MK-III_2149.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0955_依酒MK-III_2149.mp3",
+  "audioHash": "7e58cd10c324c63e02f209454fda4226468c249fa34994c8377a60de0462e5ce",
+  "durationMs": 15840,
+  "materialId": 810621936,
+  "bookId": 112842,
+  "chapterId": 25527798,
+  "updatedAt": "2026-06-22T17:24:49.373Z"
+}

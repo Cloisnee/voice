@@ -1,0 +1,20 @@
+{
+  "id": 1977,
+  "name": "旺书二代MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1977",
+  "robotId": "1977",
+  "engineVoiceId": "create_voice_guagua_1977",
+  "referenceText": "他置身于昏暗狭窄的环境，坐在炕上，身后的玻璃窗上碎了几道口子，盖着几块破旧的塑料布。\n一阵冷风吹来，塑料布咔嚓咔嚓作响。\n张云扬冷得一阵哆嗦，一股陌生的记忆随之涌入脑海……",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0857_旺书二代MK-III_1977.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0857_旺书二代MK-III_1977.mp3",
+  "audioHash": "a7bde011318ccdab2dc585331f5a3328c156948587be29be26a41fd0f2c66e4e",
+  "durationMs": 17928,
+  "materialId": 810621639,
+  "bookId": 112744,
+  "chapterId": 25527628,
+  "updatedAt": "2026-06-22T17:23:54.648Z"
+}

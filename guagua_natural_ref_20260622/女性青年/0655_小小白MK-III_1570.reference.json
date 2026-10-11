@@ -1,0 +1,20 @@
+{
+  "id": 1570,
+  "name": "小小白MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1570",
+  "robotId": "1570",
+  "engineVoiceId": "create_voice_guagua_1570",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。我会把情绪收好，不影响接下来的事。帘外风声一紧，话到嘴边便轻了半分。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0655_小小白MK-III_1570.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0655_小小白MK-III_1570.mp3",
+  "audioHash": "6f8097f4e9c1d710fbad5d921e928c3e9204b2d0bbba219b29e96f80b5c43fbf",
+  "durationMs": 17712,
+  "materialId": 810619489,
+  "bookId": 112543,
+  "chapterId": 25527240,
+  "updatedAt": "2026-06-22T17:22:01.042Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1200,
+  "name": "小西MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1200",
+  "robotId": "1200",
+  "engineVoiceId": "create_voice_guagua_1200",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。算了，我们先往前走吧。这句话不需要喊出来，却要让人听得真切。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0442_小西MK-III_1200.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0442_小西MK-III_1200.mp3",
+  "audioHash": "7ce9ad7ff03d3c8bd65f914a7194019de06a62b75c57c0cd07144a534e103a5f",
+  "durationMs": 13728,
+  "materialId": 810613516,
+  "bookId": 112330,
+  "chapterId": 25526672,
+  "updatedAt": "2026-06-22T17:17:09.435Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 59,
+  "name": "闻宏",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG59",
+  "robotId": "59",
+  "engineVoiceId": "create_voice_guagua_59",
+  "referenceText": "多年经验告诉我，越平静的地方越要小心。该问的一个都不能漏。这句话不需要喊出来，却要让人听得真切。别慌，先按计划来。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/通用",
+  "audioFile": "0029_闻宏_59.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0029_闻宏_59.mp3",
+  "audioHash": "4e40eae200eab7387c07925348d8e2df66fb7a972e29adfe78c1428e177acfb3",
+  "durationMs": 16224,
+  "materialId": 810371867,
+  "bookId": 111992,
+  "chapterId": 25524068,
+  "updatedAt": "2026-06-22T14:25:51.064Z"
+}

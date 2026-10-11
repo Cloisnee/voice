@@ -1,0 +1,20 @@
+{
+  "id": 1951,
+  "name": "程以沫子MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1951",
+  "robotId": "1951",
+  "engineVoiceId": "create_voice_guagua_1951",
+  "referenceText": "过了良久，秦牧停下，服下两枚固元丹，补充急剧消耗的元气，细细思索自己元气运用上的不足。\n他原本只能服下一枚固元丹，便会被撑得发狂，而自从他的灵胎睡着苏醒之后，服下两枚固元丹也没有什么大碍，只是撑得慌。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0847_程以沫子MK-III_1951.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0847_程以沫子MK-III_1951.mp3",
+  "audioHash": "67f2b46ec9b2a551b5bc7922fe54168a96440885234fdb9f03ffcdb2fae31056",
+  "durationMs": 19296,
+  "materialId": 810621271,
+  "bookId": 112734,
+  "chapterId": 25527613,
+  "updatedAt": "2026-06-22T17:23:49.009Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2075,
+  "name": "暮小桑MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2075",
+  "robotId": "2075",
+  "engineVoiceId": "create_voice_guagua_2075",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。算了，我们先往前走吧。停了一会儿，语气终于慢慢平稳下来。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0910_暮小桑MK-III_2075.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0910_暮小桑MK-III_2075.mp3",
+  "audioHash": "6358c55576c5c088df95e799d6b30933b4a28fdf64045f540ea7598d4165d188",
+  "durationMs": 14928,
+  "materialId": 810622166,
+  "bookId": 112797,
+  "chapterId": 25527717,
+  "updatedAt": "2026-06-22T17:24:24.043Z"
+}

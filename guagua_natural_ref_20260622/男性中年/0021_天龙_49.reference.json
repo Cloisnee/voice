@@ -1,0 +1,20 @@
+{
+  "id": 49,
+  "name": "天龙",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG49",
+  "robotId": "49",
+  "engineVoiceId": "create_voice_guagua_49",
+  "referenceText": "先别急着下结论，把前因后果都弄清楚再说。该问的一个都不能漏。门外那一点动静，让所有话都停在了半空。等证据齐了，再做决定。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/悬疑",
+  "audioFile": "0021_天龙_49.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0021_天龙_49.mp3",
+  "audioHash": "e2cd5d06236286d04e30893617b94f31776da00c3b6a5a5a2107f0fb5df85328",
+  "durationMs": 14040,
+  "materialId": 810371592,
+  "bookId": 111984,
+  "chapterId": 25524055,
+  "updatedAt": "2026-06-22T14:25:48.825Z"
+}

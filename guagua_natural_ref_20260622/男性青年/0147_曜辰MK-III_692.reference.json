@@ -1,0 +1,20 @@
+{
+  "id": 692,
+  "name": "曜辰MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG692",
+  "robotId": "692",
+  "engineVoiceId": "create_voice_guagua_692",
+  "referenceText": "事情已经到了这一步，退后反而更危险。如果必须有人留下，那就让我来。停了一会儿，语气终于慢慢平稳下来。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0147_曜辰MK-III_692.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0147_曜辰MK-III_692.mp3",
+  "audioHash": "146ac615f6ae62abcea6a2818cd9ad7cf7e2b5a517d7a348ffc3a5c3ff40d3ba",
+  "durationMs": 13368,
+  "materialId": 810448315,
+  "bookId": 112056,
+  "chapterId": 25525075,
+  "updatedAt": "2026-06-22T15:12:00.973Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1107,
+  "name": "天策角色MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1107",
+  "robotId": "1107",
+  "engineVoiceId": "create_voice_guagua_1107",
+  "referenceText": "你听，他们还在等我回去。先稳住呼吸，再看清楚前面的路。手机屏幕暗下去以后，房间里只剩下彼此的呼吸。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/现代",
+  "audioFile": "0367_天策角色MK-III_1107.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0367_天策角色MK-III_1107.mp3",
+  "audioHash": "7584fee1e0cdae881ca3b3b997f5c4ca8f90bbe10aff704b6e6978363a049fb2",
+  "durationMs": 12384,
+  "materialId": 810603277,
+  "bookId": 112255,
+  "chapterId": 25526467,
+  "updatedAt": "2026-06-22T17:07:59.146Z"
+}

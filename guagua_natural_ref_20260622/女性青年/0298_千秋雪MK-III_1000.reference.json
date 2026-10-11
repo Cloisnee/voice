@@ -1,0 +1,20 @@
+{
+  "id": 1000,
+  "name": "千秋雪MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1000",
+  "robotId": "1000",
+  "engineVoiceId": "create_voice_guagua_1000",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。算了，我们先往前走吧。这句话不需要喊出来，却要让人听得真切。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0298_千秋雪MK-III_1000.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0298_千秋雪MK-III_1000.mp3",
+  "audioHash": "ba26df6c3fa7663f4e82969546b5896891f37ac8ce004c6df636285b9fad6c67",
+  "durationMs": 14760,
+  "materialId": 810580290,
+  "bookId": 112186,
+  "chapterId": 25526359,
+  "updatedAt": "2026-06-22T16:48:34.412Z"
+}

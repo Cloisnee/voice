@@ -1,0 +1,20 @@
+{
+  "id": 1369,
+  "name": "东方MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1369",
+  "robotId": "1369",
+  "engineVoiceId": "create_voice_guagua_1369",
+  "referenceText": "这件事没你想得那么简单。稳住局面，比什么都重要。帘外风声一紧，话到嘴边便轻了半分。等证据齐了，再做决定。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0540_东方MK-III_1369.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0540_东方MK-III_1369.mp3",
+  "audioHash": "a9ad7096d6fec7170e7cab6edab844ea9ca1a02f6779eed8a85e7f6b97df5d72",
+  "durationMs": 10056,
+  "materialId": 810617614,
+  "bookId": 112428,
+  "chapterId": 25526877,
+  "updatedAt": "2026-06-22T17:21:04.561Z"
+}

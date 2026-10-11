@@ -1,0 +1,20 @@
+{
+  "id": 2112,
+  "name": "安安MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2112",
+  "robotId": "2112",
+  "engineVoiceId": "create_voice_guagua_2112",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。你不用立刻回答，我可以等。帘外风声一紧，话到嘴边便轻了半分。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0933_安安MK-III_2112.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0933_安安MK-III_2112.mp3",
+  "audioHash": "b862b3d0a83285a1c9f7421e34bb15518afc09a63bb39dae87337c6aa335fc65",
+  "durationMs": 16968,
+  "materialId": 810621853,
+  "bookId": 112820,
+  "chapterId": 25527757,
+  "updatedAt": "2026-06-22T17:24:36.932Z"
+}

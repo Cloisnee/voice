@@ -1,0 +1,20 @@
+{
+  "id": 46,
+  "name": "天武",
+  "category": "男性老年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG46",
+  "robotId": "46",
+  "engineVoiceId": "create_voice_guagua_46",
+  "referenceText": "风浪见多了，就知道什么该放，什么该守。先坐下，把气喘匀了再说。灯影晃了一下，心绪也跟着沉了下去。等你真正明白，就不会怪我。",
+  "emotionProfile": "阅历感、慢节奏、劝诫语气",
+  "sampleStyle": "男性老年/古风",
+  "audioFile": "0018_天武_46.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性老年/0018_天武_46.mp3",
+  "audioHash": "8d35afc79e24c6ce210ef962678895b276c9ae9642beab69707353c75839bf7c",
+  "durationMs": 15384,
+  "materialId": 810355353,
+  "bookId": 111981,
+  "chapterId": 25523549,
+  "updatedAt": "2026-06-22T14:25:26.213Z"
+}

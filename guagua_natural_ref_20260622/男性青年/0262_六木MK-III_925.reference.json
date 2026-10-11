@@ -1,0 +1,20 @@
+{
+  "id": 925,
+  "name": "六木MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG925",
+  "robotId": "925",
+  "engineVoiceId": "create_voice_guagua_925",
+  "referenceText": "事情已经到了这一步，退后反而更危险。先稳住呼吸，再看清楚前面的路。帘外风声一紧，话到嘴边便轻了半分。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0262_六木MK-III_925.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0262_六木MK-III_925.mp3",
+  "audioHash": "c4e06bc6f49983d3602c9bb8ee9016d43afd616b710d4b174befd1314dc02187",
+  "durationMs": 12600,
+  "materialId": 810562824,
+  "bookId": 112150,
+  "chapterId": 25526290,
+  "updatedAt": "2026-06-22T16:35:10.324Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1840,
+  "name": "撒旦先生MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1840",
+  "robotId": "1840",
+  "engineVoiceId": "create_voice_guagua_1840",
+  "referenceText": "我当然会怕，可是现在不能停下。我会把人带回来，也会给你一个交代。停了一会儿，语气终于慢慢平稳下来。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0797_撒旦先生MK-III_1840.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0797_撒旦先生MK-III_1840.mp3",
+  "audioHash": "93f278ed086fff945e470f8c4ccc9d5a76145f4f1f5debec6f4b3f24e7eb2aef",
+  "durationMs": 12216,
+  "materialId": 810620978,
+  "bookId": 112684,
+  "chapterId": 25527540,
+  "updatedAt": "2026-06-22T17:23:21.033Z"
+}

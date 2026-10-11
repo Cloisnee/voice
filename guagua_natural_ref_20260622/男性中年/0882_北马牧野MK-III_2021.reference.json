@@ -1,0 +1,20 @@
+{
+  "id": 2021,
+  "name": "北马牧野MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2021",
+  "robotId": "2021",
+  "engineVoiceId": "create_voice_guagua_2021",
+  "referenceText": "黑色的,四周都是黑色的,除了角落里那一抹刺眼的白",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/悬疑",
+  "audioFile": "0882_北马牧野MK-III_2021.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0882_北马牧野MK-III_2021.mp3",
+  "audioHash": "34eeec3839a61afc928d1bc1da380cbe3ce81d9ab09ca5a540a42f2df82dbb22",
+  "durationMs": 6192,
+  "materialId": 810621566,
+  "bookId": 112769,
+  "chapterId": 25527668,
+  "updatedAt": "2026-06-22T17:24:08.331Z"
+}

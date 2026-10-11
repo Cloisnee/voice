@@ -1,0 +1,20 @@
+{
+  "id": 1131,
+  "name": "婳婳正太MK-III",
+  "category": "男性儿童",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1131",
+  "robotId": "1131",
+  "engineVoiceId": "create_voice_guagua_1131",
+  "referenceText": "我还能继续跑，一点都不怕。等一下，我把话说完就走。灯影晃了一下，心绪也跟着沉了下去。我已经准备好了。",
+  "emotionProfile": "逞强、害怕、恢复勇气",
+  "sampleStyle": "男性儿童/古风",
+  "audioFile": "0387_婳婳正太MK-III_1131.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性儿童/0387_婳婳正太MK-III_1131.mp3",
+  "audioHash": "e250f842a87284afbc736e63889846116a2d253d2ef97d721b365b75d8d596fa",
+  "durationMs": 12144,
+  "materialId": 810604551,
+  "bookId": 112275,
+  "chapterId": 25526573,
+  "updatedAt": "2026-06-22T17:08:03.691Z"
+}

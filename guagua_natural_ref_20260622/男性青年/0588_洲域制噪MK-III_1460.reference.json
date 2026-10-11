@@ -1,0 +1,20 @@
+{
+  "id": 1460,
+  "name": "洲域制噪MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1460",
+  "robotId": "1460",
+  "engineVoiceId": "create_voice_guagua_1460",
+  "referenceText": "这里是洲域制噪。青年男声，沉稳清爽、蓄势走心，亦可大气磅礴。无论是玄幻的热血燃魂、都市的烟火人间，还是悬疑的诡谲张力、仙侠的悠远意境，都能以层次饱满的声线，为你演绎沉浸式听觉盛宴。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0588_洲域制噪MK-III_1460.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0588_洲域制噪MK-III_1460.mp3",
+  "audioHash": "746f085f36a12cdab962d20a2d6cd1773c408f2cab04f5e4d42452fb548f826d",
+  "durationMs": 20136,
+  "materialId": 810618466,
+  "bookId": 112476,
+  "chapterId": 25527141,
+  "updatedAt": "2026-06-22T17:21:23.583Z"
+}

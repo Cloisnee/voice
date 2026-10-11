@@ -1,0 +1,20 @@
+{
+  "id": 2156,
+  "name": "有点特别MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2156",
+  "robotId": "2156",
+  "engineVoiceId": "create_voice_guagua_2156",
+  "referenceText": "刚才那句话，我不是随便说说。别担心，我知道自己在做什么。手机屏幕暗下去以后，房间里只剩下彼此的呼吸。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/现代",
+  "audioFile": "0960_有点特别MK-III_2156.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0960_有点特别MK-III_2156.mp3",
+  "audioHash": "2c1df5204d7b8ba91a63f2a3737db70125cd4d10579c464d3d2bd5f8a21d3557",
+  "durationMs": 12576,
+  "materialId": 810622170,
+  "bookId": 112847,
+  "chapterId": 25527807,
+  "updatedAt": "2026-06-22T17:24:52.068Z"
+}

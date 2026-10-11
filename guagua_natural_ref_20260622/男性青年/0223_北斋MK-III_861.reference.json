@@ -1,0 +1,20 @@
+{
+  "id": 861,
+  "name": "北斋MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG861",
+  "robotId": "861",
+  "engineVoiceId": "create_voice_guagua_861",
+  "referenceText": "刚才那句话，我不是随便说说。如果必须有人留下，那就让我来。灯影晃了一下，心绪也跟着沉了下去。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0223_北斋MK-III_861.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0223_北斋MK-III_861.mp3",
+  "audioHash": "ae9863c5ae404ffba1ed039615bf079fd903b43d2646e6c0891377fb9d023a3d",
+  "durationMs": 12072,
+  "materialId": 810542795,
+  "bookId": 112122,
+  "chapterId": 25525847,
+  "updatedAt": "2026-06-22T16:16:33.381Z"
+}

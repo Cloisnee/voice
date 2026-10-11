@@ -1,0 +1,20 @@
+{
+  "id": 2124,
+  "name": "墨叔MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2124",
+  "robotId": "2124",
+  "engineVoiceId": "create_voice_guagua_2124",
+  "referenceText": "与此同时，距离万劫雷山较为遥远的地方。\n一个穿着麻衣穿着草鞋的独臂中年男子遥遥看着万劫雷山所在，紧紧抿唇，他低头看了眼自己的断臂，眼神忌惮且复杂，喃喃声在空间散开。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0939_墨叔MK-III_2124.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0939_墨叔MK-III_2124.mp3",
+  "audioHash": "606fcecba1204d0808fb598735940a11992a0379530baba2e89ab7042e23191a",
+  "durationMs": 18144,
+  "materialId": 810621879,
+  "bookId": 112826,
+  "chapterId": 25527769,
+  "updatedAt": "2026-06-22T17:24:40.275Z"
+}

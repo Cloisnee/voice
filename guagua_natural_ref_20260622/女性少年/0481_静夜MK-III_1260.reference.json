@@ -1,0 +1,20 @@
+{
+  "id": 1260,
+  "name": "静夜MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1260",
+  "robotId": "1260",
+  "engineVoiceId": "create_voice_guagua_1260",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。你不用立刻回答，我可以等。屋里忽然安静下来，连呼吸声都显得格外清楚。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/悬疑",
+  "audioFile": "0481_静夜MK-III_1260.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0481_静夜MK-III_1260.mp3",
+  "audioHash": "539e6017122f05cb20880d8cbc0542e7991c1c430859743929b7840dac66d42e",
+  "durationMs": 16104,
+  "materialId": 810615845,
+  "bookId": 112369,
+  "chapterId": 25526750,
+  "updatedAt": "2026-06-22T17:20:51.157Z"
+}

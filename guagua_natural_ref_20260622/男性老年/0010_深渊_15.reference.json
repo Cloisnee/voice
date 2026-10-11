@@ -1,0 +1,20 @@
+{
+  "id": 15,
+  "name": "深渊",
+  "category": "男性老年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG15",
+  "robotId": "15",
+  "engineVoiceId": "create_voice_guagua_15",
+  "referenceText": "年轻人，路不是这么走的。该回头的时候，不丢人。屋里忽然安静下来，连呼吸声都显得格外清楚。等你真正明白，就不会怪我。",
+  "emotionProfile": "阅历感、慢节奏、劝诫语气",
+  "sampleStyle": "男性老年/悬疑",
+  "audioFile": "0010_深渊_15.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性老年/0010_深渊_15.mp3",
+  "audioHash": "a0263977e9b4311cf32d018aef01d0f15694ba6a16006c660a5931fc2b2ea917",
+  "durationMs": 14424,
+  "materialId": 810338113,
+  "bookId": 111971,
+  "chapterId": 25523223,
+  "updatedAt": "2026-06-22T14:25:26.163Z"
+}

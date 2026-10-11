@@ -1,0 +1,20 @@
+{
+  "id": 1325,
+  "name": "白崖MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1325",
+  "robotId": "1325",
+  "engineVoiceId": "create_voice_guagua_1325",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。算了，我们先往前走吧。帘外风声一紧，话到嘴边便轻了半分。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0518_白崖MK-III_1325.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0518_白崖MK-III_1325.mp3",
+  "audioHash": "55f284cc7e5deb785aba99ed09bc75f702d060b40c40aee601158ad049f97f2e",
+  "durationMs": 14568,
+  "materialId": 810616838,
+  "bookId": 112406,
+  "chapterId": 25526836,
+  "updatedAt": "2026-06-22T17:20:59.447Z"
+}

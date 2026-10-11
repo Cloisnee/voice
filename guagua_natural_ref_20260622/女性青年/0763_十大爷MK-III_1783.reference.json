@@ -1,0 +1,20 @@
+{
+  "id": 1783,
+  "name": "十大爷MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1783",
+  "robotId": "1783",
+  "engineVoiceId": "create_voice_guagua_1783",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。我会把情绪收好，不影响接下来的事。灯影晃了一下，心绪也跟着沉了下去。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0763_十大爷MK-III_1783.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0763_十大爷MK-III_1783.mp3",
+  "audioHash": "3fe476a4a739c65c6899831d8d31ae2648427e4692a0d546ccda20bca87d27ae",
+  "durationMs": 14016,
+  "materialId": 810620644,
+  "bookId": 112650,
+  "chapterId": 25527417,
+  "updatedAt": "2026-06-22T17:23:01.459Z"
+}

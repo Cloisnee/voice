@@ -1,0 +1,20 @@
+{
+  "id": 1070,
+  "name": "酒白MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1070",
+  "robotId": "1070",
+  "engineVoiceId": "create_voice_guagua_1070",
+  "referenceText": "我当然会怕，可是现在不能停下。如果必须有人留下，那就让我来。帘外风声一紧，话到嘴边便轻了半分。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0339_酒白MK-III_1070.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0339_酒白MK-III_1070.mp3",
+  "audioHash": "a07d5324893805ab7591c573257da6239c0de0f763005f0be0cb0e0e3305f13b",
+  "durationMs": 14496,
+  "materialId": 810592448,
+  "bookId": 112227,
+  "chapterId": 25526423,
+  "updatedAt": "2026-06-22T16:58:27.545Z"
+}

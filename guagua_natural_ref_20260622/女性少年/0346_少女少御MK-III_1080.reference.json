@@ -1,0 +1,20 @@
+{
+  "id": 1080,
+  "name": "少女少御MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1080",
+  "robotId": "1080",
+  "engineVoiceId": "create_voice_guagua_1080",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。算了，我们先往前走吧。手机屏幕暗下去以后，房间里只剩下彼此的呼吸。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/现代",
+  "audioFile": "0346_少女少御MK-III_1080.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0346_少女少御MK-III_1080.mp3",
+  "audioHash": "f6c01cb9676138d7150c59299e33611b5136aee05a7d75fac1e22d683875c5e6",
+  "durationMs": 14520,
+  "materialId": 810597807,
+  "bookId": 112234,
+  "chapterId": 25526433,
+  "updatedAt": "2026-06-22T17:03:17.045Z"
+}

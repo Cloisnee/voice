@@ -1,0 +1,20 @@
+{
+  "id": 2211,
+  "name": "文远MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2211",
+  "robotId": "2211",
+  "engineVoiceId": "create_voice_guagua_2211",
+  "referenceText": "朱家沟，位于长安城北侧，邻近泾河，依山傍水，虽然少有良田，但因为托寄寺庙不纳税赋，村民们日子还勉强过得去。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0988_文远MK-III_2211.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0988_文远MK-III_2211.mp3",
+  "audioHash": "595d727f982983e33523a5d9b79d21facc7720ee83922fcc2bf494a10ca8a63b",
+  "durationMs": 12600,
+  "materialId": 810622226,
+  "bookId": 112875,
+  "chapterId": 25527853,
+  "updatedAt": "2026-06-22T17:25:07.296Z"
+}

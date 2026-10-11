@@ -1,0 +1,20 @@
+{
+  "id": 701,
+  "name": "煜樂MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG701",
+  "robotId": "701",
+  "engineVoiceId": "create_voice_guagua_701",
+  "referenceText": "我当然会怕，可是现在不能停下。别担心，我知道自己在做什么。帘外风声一紧，话到嘴边便轻了半分。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0152_煜樂MK-III_701.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0152_煜樂MK-III_701.mp3",
+  "audioHash": "3ea61e9f45aa69ae261e8cea98c542d85ddd5394ef61c1be28906c89740e5130",
+  "durationMs": 12336,
+  "materialId": 810473254,
+  "bookId": 112061,
+  "chapterId": 25525081,
+  "updatedAt": "2026-06-22T15:31:03.104Z"
+}

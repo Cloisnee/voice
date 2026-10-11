@@ -1,0 +1,20 @@
+{
+  "id": 1045,
+  "name": "微凉有爱MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1045",
+  "robotId": "1045",
+  "engineVoiceId": "create_voice_guagua_1045",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。你不用立刻回答，我可以等。这句话不需要喊出来，却要让人听得真切。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0325_微凉有爱MK-III_1045.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0325_微凉有爱MK-III_1045.mp3",
+  "audioHash": "cf3060be26db3ca10903e4a2a296da5d89181bae717ecdfbb789864f183427ce",
+  "durationMs": 11424,
+  "materialId": 810592040,
+  "bookId": 112213,
+  "chapterId": 25526398,
+  "updatedAt": "2026-06-22T16:58:24.671Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1784,
+  "name": "余音-星衍MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1784",
+  "robotId": "1784",
+  "engineVoiceId": "create_voice_guagua_1784",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。如果还有机会，我想重新来一次。灯影晃了一下，心绪也跟着沉了下去。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0764_余音-星衍MK-III_1784.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0764_余音-星衍MK-III_1784.mp3",
+  "audioHash": "fedbb33ac17635ebb335f034892eff5a863bf3b7cf751c94af6c9fe5a0e52326",
+  "durationMs": 13080,
+  "materialId": 810620643,
+  "bookId": 112651,
+  "chapterId": 25527418,
+  "updatedAt": "2026-06-22T17:23:02.049Z"
+}

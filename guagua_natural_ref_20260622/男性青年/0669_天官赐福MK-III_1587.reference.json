@@ -1,0 +1,20 @@
+{
+  "id": 1587,
+  "name": "天官赐福MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1587",
+  "robotId": "1587",
+  "engineVoiceId": "create_voice_guagua_1587",
+  "referenceText": "刚才那句话，我不是随便说说。我会把人带回来，也会给你一个交代。灯影晃了一下，心绪也跟着沉了下去。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0669_天官赐福MK-III_1587.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0669_天官赐福MK-III_1587.mp3",
+  "audioHash": "f109d784c87f485103a959fd648917a9cf37b6e70ac5558687e53106c9a16bb8",
+  "durationMs": 11232,
+  "materialId": 810619646,
+  "bookId": 112557,
+  "chapterId": 25527263,
+  "updatedAt": "2026-06-22T17:22:09.033Z"
+}

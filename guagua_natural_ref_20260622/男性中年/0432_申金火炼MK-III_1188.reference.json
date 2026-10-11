@@ -1,0 +1,20 @@
+{
+  "id": 1188,
+  "name": "申金火炼MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1188",
+  "robotId": "1188",
+  "engineVoiceId": "create_voice_guagua_1188",
+  "referenceText": "多年经验告诉我，越平静的地方越要小心。稳住局面，比什么都重要。灯影晃了一下，心绪也跟着沉了下去。等证据齐了，再做决定。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0432_申金火炼MK-III_1188.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0432_申金火炼MK-III_1188.mp3",
+  "audioHash": "38ebc91fa9bf61fde517a2f24df5921f460de9acbdd21c0e49b2b1e77e113933",
+  "durationMs": 13584,
+  "materialId": 810610938,
+  "bookId": 112320,
+  "chapterId": 25526656,
+  "updatedAt": "2026-06-22T17:17:06.969Z"
+}

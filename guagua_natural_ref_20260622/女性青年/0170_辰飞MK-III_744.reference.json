@@ -1,0 +1,20 @@
+{
+  "id": 744,
+  "name": "辰飞MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG744",
+  "robotId": "744",
+  "engineVoiceId": "create_voice_guagua_744",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。算了，我们先往前走吧。这句话不需要喊出来，却要让人听得真切。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0170_辰飞MK-III_744.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0170_辰飞MK-III_744.mp3",
+  "audioHash": "e0454c877fd4b4fff199cb8d4233778d92bf07e28f94ce00d25fd3062651fcb0",
+  "durationMs": 14184,
+  "materialId": 810484962,
+  "bookId": 112079,
+  "chapterId": 25525107,
+  "updatedAt": "2026-06-22T15:40:16.930Z"
+}

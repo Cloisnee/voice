@@ -1,0 +1,20 @@
+{
+  "id": 2198,
+  "name": "亚鸿MK-III",
+  "category": "女性老年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2198",
+  "robotId": "2198",
+  "engineVoiceId": "create_voice_guagua_2198",
+  "referenceText": "人这一辈子啊，总有几件事是放不下的。能平安回来，比什么都要紧。屋里忽然安静下来，连呼吸声都显得格外清楚。等雪停了，院子里就又亮堂了。",
+  "emotionProfile": "慈祥、缓慢、带回忆感",
+  "sampleStyle": "女性老年/悬疑",
+  "audioFile": "0983_亚鸿MK-III_2198.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性老年/0983_亚鸿MK-III_2198.mp3",
+  "audioHash": "a9483dc4d38c8caaae11f017265d6c6ede111b2d84e3df4a93cc105a038938c9",
+  "durationMs": 15240,
+  "materialId": 810622083,
+  "bookId": 112870,
+  "chapterId": 25527846,
+  "updatedAt": "2026-06-22T17:25:04.569Z"
+}

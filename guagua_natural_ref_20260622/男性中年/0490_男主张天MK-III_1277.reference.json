@@ -1,0 +1,20 @@
+{
+  "id": 1277,
+  "name": "男主张天MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1277",
+  "robotId": "1277",
+  "engineVoiceId": "create_voice_guagua_1277",
+  "referenceText": "我不是不相信你，只是现在必须谨慎。有些责任，躲是躲不过去的。停了一会儿，语气终于慢慢平稳下来。这句话我只说一遍，你记住。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/通用",
+  "audioFile": "0490_男主张天MK-III_1277.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0490_男主张天MK-III_1277.mp3",
+  "audioHash": "ae186da5d11e161cbdb4c1b192b4bae664778b866ec8f6107cee9a1950d77338",
+  "durationMs": 12816,
+  "materialId": 810615886,
+  "bookId": 112378,
+  "chapterId": 25526782,
+  "updatedAt": "2026-06-22T17:20:52.914Z"
+}

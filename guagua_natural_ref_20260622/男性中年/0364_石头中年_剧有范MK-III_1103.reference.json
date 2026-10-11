@@ -1,0 +1,20 @@
+{
+  "id": 1103,
+  "name": "石头中年_剧有范MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1103",
+  "robotId": "1103",
+  "engineVoiceId": "create_voice_guagua_1103",
+  "referenceText": "我不是不相信你，只是现在必须谨慎。稳住局面，比什么都重要。停了一会儿，语气终于慢慢平稳下来。等证据齐了，再做决定。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/通用",
+  "audioFile": "0364_石头中年_剧有范MK-III_1103.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0364_石头中年_剧有范MK-III_1103.mp3",
+  "audioHash": "1e64748012ed37b73c8fc307659947819c9f0ef18b3a5de02da5c10dfb431c67",
+  "durationMs": 11832,
+  "materialId": 810602889,
+  "bookId": 112252,
+  "chapterId": 25526461,
+  "updatedAt": "2026-06-22T17:07:58.478Z"
+}

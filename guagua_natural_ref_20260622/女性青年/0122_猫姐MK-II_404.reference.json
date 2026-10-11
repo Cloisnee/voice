@@ -1,0 +1,20 @@
+{
+  "id": 404,
+  "name": "猫姐MK-II",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG404",
+  "robotId": "404",
+  "engineVoiceId": "create_voice_guagua_404",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。算了，我们先往前走吧。灯影晃了一下，心绪也跟着沉了下去。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0122_猫姐MK-II_404.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0122_猫姐MK-II_404.mp3",
+  "audioHash": "83b8d2e51c3fb09a05cc0d3e16d0807a9de28d1b6dd19887f9be459edc8b702f",
+  "durationMs": 13752,
+  "materialId": 810398719,
+  "bookId": 112031,
+  "chapterId": 25524450,
+  "updatedAt": "2026-06-22T14:40:45.061Z"
+}

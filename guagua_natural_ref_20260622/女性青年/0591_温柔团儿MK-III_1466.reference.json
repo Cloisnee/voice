@@ -1,0 +1,20 @@
+{
+  "id": 1466,
+  "name": "温柔团儿MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1466",
+  "robotId": "1466",
+  "engineVoiceId": "create_voice_guagua_1466",
+  "referenceText": "从十八岁那年，朝熙被找回来之后，她的光就被抢走了。\n从前，朝曼妮是学校的校花，是父母口中的骄傲，是邻里亲戚们眼中的荣耀，可是朝熙回来后，一切都变了。\n朝熙学习好，会做家务，还会讨人欢心，所以她恨她",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0591_温柔团儿MK-III_1466.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0591_温柔团儿MK-III_1466.mp3",
+  "audioHash": "2333bd50d993d37de8a05d91073fe29a3d77f968e66bd186ff601170430f47d3",
+  "durationMs": 22584,
+  "materialId": 810618551,
+  "bookId": 112479,
+  "chapterId": 25527147,
+  "updatedAt": "2026-06-22T17:21:25.156Z"
+}

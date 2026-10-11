@@ -1,0 +1,20 @@
+{
+  "id": 999,
+  "name": "欣欣MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG999",
+  "robotId": "999",
+  "engineVoiceId": "create_voice_guagua_999",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。你不用立刻回答，我可以等。灯影晃了一下，心绪也跟着沉了下去。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0297_欣欣MK-III_999.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0297_欣欣MK-III_999.mp3",
+  "audioHash": "d4bf766906ae63bc5dd49a094eb6f4b81056eebf578b5819775c8e06ac5f3810",
+  "durationMs": 14016,
+  "materialId": 810580127,
+  "bookId": 112185,
+  "chapterId": 25526358,
+  "updatedAt": "2026-06-22T16:48:34.220Z"
+}

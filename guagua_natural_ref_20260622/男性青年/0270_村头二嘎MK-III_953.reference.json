@@ -1,0 +1,20 @@
+{
+  "id": 953,
+  "name": "村头二嘎MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG953",
+  "robotId": "953",
+  "engineVoiceId": "create_voice_guagua_953",
+  "referenceText": "事情已经到了这一步，退后反而更危险。先稳住呼吸，再看清楚前面的路。帘外风声一紧，话到嘴边便轻了半分。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0270_村头二嘎MK-III_953.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0270_村头二嘎MK-III_953.mp3",
+  "audioHash": "1d6bfade71095d51a97188bfebd01cd978f7d61fa7c67e78986f6384e4fdef45",
+  "durationMs": 12720,
+  "materialId": 810571790,
+  "bookId": 112158,
+  "chapterId": 25526303,
+  "updatedAt": "2026-06-22T16:40:37.103Z"
+}

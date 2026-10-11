@@ -1,0 +1,20 @@
+{
+  "id": 2120,
+  "name": "怪咖说书MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2120",
+  "robotId": "2120",
+  "engineVoiceId": "create_voice_guagua_2120",
+  "referenceText": "大厦一进门就是一个挑高二十余米的阳光大厅。夕阳透过玻璃幕墙照在磨砂大理石地板上，折射出柔和的光。大厅中来来往往都是西装革履，唯独一身中山装的叶秋站在门口，显得那么的独树一帜。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0936_怪咖说书MK-III_2120.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0936_怪咖说书MK-III_2120.mp3",
+  "audioHash": "d3ff1f1bf06ea08cb4046c92a9108ef65326e65cd59bcc7d191e4247807da9fe",
+  "durationMs": 17952,
+  "materialId": 810621862,
+  "bookId": 112823,
+  "chapterId": 25527764,
+  "updatedAt": "2026-06-22T17:24:38.607Z"
+}

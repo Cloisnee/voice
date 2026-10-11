@@ -1,0 +1,20 @@
+{
+  "id": 2168,
+  "name": "回音MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2168",
+  "robotId": "2168",
+  "engineVoiceId": "create_voice_guagua_2168",
+  "referenceText": "你听，他们还在等我回去。先稳住呼吸，再看清楚前面的路。灯影晃了一下，心绪也跟着沉了下去。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0966_回音MK-III_2168.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0966_回音MK-III_2168.mp3",
+  "audioHash": "b2d0e98490944e64333bafca6df4d21a9ed5bfa977737eee2a1b131c61ef36a0",
+  "durationMs": 11736,
+  "materialId": 810621973,
+  "bookId": 112853,
+  "chapterId": 25527818,
+  "updatedAt": "2026-06-22T17:24:55.418Z"
+}

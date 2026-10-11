@@ -1,0 +1,20 @@
+{
+  "id": 2056,
+  "name": "部落老读MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2056",
+  "robotId": "2056",
+  "engineVoiceId": "create_voice_guagua_2056",
+  "referenceText": "先别急着下结论，把前因后果都弄清楚再说。你把人手安排好，我去看现场。灯影晃了一下，心绪也跟着沉了下去。别慌，先按计划来。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0898_部落老读MK-III_2056.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0898_部落老读MK-III_2056.mp3",
+  "audioHash": "4b66492e82e7a19a5e7a16b337a402233bd505c535c5e6106d63bb7459f39956",
+  "durationMs": 12936,
+  "materialId": 810621680,
+  "bookId": 112785,
+  "chapterId": 25527694,
+  "updatedAt": "2026-06-22T17:24:17.408Z"
+}

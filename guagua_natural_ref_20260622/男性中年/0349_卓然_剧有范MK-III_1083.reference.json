@@ -1,0 +1,20 @@
+{
+  "id": 1083,
+  "name": "卓然_剧有范MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1083",
+  "robotId": "1083",
+  "engineVoiceId": "create_voice_guagua_1083",
+  "referenceText": "多年经验告诉我，越平静的地方越要小心。该问的一个都不能漏。灯影晃了一下，心绪也跟着沉了下去。这句话我只说一遍，你记住。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0349_卓然_剧有范MK-III_1083.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0349_卓然_剧有范MK-III_1083.mp3",
+  "audioHash": "30cbe2fce86e2e45cf71ef49877bb1a4c1000be776e22bbdd9746d4458c93c36",
+  "durationMs": 12288,
+  "materialId": 810598198,
+  "bookId": 112237,
+  "chapterId": 25526439,
+  "updatedAt": "2026-06-22T17:03:17.738Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2098,
+  "name": "笑笑MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2098",
+  "robotId": "2098",
+  "engineVoiceId": "create_voice_guagua_2098",
+  "referenceText": "从十八岁那年，朝熙被找回来之后，她的光就被抢走了。\n从前，朝曼妮是学校的校花，是父母口中的骄傲，是邻里亲戚们眼中的荣耀，可是朝熙回来后，一切都变了。\n朝熙学习好，会做家务，还会讨人欢心，所以她恨她",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0926_笑笑MK-III_2098.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0926_笑笑MK-III_2098.mp3",
+  "audioHash": "168fd8244bba1299ff21dc8a87dd935793c481aeec73b187a419d73d479cad29",
+  "durationMs": 23472,
+  "materialId": 810622078,
+  "bookId": 112813,
+  "chapterId": 25527745,
+  "updatedAt": "2026-06-22T17:24:33.071Z"
+}

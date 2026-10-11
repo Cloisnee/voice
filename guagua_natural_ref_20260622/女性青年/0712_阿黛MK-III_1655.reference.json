@@ -1,0 +1,20 @@
+{
+  "id": 1655,
+  "name": "阿黛MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1655",
+  "robotId": "1655",
+  "engineVoiceId": "create_voice_guagua_1655",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。如果还有机会，我想重新来一次。停了一会儿，语气终于慢慢平稳下来。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0712_阿黛MK-III_1655.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0712_阿黛MK-III_1655.mp3",
+  "audioHash": "36521fded4cc748f0fd73a10e9ad7ac570a76123097efc04e733e11232a8987d",
+  "durationMs": 15864,
+  "materialId": 810619947,
+  "bookId": 112599,
+  "chapterId": 25527323,
+  "updatedAt": "2026-06-22T17:22:33.042Z"
+}

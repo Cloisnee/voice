@@ -1,0 +1,20 @@
+{
+  "id": 1877,
+  "name": "猫九玄MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1877",
+  "robotId": "1877",
+  "engineVoiceId": "create_voice_guagua_1877",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。你不用立刻回答，我可以等。灯影晃了一下，心绪也跟着沉了下去。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0813_猫九玄MK-III_1877.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0813_猫九玄MK-III_1877.mp3",
+  "audioHash": "40cc8dde368cac81bf239ae95a10caf8b0125f1f0d271bea9927d83d8cd7c8a5",
+  "durationMs": 15960,
+  "materialId": 810621048,
+  "bookId": 112700,
+  "chapterId": 25527563,
+  "updatedAt": "2026-06-22T17:23:30.461Z"
+}

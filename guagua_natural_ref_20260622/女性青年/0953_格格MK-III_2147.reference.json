@@ -1,0 +1,20 @@
+{
+  "id": 2147,
+  "name": "格格MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2147",
+  "robotId": "2147",
+  "engineVoiceId": "create_voice_guagua_2147",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。你不用立刻回答，我可以等。这句话不需要喊出来，却要让人听得真切。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0953_格格MK-III_2147.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0953_格格MK-III_2147.mp3",
+  "audioHash": "ab308d2ab471a2da6cb2c68a30b91e9d1fe838f9b60bcfc7a4a00779a3ee0911",
+  "durationMs": 12960,
+  "materialId": 810621937,
+  "bookId": 112840,
+  "chapterId": 25527796,
+  "updatedAt": "2026-06-22T17:24:48.102Z"
+}

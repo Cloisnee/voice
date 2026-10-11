@@ -1,0 +1,20 @@
+{
+  "id": 1776,
+  "name": "胖虎MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1776",
+  "robotId": "1776",
+  "engineVoiceId": "create_voice_guagua_1776",
+  "referenceText": "你听，他们还在等我回去。先稳住呼吸，再看清楚前面的路。灯影晃了一下，心绪也跟着沉了下去。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0758_胖虎MK-III_1776.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0758_胖虎MK-III_1776.mp3",
+  "audioHash": "20c13cfd3969b1447d84b71fae4cf86fbd496775be6cc7be49620475119c66f3",
+  "durationMs": 12144,
+  "materialId": 810620636,
+  "bookId": 112645,
+  "chapterId": 25527409,
+  "updatedAt": "2026-06-22T17:22:58.735Z"
+}

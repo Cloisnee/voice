@@ -1,0 +1,20 @@
+{
+  "id": 1240,
+  "name": "米小小杨MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1240",
+  "robotId": "1240",
+  "engineVoiceId": "create_voice_guagua_1240",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。我会把情绪收好，不影响接下来的事。窗外车声一闪而过，语气也慢慢稳住了。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/现代",
+  "audioFile": "0467_米小小杨MK-III_1240.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0467_米小小杨MK-III_1240.mp3",
+  "audioHash": "aed23ced6e06b3df878dbf4fdb7a9d1c739f6b995bf89fef64deca86476c9718",
+  "durationMs": 15888,
+  "materialId": 810615209,
+  "bookId": 112355,
+  "chapterId": 25526714,
+  "updatedAt": "2026-06-22T17:20:48.068Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1238,
+  "name": "蛋炒饭MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1238",
+  "robotId": "1238",
+  "engineVoiceId": "create_voice_guagua_1238",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。你不用立刻回答，我可以等。灯影晃了一下，心绪也跟着沉了下去。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0466_蛋炒饭MK-III_1238.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0466_蛋炒饭MK-III_1238.mp3",
+  "audioHash": "8ef5be7b14b125aa0301b0a9b1c5327c801dc023459d9dfc20e3014aaa8a6d0a",
+  "durationMs": 12984,
+  "materialId": 810615212,
+  "bookId": 112354,
+  "chapterId": 25526712,
+  "updatedAt": "2026-06-22T17:20:47.687Z"
+}

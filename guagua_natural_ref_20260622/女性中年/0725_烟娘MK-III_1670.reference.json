@@ -1,0 +1,20 @@
+{
+  "id": 1670,
+  "name": "烟娘MK-III",
+  "category": "女性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1670",
+  "robotId": "1670",
+  "engineVoiceId": "create_voice_guagua_1670",
+  "referenceText": "有些话说出口以前，总要在心里转上好几遍。把前因后果理清楚，再往下走。帘外风声一紧，话到嘴边便轻了半分。这话不重，可你得记在心里。",
+  "emotionProfile": "沉稳安抚，低强度情绪起伏",
+  "sampleStyle": "女性中年/古风",
+  "audioFile": "0725_烟娘MK-III_1670.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性中年/0725_烟娘MK-III_1670.mp3",
+  "audioHash": "bed3939571fd7c125c08b1a224f257e036e3be27edaea30918aae26549cc50f3",
+  "durationMs": 15552,
+  "materialId": 810620162,
+  "bookId": 112612,
+  "chapterId": 25527352,
+  "updatedAt": "2026-06-22T17:22:40.235Z"
+}

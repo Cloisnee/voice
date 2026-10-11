@@ -1,0 +1,20 @@
+{
+  "id": 1464,
+  "name": "悠燃MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1464",
+  "robotId": "1464",
+  "engineVoiceId": "create_voice_guagua_1464",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。算了，我们先往前走吧。灯影晃了一下，心绪也跟着沉了下去。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0590_悠燃MK-III_1464.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0590_悠燃MK-III_1464.mp3",
+  "audioHash": "e448d9894dfd5ea78b542df5c704edaacfd8f96740139b7507b2947cb676ebfd",
+  "durationMs": 13080,
+  "materialId": 810618511,
+  "bookId": 112478,
+  "chapterId": 25527146,
+  "updatedAt": "2026-06-22T17:21:24.619Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1147,
+  "name": "祥子MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1147",
+  "robotId": "1147",
+  "engineVoiceId": "create_voice_guagua_1147",
+  "referenceText": "你听，他们还在等我回去。如果必须有人留下，那就让我来。门外那一点动静，让所有话都停在了半空。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/悬疑",
+  "audioFile": "0399_祥子MK-III_1147.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0399_祥子MK-III_1147.mp3",
+  "audioHash": "045ebfb76450d834c2022289ae744ccfded16f07bd846e4403a7dbd7837177f9",
+  "durationMs": 14232,
+  "materialId": 810608032,
+  "bookId": 112287,
+  "chapterId": 25526595,
+  "updatedAt": "2026-06-22T17:12:39.056Z"
+}

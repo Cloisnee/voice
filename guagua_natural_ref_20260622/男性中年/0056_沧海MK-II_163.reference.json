@@ -1,0 +1,20 @@
+{
+  "id": 163,
+  "name": "沧海MK-II",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG163",
+  "robotId": "163",
+  "engineVoiceId": "create_voice_guagua_163",
+  "referenceText": "我不是不相信你，只是现在必须谨慎。稳住局面，比什么都重要。帘外风声一紧，话到嘴边便轻了半分。天亮之前，我们必须有结果。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0056_沧海MK-II_163.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0056_沧海MK-II_163.mp3",
+  "audioHash": "75d10596234728e8622edf0fe01578ad2a32b8c01cef69e33b69fc0b722bb487",
+  "durationMs": 15048,
+  "materialId": 810398906,
+  "bookId": 112026,
+  "chapterId": 25524439,
+  "updatedAt": "2026-06-22T14:40:43.590Z"
+}

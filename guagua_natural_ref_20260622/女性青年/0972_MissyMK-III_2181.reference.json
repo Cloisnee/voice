@@ -1,0 +1,20 @@
+{
+  "id": 2181,
+  "name": "MissyMK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2181",
+  "robotId": "2181",
+  "engineVoiceId": "create_voice_guagua_2181",
+  "referenceText": "红烛，喜字，鸳鸯帐。\n身穿嫁衣的婀娜少女静静地坐在床头。\n林安应酬完宾客回到婚房，看到的就是这样温馨的画面。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0972_MissyMK-III_2181.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0972_MissyMK-III_2181.mp3",
+  "audioHash": "7e7f809ce506afe840aad41844bb6f70d2cc9b30de370c007682c0f396bec349",
+  "durationMs": 13152,
+  "materialId": 810622003,
+  "bookId": 112859,
+  "chapterId": 25527827,
+  "updatedAt": "2026-06-22T17:24:58.762Z"
+}

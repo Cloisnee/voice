@@ -1,0 +1,20 @@
+{
+  "id": 1658,
+  "name": "微微风MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1658",
+  "robotId": "1658",
+  "engineVoiceId": "create_voice_guagua_1658",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。我会把情绪收好，不影响接下来的事。帘外风声一紧，话到嘴边便轻了半分。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0715_微微风MK-III_1658.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0715_微微风MK-III_1658.mp3",
+  "audioHash": "8d5212d99250fb6a176b7296705f4a3114d471a29df20c48369b475342b3fc91",
+  "durationMs": 19272,
+  "materialId": 810620023,
+  "bookId": 112602,
+  "chapterId": 25527328,
+  "updatedAt": "2026-06-22T17:22:34.822Z"
+}

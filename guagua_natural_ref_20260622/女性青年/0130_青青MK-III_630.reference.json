@@ -1,0 +1,20 @@
+{
+  "id": 630,
+  "name": "青青MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG630",
+  "robotId": "630",
+  "engineVoiceId": "create_voice_guagua_630",
+  "referenceText": "今日任务：对女主说出经典台词“女人，你成功引起了我的注意”。系统错误！剧情线紊乱！警告！宿主要走反派路线？！",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0130_青青MK-III_630.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0130_青青MK-III_630.mp3",
+  "audioHash": "20e371880955462f6c99f4af298c05f7c6f79efdc47de1ef4c384765818529d5",
+  "durationMs": 12720,
+  "materialId": 810435043,
+  "bookId": 112039,
+  "chapterId": 25524463,
+  "updatedAt": "2026-06-22T15:06:21.451Z"
+}

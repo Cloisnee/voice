@@ -1,0 +1,20 @@
+{
+  "id": 1621,
+  "name": "老杨说_MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1621",
+  "robotId": "1621",
+  "engineVoiceId": "create_voice_guagua_1621",
+  "referenceText": "这件事没你想得那么简单。稳住局面，比什么都重要。屋里忽然安静下来，连呼吸声都显得格外清楚。等证据齐了，再做决定。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/悬疑",
+  "audioFile": "0692_老杨说_MK-III_1621.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0692_老杨说_MK-III_1621.mp3",
+  "audioHash": "1d829b1e962657dcc7d151fd1b6154dca2293b36373e5be454a73b009e47c9d1",
+  "durationMs": 12624,
+  "materialId": 810619866,
+  "bookId": 112580,
+  "chapterId": 25527295,
+  "updatedAt": "2026-06-22T17:22:22.020Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1050,
+  "name": "罗非鱼MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1050",
+  "robotId": "1050",
+  "engineVoiceId": "create_voice_guagua_1050",
+  "referenceText": "你听，他们还在等我回去。别担心，我知道自己在做什么。这句话不需要喊出来，却要让人听得真切。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0328_罗非鱼MK-III_1050.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0328_罗非鱼MK-III_1050.mp3",
+  "audioHash": "344965ad73d45c4e2a10add35ccaa6b3b0798a73c2dac760820968d667192fa8",
+  "durationMs": 12360,
+  "materialId": 810592347,
+  "bookId": 112216,
+  "chapterId": 25526405,
+  "updatedAt": "2026-06-22T16:58:25.320Z"
+}

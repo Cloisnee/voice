@@ -1,0 +1,20 @@
+{
+  "id": 1568,
+  "name": "蒋君宜MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1568",
+  "robotId": "1568",
+  "engineVoiceId": "create_voice_guagua_1568",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。你不用立刻回答，我可以等。停了一会儿，语气终于慢慢平稳下来。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0653_蒋君宜MK-III_1568.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0653_蒋君宜MK-III_1568.mp3",
+  "audioHash": "7bb18fbd08eb8c70bf7dcc6fb0b082e62c32d4f5ed64c450bbbed6551fd0aa55",
+  "durationMs": 15120,
+  "materialId": 810619469,
+  "bookId": 112541,
+  "chapterId": 25527238,
+  "updatedAt": "2026-06-22T17:21:59.937Z"
+}

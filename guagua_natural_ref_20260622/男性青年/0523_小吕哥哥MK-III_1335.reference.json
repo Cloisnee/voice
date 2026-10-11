@@ -1,0 +1,20 @@
+{
+  "id": 1335,
+  "name": "小吕哥哥MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1335",
+  "robotId": "1335",
+  "engineVoiceId": "create_voice_guagua_1335",
+  "referenceText": "你听，他们还在等我回去。如果必须有人留下，那就让我来。灯影晃了一下，心绪也跟着沉了下去。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0523_小吕哥哥MK-III_1335.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0523_小吕哥哥MK-III_1335.mp3",
+  "audioHash": "a5a554787401d80239c1ac86dfae4bcd2131f6303fc75b2edfcf6c08747e65b2",
+  "durationMs": 12024,
+  "materialId": 810616672,
+  "bookId": 112411,
+  "chapterId": 25526847,
+  "updatedAt": "2026-06-22T17:21:00.675Z"
+}

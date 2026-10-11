@@ -1,0 +1,20 @@
+{
+  "id": 1250,
+  "name": "柳先生角色MK-III",
+  "category": "男性老年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1250",
+  "robotId": "1250",
+  "engineVoiceId": "create_voice_guagua_1250",
+  "referenceText": "“哼，你这个孽障！我大汉江山虽不能说繁华盛世，但也是平稳，竟敢在此胡言乱语。虽然你是朕的儿子，也要小心你的项上人头！。你要记住，汉室是我们刘家的江山，谁都可以说汉室将亡，唯独我刘家皇室不能。给我滚！”",
+  "emotionProfile": "阅历感、慢节奏、劝诫语气",
+  "sampleStyle": "男性老年/古风",
+  "audioFile": "0474_柳先生角色MK-III_1250.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性老年/0474_柳先生角色MK-III_1250.mp3",
+  "audioHash": "ded780b6f5f7c01c967be4343097639be461beb52150ed2c291413b811bac797",
+  "durationMs": 23784,
+  "materialId": 810615324,
+  "bookId": 112362,
+  "chapterId": 25526730,
+  "updatedAt": "2026-06-22T17:20:49.726Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1160,
+  "name": "川泽MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1160",
+  "robotId": "1160",
+  "engineVoiceId": "create_voice_guagua_1160",
+  "referenceText": "我当然会怕，可是现在不能停下。我会把人带回来，也会给你一个交代。帘外风声一紧，话到嘴边便轻了半分。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0409_川泽MK-III_1160.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0409_川泽MK-III_1160.mp3",
+  "audioHash": "e06ce49b07d9b6e261e11193411fc6bea10ed5a00cbc3622e01c14bbadd9a8c1",
+  "durationMs": 12912,
+  "materialId": 810608533,
+  "bookId": 112297,
+  "chapterId": 25526613,
+  "updatedAt": "2026-06-22T17:12:41.093Z"
+}

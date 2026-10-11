@@ -1,0 +1,20 @@
+{
+  "id": 1623,
+  "name": "悦灵MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1623",
+  "robotId": "1623",
+  "engineVoiceId": "create_voice_guagua_1623",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。算了，我们先往前走吧。帘外风声一紧，话到嘴边便轻了半分。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0694_悦灵MK-III_1623.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0694_悦灵MK-III_1623.mp3",
+  "audioHash": "98498cb0e0a646d1b80b2b3882cbc3ccd9d67ae2d1cd675c3bee7b6ae2235567",
+  "durationMs": 16080,
+  "materialId": 810619875,
+  "bookId": 112582,
+  "chapterId": 25527298,
+  "updatedAt": "2026-06-22T17:22:23.349Z"
+}

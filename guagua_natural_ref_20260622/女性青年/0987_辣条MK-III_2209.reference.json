@@ -1,0 +1,20 @@
+{
+  "id": 2209,
+  "name": "辣条MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2209",
+  "robotId": "2209",
+  "engineVoiceId": "create_voice_guagua_2209",
+  "referenceText": "它是一只小猫咪，默默陪在你身边。世间车马喧嚣，人心纷扰，它都看在眼里。它安静蜷在你的身旁，轻轻依偎，不吵不闹。不用言语，就能读懂你的疲惫与孤单。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0987_辣条MK-III_2209.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0987_辣条MK-III_2209.mp3",
+  "audioHash": "1506463bc24b5264db505e1a7709a58d8bcb92f32c4454fd8d85f37f1f58a5eb",
+  "durationMs": 15816,
+  "materialId": 810622101,
+  "bookId": 112874,
+  "chapterId": 25527852,
+  "updatedAt": "2026-06-22T17:25:06.791Z"
+}

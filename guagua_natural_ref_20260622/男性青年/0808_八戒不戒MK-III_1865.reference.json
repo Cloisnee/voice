@@ -1,0 +1,20 @@
+{
+  "id": 1865,
+  "name": "八戒不戒MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1865",
+  "robotId": "1865",
+  "engineVoiceId": "create_voice_guagua_1865",
+  "referenceText": "我当然会怕，可是现在不能停下。别担心，我知道自己在做什么。帘外风声一紧，话到嘴边便轻了半分。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0808_八戒不戒MK-III_1865.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0808_八戒不戒MK-III_1865.mp3",
+  "audioHash": "40eb201355ebf63d6ce741e3e65940a68c12eeb92974c7405b4a69944f9ef6e4",
+  "durationMs": 13056,
+  "materialId": 810621359,
+  "bookId": 112695,
+  "chapterId": 25527557,
+  "updatedAt": "2026-06-22T17:23:27.744Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 978,
+  "name": "A浪漫旋律MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG978",
+  "robotId": "978",
+  "engineVoiceId": "create_voice_guagua_978",
+  "referenceText": "我当然会怕，可是现在不能停下。如果必须有人留下，那就让我来。窗外车声一闪而过，语气也慢慢稳住了。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/现代",
+  "audioFile": "0287_A浪漫旋律MK-III_978.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0287_A浪漫旋律MK-III_978.mp3",
+  "audioHash": "a6b841d893f39598a73e6a7f07d81442ca6891b40ee125514bc2da31e3270d56",
+  "durationMs": 11784,
+  "materialId": 810572815,
+  "bookId": 112175,
+  "chapterId": 25526343,
+  "updatedAt": "2026-06-22T16:40:40.414Z"
+}

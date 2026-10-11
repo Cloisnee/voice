@@ -1,0 +1,20 @@
+{
+  "id": 643,
+  "name": "王于丁亅MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG643",
+  "robotId": "643",
+  "engineVoiceId": "create_voice_guagua_643",
+  "referenceText": "我当然会怕，可是现在不能停下。先稳住呼吸，再看清楚前面的路。帘外风声一紧，话到嘴边便轻了半分。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0134_王于丁亅MK-III_643.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0134_王于丁亅MK-III_643.mp3",
+  "audioHash": "0e3989b19ed9984a0e2563e358996aa85e6bc03797d8aa07870e667549f973c1",
+  "durationMs": 14088,
+  "materialId": 810435252,
+  "bookId": 112043,
+  "chapterId": 25524471,
+  "updatedAt": "2026-06-22T15:06:22.295Z"
+}

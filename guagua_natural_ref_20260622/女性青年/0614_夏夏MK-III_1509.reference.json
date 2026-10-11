@@ -1,0 +1,20 @@
+{
+  "id": 1509,
+  "name": "夏夏MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1509",
+  "robotId": "1509",
+  "engineVoiceId": "create_voice_guagua_1509",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。算了，我们先往前走吧。帘外风声一紧，话到嘴边便轻了半分。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0614_夏夏MK-III_1509.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0614_夏夏MK-III_1509.mp3",
+  "audioHash": "8589acd0cb269567e4a4d12b02dcf0ba7d9ba2266ec868c3987375b101c9263e",
+  "durationMs": 15312,
+  "materialId": 810619100,
+  "bookId": 112502,
+  "chapterId": 25527181,
+  "updatedAt": "2026-06-22T17:21:37.835Z"
+}

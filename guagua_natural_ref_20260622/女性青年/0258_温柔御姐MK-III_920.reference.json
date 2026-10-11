@@ -1,0 +1,20 @@
+{
+  "id": 920,
+  "name": "温柔御姐MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG920",
+  "robotId": "920",
+  "engineVoiceId": "create_voice_guagua_920",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。算了，我们先往前走吧。灯影晃了一下，心绪也跟着沉了下去。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0258_温柔御姐MK-III_920.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0258_温柔御姐MK-III_920.mp3",
+  "audioHash": "7990ca76eb01d83f97747225e88461c1f3a955d4b0b1462ffe7a4862c77bdec2",
+  "durationMs": 14448,
+  "materialId": 810561267,
+  "bookId": 112146,
+  "chapterId": 25526284,
+  "updatedAt": "2026-06-22T16:28:07.406Z"
+}

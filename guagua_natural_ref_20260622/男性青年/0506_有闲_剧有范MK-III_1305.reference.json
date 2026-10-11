@@ -1,0 +1,20 @@
+{
+  "id": 1305,
+  "name": "有闲_剧有范MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1305",
+  "robotId": "1305",
+  "engineVoiceId": "create_voice_guagua_1305",
+  "referenceText": "事情已经到了这一步，退后反而更危险。先稳住呼吸，再看清楚前面的路。帘外风声一紧，话到嘴边便轻了半分。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0506_有闲_剧有范MK-III_1305.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0506_有闲_剧有范MK-III_1305.mp3",
+  "audioHash": "1cb042d9c2a8291ae80991d93540d0c6342166a171a54a277a56adb4c2833107",
+  "durationMs": 14232,
+  "materialId": 810616668,
+  "bookId": 112394,
+  "chapterId": 25526813,
+  "updatedAt": "2026-06-22T17:20:56.757Z"
+}

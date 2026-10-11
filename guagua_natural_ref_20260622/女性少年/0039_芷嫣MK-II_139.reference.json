@@ -1,0 +1,20 @@
+{
+  "id": 139,
+  "name": "芷嫣MK-II",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG139",
+  "robotId": "139",
+  "engineVoiceId": "create_voice_guagua_139",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。我会把情绪收好，不影响接下来的事。灯影晃了一下，心绪也跟着沉了下去。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0039_芷嫣MK-II_139.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0039_芷嫣MK-II_139.mp3",
+  "audioHash": "69545c0d43c614ad473fce5abe631de7c0c140a5af7ed01896904396de28b0de",
+  "durationMs": 14976,
+  "materialId": 810371984,
+  "bookId": 112002,
+  "chapterId": 25524085,
+  "updatedAt": "2026-06-22T14:26:09.481Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1541,
+  "name": "茶包MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1541",
+  "robotId": "1541",
+  "engineVoiceId": "create_voice_guagua_1541",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。算了，我们先往前走吧。帘外风声一紧，话到嘴边便轻了半分。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0634_茶包MK-III_1541.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0634_茶包MK-III_1541.mp3",
+  "audioHash": "906041f0b14bcfe6f97509dbf308d1ddf331ccd08def7eb4df134b2a0ac69c7e",
+  "durationMs": 13680,
+  "materialId": 810619441,
+  "bookId": 112522,
+  "chapterId": 25527209,
+  "updatedAt": "2026-06-22T17:21:49.165Z"
+}

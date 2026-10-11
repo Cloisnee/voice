@@ -1,0 +1,20 @@
+{
+  "id": 1111,
+  "name": "老年艺霖MK-III",
+  "category": "女性老年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1111",
+  "robotId": "1111",
+  "engineVoiceId": "create_voice_guagua_1111",
+  "referenceText": "年轻的时候总觉得路很长，回头看才知道，一步都不能白走。能平安回来，比什么都要紧。这句话不需要喊出来，却要让人听得真切。等雪停了，院子里就又亮堂了。",
+  "emotionProfile": "慈祥、缓慢、带回忆感",
+  "sampleStyle": "女性老年/通用",
+  "audioFile": "0371_老年艺霖MK-III_1111.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性老年/0371_老年艺霖MK-III_1111.mp3",
+  "audioHash": "cd9de3a45aaa6b76cd8874ccd397f8c578668739da59e4c0ddbad0c05c562406",
+  "durationMs": 19224,
+  "materialId": 810603817,
+  "bookId": 112259,
+  "chapterId": 25526472,
+  "updatedAt": "2026-06-22T17:08:00.054Z"
+}

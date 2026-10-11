@@ -1,0 +1,20 @@
+{
+  "id": 1019,
+  "name": "月狸MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1019",
+  "robotId": "1019",
+  "engineVoiceId": "create_voice_guagua_1019",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。我会把情绪收好，不影响接下来的事。灯影晃了一下，心绪也跟着沉了下去。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0311_月狸MK-III_1019.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0311_月狸MK-III_1019.mp3",
+  "audioHash": "106662b790f458ab22287ab05f9ff884720fcf291689bc6b28e1a21cbc2b53b5",
+  "durationMs": 14880,
+  "materialId": 810581986,
+  "bookId": 112199,
+  "chapterId": 25526378,
+  "updatedAt": "2026-06-22T16:48:37.110Z"
+}

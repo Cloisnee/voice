@@ -1,0 +1,20 @@
+{
+  "id": 825,
+  "name": "夕夕MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG825",
+  "robotId": "825",
+  "engineVoiceId": "create_voice_guagua_825",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。算了，我们先往前走吧。帘外风声一紧，话到嘴边便轻了半分。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0202_夕夕MK-III_825.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0202_夕夕MK-III_825.mp3",
+  "audioHash": "555ec0256dcb4fa23bf5e0bb9e86f06fca17c630040049ae49ba4c9cb1009f18",
+  "durationMs": 14952,
+  "materialId": 810542433,
+  "bookId": 112111,
+  "chapterId": 25525829,
+  "updatedAt": "2026-06-22T16:16:31.134Z"
+}

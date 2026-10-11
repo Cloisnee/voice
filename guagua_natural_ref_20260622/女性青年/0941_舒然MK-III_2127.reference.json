@@ -1,0 +1,20 @@
+{
+  "id": 2127,
+  "name": "舒然MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2127",
+  "robotId": "2127",
+  "engineVoiceId": "create_voice_guagua_2127",
+  "referenceText": "她的声音通过麦克风清晰地传遍礼堂的每个角落，平稳、清越，像一首被精心编排的乐曲",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0941_舒然MK-III_2127.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0941_舒然MK-III_2127.mp3",
+  "audioHash": "f768432504280dfeb3fa22703054db99c2342f37edaa9b4e2aa9d6960afd45bd",
+  "durationMs": 8256,
+  "materialId": 810621863,
+  "bookId": 112828,
+  "chapterId": 25527773,
+  "updatedAt": "2026-06-22T17:24:41.354Z"
+}

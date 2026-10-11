@@ -1,0 +1,20 @@
+{
+  "id": 823,
+  "name": "小桃桃MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG823",
+  "robotId": "823",
+  "engineVoiceId": "create_voice_guagua_823",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。算了，我们先往前走吧。灯影晃了一下，心绪也跟着沉了下去。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0201_小桃桃MK-III_823.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0201_小桃桃MK-III_823.mp3",
+  "audioHash": "8c4f050a322a20b4f02ac03ab9a00897d4bfbb41ac7e2690e3abf2b627570968",
+  "durationMs": 13344,
+  "materialId": 810542486,
+  "bookId": 112110,
+  "chapterId": 25525828,
+  "updatedAt": "2026-06-22T16:16:30.915Z"
+}

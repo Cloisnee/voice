@@ -1,0 +1,20 @@
+{
+  "id": 1809,
+  "name": "传麟-星衍MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1809",
+  "robotId": "1809",
+  "engineVoiceId": "create_voice_guagua_1809",
+  "referenceText": "我当然会怕，可是现在不能停下。别担心，我知道自己在做什么。帘外风声一紧，话到嘴边便轻了半分。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0780_传麟-星衍MK-III_1809.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0780_传麟-星衍MK-III_1809.mp3",
+  "audioHash": "47efa104a7129710056a5412c1f29135567e15482d093680fc05f797669d9870",
+  "durationMs": 14472,
+  "materialId": 810620898,
+  "bookId": 112667,
+  "chapterId": 25527441,
+  "updatedAt": "2026-06-22T17:23:11.007Z"
+}

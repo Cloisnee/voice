@@ -1,0 +1,20 @@
+{
+  "id": 682,
+  "name": "阿圆MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG682",
+  "robotId": "682",
+  "engineVoiceId": "create_voice_guagua_682",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。我会把情绪收好，不影响接下来的事。停了一会儿，语气终于慢慢平稳下来。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0143_阿圆MK-III_682.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0143_阿圆MK-III_682.mp3",
+  "audioHash": "24b5a8f4d1ca975e879888e25ea50e79a1246d92d612a33b39dca2ca7afe8ff8",
+  "durationMs": 17856,
+  "materialId": 810448180,
+  "bookId": 112052,
+  "chapterId": 25525069,
+  "updatedAt": "2026-06-22T15:12:00.069Z"
+}

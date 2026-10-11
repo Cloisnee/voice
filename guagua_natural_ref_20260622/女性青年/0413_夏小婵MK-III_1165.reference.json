@@ -1,0 +1,20 @@
+{
+  "id": 1165,
+  "name": "夏小婵MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1165",
+  "robotId": "1165",
+  "engineVoiceId": "create_voice_guagua_1165",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。你不用立刻回答，我可以等。灯影晃了一下，心绪也跟着沉了下去。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0413_夏小婵MK-III_1165.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0413_夏小婵MK-III_1165.mp3",
+  "audioHash": "f9f09367ffbd77c158b11bf0d34e06a84ed287cfeac95bf3d7e102a9f2c1c58b",
+  "durationMs": 13920,
+  "materialId": 810610255,
+  "bookId": 112301,
+  "chapterId": 25526622,
+  "updatedAt": "2026-06-22T17:17:02.967Z"
+}

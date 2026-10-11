@@ -1,0 +1,20 @@
+{
+  "id": 1375,
+  "name": "宁珂MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1375",
+  "robotId": "1375",
+  "engineVoiceId": "create_voice_guagua_1375",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。如果还有机会，我想重新来一次。停了一会儿，语气终于慢慢平稳下来。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0544_宁珂MK-III_1375.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0544_宁珂MK-III_1375.mp3",
+  "audioHash": "047e99b2f9d099a58d62ac47015bfc421386fdaf8199da4951d72524067fa7e7",
+  "durationMs": 13848,
+  "materialId": 810617374,
+  "bookId": 112432,
+  "chapterId": 25526883,
+  "updatedAt": "2026-06-22T17:21:05.512Z"
+}

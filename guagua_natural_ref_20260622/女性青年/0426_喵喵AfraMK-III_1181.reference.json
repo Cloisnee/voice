@@ -1,0 +1,20 @@
+{
+  "id": 1181,
+  "name": "喵喵AfraMK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1181",
+  "robotId": "1181",
+  "engineVoiceId": "create_voice_guagua_1181",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。算了，我们先往前走吧。帘外风声一紧，话到嘴边便轻了半分。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0426_喵喵AfraMK-III_1181.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0426_喵喵AfraMK-III_1181.mp3",
+  "audioHash": "e05a3da16af35a6b1a7d4f437642657f33a9a57e590dd89c12b5fbcb6cdb7307",
+  "durationMs": 13536,
+  "materialId": 810610810,
+  "bookId": 112314,
+  "chapterId": 25526645,
+  "updatedAt": "2026-06-22T17:17:05.729Z"
+}

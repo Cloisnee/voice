@@ -1,0 +1,20 @@
+{
+  "id": 1254,
+  "name": "润土MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1254",
+  "robotId": "1254",
+  "engineVoiceId": "create_voice_guagua_1254",
+  "referenceText": "事情已经到了这一步，退后反而更危险。我会把人带回来，也会给你一个交代。停了一会儿，语气终于慢慢平稳下来。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0477_润土MK-III_1254.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0477_润土MK-III_1254.mp3",
+  "audioHash": "6750b867d2fa6c45f6f551abbe983eee416c31efe82ee66b12822109880a1c72",
+  "durationMs": 13224,
+  "materialId": 810615786,
+  "bookId": 112365,
+  "chapterId": 25526735,
+  "updatedAt": "2026-06-22T17:20:50.351Z"
+}

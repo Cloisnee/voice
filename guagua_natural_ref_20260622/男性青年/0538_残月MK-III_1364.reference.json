@@ -1,0 +1,20 @@
+{
+  "id": 1364,
+  "name": "残月MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1364",
+  "robotId": "1364",
+  "engineVoiceId": "create_voice_guagua_1364",
+  "referenceText": "你听，他们还在等我回去。先稳住呼吸，再看清楚前面的路。这句话不需要喊出来，却要让人听得真切。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0538_残月MK-III_1364.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0538_残月MK-III_1364.mp3",
+  "audioHash": "105f3b47d6677356a8b4c727a25be8d9d2c3b6fabff5a4736ddd5ac361718b81",
+  "durationMs": 11304,
+  "materialId": 810617357,
+  "bookId": 112426,
+  "chapterId": 25526873,
+  "updatedAt": "2026-06-22T17:21:04.084Z"
+}

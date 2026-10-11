@@ -1,0 +1,20 @@
+{
+  "id": 975,
+  "name": "小鲸鱼MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG975",
+  "robotId": "975",
+  "engineVoiceId": "create_voice_guagua_975",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。算了，我们先往前走吧。帘外风声一紧，话到嘴边便轻了半分。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0286_小鲸鱼MK-III_975.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0286_小鲸鱼MK-III_975.mp3",
+  "audioHash": "67148b9d33de6d8cf2138ae85d1ebc40cf61078216a1dfc91e22d040ec515af4",
+  "durationMs": 16872,
+  "materialId": 810573146,
+  "bookId": 112174,
+  "chapterId": 25526342,
+  "updatedAt": "2026-06-22T16:40:40.221Z"
+}

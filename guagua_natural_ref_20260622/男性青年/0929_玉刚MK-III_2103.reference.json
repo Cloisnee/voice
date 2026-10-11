@@ -1,0 +1,20 @@
+{
+  "id": 2103,
+  "name": "玉刚MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2103",
+  "robotId": "2103",
+  "engineVoiceId": "create_voice_guagua_2103",
+  "referenceText": "刚才那句话，我不是随便说说。我会把人带回来，也会给你一个交代。这句话不需要喊出来，却要让人听得真切。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0929_玉刚MK-III_2103.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0929_玉刚MK-III_2103.mp3",
+  "audioHash": "ecb9d462c3c1554e2a23487ab02d8b78cab647be5a21e620ef5be2d9fe9f32bb",
+  "durationMs": 18360,
+  "materialId": 810621836,
+  "bookId": 112816,
+  "chapterId": 25527751,
+  "updatedAt": "2026-06-22T17:24:34.761Z"
+}

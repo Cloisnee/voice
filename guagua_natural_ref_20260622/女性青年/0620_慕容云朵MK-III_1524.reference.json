@@ -1,0 +1,20 @@
+{
+  "id": 1524,
+  "name": "慕容云朵MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1524",
+  "robotId": "1524",
+  "engineVoiceId": "create_voice_guagua_1524",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。如果还有机会，我想重新来一次。这句话不需要喊出来，却要让人听得真切。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0620_慕容云朵MK-III_1524.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0620_慕容云朵MK-III_1524.mp3",
+  "audioHash": "ff04237ef48e594c186dda47e4b866ba38cec2ce7a319b6e7f0c113c6db52964",
+  "durationMs": 14688,
+  "materialId": 810619111,
+  "bookId": 112508,
+  "chapterId": 25527190,
+  "updatedAt": "2026-06-22T17:21:40.972Z"
+}

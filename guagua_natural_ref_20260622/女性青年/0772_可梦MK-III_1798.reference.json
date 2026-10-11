@@ -1,0 +1,20 @@
+{
+  "id": 1798,
+  "name": "可梦MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1798",
+  "robotId": "1798",
+  "engineVoiceId": "create_voice_guagua_1798",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。如果还有机会，我想重新来一次。这句话不需要喊出来，却要让人听得真切。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0772_可梦MK-III_1798.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0772_可梦MK-III_1798.mp3",
+  "audioHash": "9c04959be00cd6dc3816049003beb9e7b944ff77ca5b004689608033b0ea7555",
+  "durationMs": 13728,
+  "materialId": 810620819,
+  "bookId": 112659,
+  "chapterId": 25527430,
+  "updatedAt": "2026-06-22T17:23:06.585Z"
+}

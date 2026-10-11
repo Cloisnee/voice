@@ -1,0 +1,20 @@
+{
+  "id": 734,
+  "name": "睿宝儿MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG734",
+  "robotId": "734",
+  "engineVoiceId": "create_voice_guagua_734",
+  "referenceText": "我当然会怕，可是现在不能停下。如果必须有人留下，那就让我来。停了一会儿，语气终于慢慢平稳下来。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0167_睿宝儿MK-III_734.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0167_睿宝儿MK-III_734.mp3",
+  "audioHash": "4d3b85ec382d006a78d72d80d8a695e55b01eb5bc9aeda41645bd3ef38b7d844",
+  "durationMs": 13608,
+  "materialId": 810484791,
+  "bookId": 112076,
+  "chapterId": 25525102,
+  "updatedAt": "2026-06-22T15:40:16.337Z"
+}

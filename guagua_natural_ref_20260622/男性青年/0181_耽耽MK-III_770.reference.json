@@ -1,0 +1,20 @@
+{
+  "id": 770,
+  "name": "耽耽MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG770",
+  "robotId": "770",
+  "engineVoiceId": "create_voice_guagua_770",
+  "referenceText": "事情已经到了这一步，退后反而更危险。我会把人带回来，也会给你一个交代。帘外风声一紧，话到嘴边便轻了半分。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0181_耽耽MK-III_770.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0181_耽耽MK-III_770.mp3",
+  "audioHash": "ae4812be3336ae4b767b8dbb661932d445da857672367c04ea5379153459f1e5",
+  "durationMs": 13824,
+  "materialId": 810508783,
+  "bookId": 112090,
+  "chapterId": 25525121,
+  "updatedAt": "2026-06-22T15:55:20.466Z"
+}

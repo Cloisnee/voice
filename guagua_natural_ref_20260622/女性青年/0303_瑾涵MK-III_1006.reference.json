@@ -1,0 +1,20 @@
+{
+  "id": 1006,
+  "name": "瑾涵MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1006",
+  "robotId": "1006",
+  "engineVoiceId": "create_voice_guagua_1006",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。我会把情绪收好，不影响接下来的事。停了一会儿，语气终于慢慢平稳下来。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0303_瑾涵MK-III_1006.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0303_瑾涵MK-III_1006.mp3",
+  "audioHash": "eb647a3f5e9fa894480b008ed2e9ab5b5420a7dcf65b4986c866e89e5d8a2e0b",
+  "durationMs": 16104,
+  "materialId": 810580552,
+  "bookId": 112191,
+  "chapterId": 25526367,
+  "updatedAt": "2026-06-22T16:48:35.563Z"
+}

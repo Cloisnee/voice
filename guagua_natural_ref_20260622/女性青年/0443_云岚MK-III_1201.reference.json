@@ -1,0 +1,20 @@
+{
+  "id": 1201,
+  "name": "云岚MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1201",
+  "robotId": "1201",
+  "engineVoiceId": "create_voice_guagua_1201",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。我会把情绪收好，不影响接下来的事。灯影晃了一下，心绪也跟着沉了下去。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0443_云岚MK-III_1201.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0443_云岚MK-III_1201.mp3",
+  "audioHash": "736523b757d456b1dbb63e2d13eccfcd78a394fcbbb4bfe37e6223b8661d639c",
+  "durationMs": 12816,
+  "materialId": 810613563,
+  "bookId": 112331,
+  "chapterId": 25526673,
+  "updatedAt": "2026-06-22T17:17:09.635Z"
+}

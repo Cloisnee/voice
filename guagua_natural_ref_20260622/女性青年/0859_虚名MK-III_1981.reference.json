@@ -1,0 +1,20 @@
+{
+  "id": 1981,
+  "name": "虚名MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1981",
+  "robotId": "1981",
+  "engineVoiceId": "create_voice_guagua_1981",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。我会把情绪收好，不影响接下来的事。灯影晃了一下，心绪也跟着沉了下去。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0859_虚名MK-III_1981.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0859_虚名MK-III_1981.mp3",
+  "audioHash": "9fda99e90e5af59db2d2add4a6e68bda304494d301dc663afad2aaf808fb25e7",
+  "durationMs": 14784,
+  "materialId": 810621678,
+  "bookId": 112746,
+  "chapterId": 25527632,
+  "updatedAt": "2026-06-22T17:23:55.820Z"
+}

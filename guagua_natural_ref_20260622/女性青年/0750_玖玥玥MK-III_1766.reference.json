@@ -1,0 +1,20 @@
+{
+  "id": 1766,
+  "name": "玖玥玥MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1766",
+  "robotId": "1766",
+  "engineVoiceId": "create_voice_guagua_1766",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。算了，我们先往前走吧。灯影晃了一下，心绪也跟着沉了下去。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0750_玖玥玥MK-III_1766.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0750_玖玥玥MK-III_1766.mp3",
+  "audioHash": "d4a1986611a0337a721ff837a4afb96c3323127a5f0dc601ae203f3d8402c5e2",
+  "durationMs": 12720,
+  "materialId": 810620486,
+  "bookId": 112637,
+  "chapterId": 25527397,
+  "updatedAt": "2026-06-22T17:22:54.460Z"
+}

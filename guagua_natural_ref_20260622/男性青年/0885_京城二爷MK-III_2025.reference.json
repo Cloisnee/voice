@@ -1,0 +1,20 @@
+{
+  "id": 2025,
+  "name": "京城二爷MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2025",
+  "robotId": "2025",
+  "engineVoiceId": "create_voice_guagua_2025",
+  "referenceText": "你听，他们还在等我回去。我会把人带回来，也会给你一个交代。灯影晃了一下，心绪也跟着沉了下去。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0885_京城二爷MK-III_2025.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0885_京城二爷MK-III_2025.mp3",
+  "audioHash": "5c726fcd14307ad8319e43cd244727f7d17fb048e5ea11e5a725e73c27565c53",
+  "durationMs": 12480,
+  "materialId": 810621842,
+  "bookId": 112772,
+  "chapterId": 25527671,
+  "updatedAt": "2026-06-22T17:24:10.035Z"
+}

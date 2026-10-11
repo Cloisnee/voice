@@ -1,0 +1,20 @@
+{
+  "id": 2097,
+  "name": "晴文MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2097",
+  "robotId": "2097",
+  "engineVoiceId": "create_voice_guagua_2097",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。你不用立刻回答，我可以等。灯影晃了一下，心绪也跟着沉了下去。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0925_晴文MK-III_2097.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0925_晴文MK-III_2097.mp3",
+  "audioHash": "90ca022ae1ce858937f3364c884a66a029a50b0ddf08b3c6b1967817adbcc74b",
+  "durationMs": 14352,
+  "materialId": 810621829,
+  "bookId": 112812,
+  "chapterId": 25527742,
+  "updatedAt": "2026-06-22T17:24:32.487Z"
+}

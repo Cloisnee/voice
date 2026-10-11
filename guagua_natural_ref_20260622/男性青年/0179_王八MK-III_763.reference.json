@@ -1,0 +1,20 @@
+{
+  "id": 763,
+  "name": "王八MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG763",
+  "robotId": "763",
+  "engineVoiceId": "create_voice_guagua_763",
+  "referenceText": "你听，他们还在等我回去。如果必须有人留下，那就让我来。灯影晃了一下，心绪也跟着沉了下去。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0179_王八MK-III_763.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0179_王八MK-III_763.mp3",
+  "audioHash": "b09963acca87b7cd55ac0fb838d610de42750512b61b3f143aae8a64ef240257",
+  "durationMs": 11664,
+  "materialId": 810508659,
+  "bookId": 112088,
+  "chapterId": 25525119,
+  "updatedAt": "2026-06-22T15:55:20.048Z"
+}

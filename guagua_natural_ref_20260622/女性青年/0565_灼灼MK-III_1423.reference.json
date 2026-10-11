@@ -1,0 +1,20 @@
+{
+  "id": 1423,
+  "name": "灼灼MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1423",
+  "robotId": "1423",
+  "engineVoiceId": "create_voice_guagua_1423",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。你不用立刻回答，我可以等。灯影晃了一下，心绪也跟着沉了下去。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0565_灼灼MK-III_1423.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0565_灼灼MK-III_1423.mp3",
+  "audioHash": "038c239ecb9f8d170b5cd2872acd42f66852c3abdfef981d25996b058de31a9a",
+  "durationMs": 12936,
+  "materialId": 810618014,
+  "bookId": 112453,
+  "chapterId": 25526921,
+  "updatedAt": "2026-06-22T17:21:11.206Z"
+}

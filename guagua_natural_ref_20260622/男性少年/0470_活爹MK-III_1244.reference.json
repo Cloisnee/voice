@@ -1,0 +1,20 @@
+{
+  "id": 1244,
+  "name": "活爹MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1244",
+  "robotId": "1244",
+  "engineVoiceId": "create_voice_guagua_1244",
+  "referenceText": "你听，他们还在等我回去。先稳住呼吸，再看清楚前面的路。灯影晃了一下，心绪也跟着沉了下去。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0470_活爹MK-III_1244.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0470_活爹MK-III_1244.mp3",
+  "audioHash": "d93cbe1fbe4b8bab50c6d16e9f26346f76695fb8f809b44097982d975d868a16",
+  "durationMs": 11928,
+  "materialId": 810615261,
+  "bookId": 112358,
+  "chapterId": 25526720,
+  "updatedAt": "2026-06-22T17:20:48.833Z"
+}

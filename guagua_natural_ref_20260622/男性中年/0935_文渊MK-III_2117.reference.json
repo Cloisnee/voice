@@ -1,0 +1,20 @@
+{
+  "id": 2117,
+  "name": "文渊MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2117",
+  "robotId": "2117",
+  "engineVoiceId": "create_voice_guagua_2117",
+  "referenceText": "多年经验告诉我，越平静的地方越要小心。有些责任，躲是躲不过去的。灯影晃了一下，心绪也跟着沉了下去。天亮之前，我们必须有结果。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0935_文渊MK-III_2117.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0935_文渊MK-III_2117.mp3",
+  "audioHash": "955de0125c62b60228a256f16a902226ef94a198ff64767b9c56ee12b2f70fc3",
+  "durationMs": 16224,
+  "materialId": 810622224,
+  "bookId": 112822,
+  "chapterId": 25527763,
+  "updatedAt": "2026-06-22T17:24:38.060Z"
+}

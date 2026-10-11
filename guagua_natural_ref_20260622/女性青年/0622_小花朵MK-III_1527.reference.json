@@ -1,0 +1,20 @@
+{
+  "id": 1527,
+  "name": "小花朵MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1527",
+  "robotId": "1527",
+  "engineVoiceId": "create_voice_guagua_1527",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。算了，我们先往前走吧。停了一会儿，语气终于慢慢平稳下来。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0622_小花朵MK-III_1527.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0622_小花朵MK-III_1527.mp3",
+  "audioHash": "ac2450ba67faf016832ec53ba54a706671996f626bd60d99dfa926bbb1f1dc2e",
+  "durationMs": 15792,
+  "materialId": 810619131,
+  "bookId": 112510,
+  "chapterId": 25527192,
+  "updatedAt": "2026-06-22T17:21:42.383Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1148,
+  "name": "一路不凡MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1148",
+  "robotId": "1148",
+  "engineVoiceId": "create_voice_guagua_1148",
+  "referenceText": "刚才那句话，我不是随便说说。别担心，我知道自己在做什么。灯影晃了一下，心绪也跟着沉了下去。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0400_一路不凡MK-III_1148.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0400_一路不凡MK-III_1148.mp3",
+  "audioHash": "980f9c569b77edab80c92bbeed25f9e9c1334fcc8cf2e1594cab9b0267b22e82",
+  "durationMs": 11712,
+  "materialId": 810608384,
+  "bookId": 112288,
+  "chapterId": 25526596,
+  "updatedAt": "2026-06-22T17:12:39.267Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1617,
+  "name": "铁叔旁白MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1617",
+  "robotId": "1617",
+  "engineVoiceId": "create_voice_guagua_1617",
+  "referenceText": "你听，他们还在等我回去。我会把人带回来，也会给你一个交代。灯影晃了一下，心绪也跟着沉了下去。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0689_铁叔旁白MK-III_1617.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0689_铁叔旁白MK-III_1617.mp3",
+  "audioHash": "2928a52310995adfa2ea89d69e2d99cbbe6ff0040fc6af4309cb7d4cb50316c6",
+  "durationMs": 12072,
+  "materialId": 810619851,
+  "bookId": 112577,
+  "chapterId": 25527290,
+  "updatedAt": "2026-06-22T17:22:19.972Z"
+}

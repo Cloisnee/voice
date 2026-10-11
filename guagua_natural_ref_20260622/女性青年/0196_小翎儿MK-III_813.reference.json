@@ -1,0 +1,20 @@
+{
+  "id": 813,
+  "name": "小翎儿MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG813",
+  "robotId": "813",
+  "engineVoiceId": "create_voice_guagua_813",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。如果还有机会，我想重新来一次。停了一会儿，语气终于慢慢平稳下来。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0196_小翎儿MK-III_813.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0196_小翎儿MK-III_813.mp3",
+  "audioHash": "63fdc6221213b4965a00c4216f1cf8f053b2681ba6fa4ec74c8a8dc9b2b8a3f3",
+  "durationMs": 18096,
+  "materialId": null,
+  "bookId": 112105,
+  "chapterId": 25525819,
+  "updatedAt": "2026-06-22T16:07:04.175Z"
+}

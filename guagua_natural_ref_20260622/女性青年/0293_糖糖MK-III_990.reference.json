@@ -1,0 +1,20 @@
+{
+  "id": 990,
+  "name": "糖糖MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG990",
+  "robotId": "990",
+  "engineVoiceId": "create_voice_guagua_990",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。你不用立刻回答，我可以等。帘外风声一紧，话到嘴边便轻了半分。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0293_糖糖MK-III_990.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0293_糖糖MK-III_990.mp3",
+  "audioHash": "1d21135010e1f3e9e7269757f3fda017498a8e699734b86c52f167bf5cbc5f34",
+  "durationMs": 14592,
+  "materialId": 810578015,
+  "bookId": 112181,
+  "chapterId": 25526351,
+  "updatedAt": "2026-06-22T16:48:33.382Z"
+}

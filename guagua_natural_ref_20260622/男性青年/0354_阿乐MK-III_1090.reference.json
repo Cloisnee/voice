@@ -1,0 +1,20 @@
+{
+  "id": 1090,
+  "name": "阿乐MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1090",
+  "robotId": "1090",
+  "engineVoiceId": "create_voice_guagua_1090",
+  "referenceText": "刚才那句话，我不是随便说说。先稳住呼吸，再看清楚前面的路。这句话不需要喊出来，却要让人听得真切。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0354_阿乐MK-III_1090.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0354_阿乐MK-III_1090.mp3",
+  "audioHash": "6be9e401f6764a6799637039ca2f8f9f2e862b091641a31000230bbf6d2dfdbd",
+  "durationMs": 11280,
+  "materialId": 810598626,
+  "bookId": 112242,
+  "chapterId": 25526446,
+  "updatedAt": "2026-06-22T17:03:18.854Z"
+}

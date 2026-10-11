@@ -1,0 +1,20 @@
+{
+  "id": 750,
+  "name": "爱你的小艾MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG750",
+  "robotId": "750",
+  "engineVoiceId": "create_voice_guagua_750",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。算了，我们先往前走吧。灯影晃了一下，心绪也跟着沉了下去。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0174_爱你的小艾MK-III_750.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0174_爱你的小艾MK-III_750.mp3",
+  "audioHash": "92367b2af9a919ac5799df1b9937e7e6461b8c33a72c32d14093a17fb9bc77ae",
+  "durationMs": 14952,
+  "materialId": 810508310,
+  "bookId": 112083,
+  "chapterId": 25525112,
+  "updatedAt": "2026-06-22T15:55:19.048Z"
+}

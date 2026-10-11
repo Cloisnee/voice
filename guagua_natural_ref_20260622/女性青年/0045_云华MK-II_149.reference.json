@@ -1,0 +1,20 @@
+{
+  "id": 149,
+  "name": "云华MK-II",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG149",
+  "robotId": "149",
+  "engineVoiceId": "create_voice_guagua_149",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。你不用立刻回答，我可以等。这句话不需要喊出来，却要让人听得真切。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0045_云华MK-II_149.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0045_云华MK-II_149.mp3",
+  "audioHash": "fbc6ec333d78a84a3759e084fd73a37c4d2c67fe83bfb80d002303d8b44a0d52",
+  "durationMs": 15144,
+  "materialId": 810398251,
+  "bookId": 112015,
+  "chapterId": 25524389,
+  "updatedAt": "2026-06-22T14:40:40.278Z"
+}

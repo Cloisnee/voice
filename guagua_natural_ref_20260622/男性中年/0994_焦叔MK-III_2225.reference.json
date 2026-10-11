@@ -1,0 +1,20 @@
+{
+  "id": 2225,
+  "name": "焦叔MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2225",
+  "robotId": "2225",
+  "engineVoiceId": "create_voice_guagua_2225",
+  "referenceText": "我不是不相信你，只是现在必须谨慎。你把人手安排好，我去看现场。帘外风声一紧，话到嘴边便轻了半分。别慌，先按计划来。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0994_焦叔MK-III_2225.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0994_焦叔MK-III_2225.mp3",
+  "audioHash": "ef54d6a7b6b1174e97d23752a34629631c61b8052b14f523bb1ddd8d2e889665",
+  "durationMs": 15144,
+  "materialId": 810622230,
+  "bookId": 112881,
+  "chapterId": 25527863,
+  "updatedAt": "2026-06-22T17:25:10.679Z"
+}

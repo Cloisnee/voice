@@ -1,0 +1,20 @@
+{
+  "id": 1454,
+  "name": "阿御MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1454",
+  "robotId": "1454",
+  "engineVoiceId": "create_voice_guagua_1454",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。我会把情绪收好，不影响接下来的事。帘外风声一紧，话到嘴边便轻了半分。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0583_阿御MK-III_1454.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0583_阿御MK-III_1454.mp3",
+  "audioHash": "fbaada56de3d755c6040c304b2d634d8455d38621c462c2c08abc0e75bc5be2b",
+  "durationMs": 19560,
+  "materialId": 810618410,
+  "bookId": 112471,
+  "chapterId": 25526951,
+  "updatedAt": "2026-06-22T17:21:20.853Z"
+}

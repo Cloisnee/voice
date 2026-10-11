@@ -1,0 +1,20 @@
+{
+  "id": 162,
+  "name": "苍佶MK-II",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG162",
+  "robotId": "162",
+  "engineVoiceId": "create_voice_guagua_162",
+  "referenceText": "这件事没你想得那么简单。有些责任，躲是躲不过去的。帘外风声一紧，话到嘴边便轻了半分。等证据齐了，再做决定。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0055_苍佶MK-II_162.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0055_苍佶MK-II_162.mp3",
+  "audioHash": "f8bb80aed7708a315e0eb8e2a24d72a1f1cb47b4efe32bc1d56fbc543bfaedc7",
+  "durationMs": 13392,
+  "materialId": 810398383,
+  "bookId": 112025,
+  "chapterId": 25524437,
+  "updatedAt": "2026-06-22T14:40:43.307Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1005,
+  "name": "无用MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1005",
+  "robotId": "1005",
+  "engineVoiceId": "create_voice_guagua_1005",
+  "referenceText": "事情已经到了这一步，退后反而更危险。先稳住呼吸，再看清楚前面的路。停了一会儿，语气终于慢慢平稳下来。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0302_无用MK-III_1005.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0302_无用MK-III_1005.mp3",
+  "audioHash": "c142c27b034db7a4f7e7b025ce3cdd3d551e29546ea3c763d1e6ba90216ee245",
+  "durationMs": 11760,
+  "materialId": 810580844,
+  "bookId": 112190,
+  "chapterId": 25526364,
+  "updatedAt": "2026-06-22T16:48:35.238Z"
+}

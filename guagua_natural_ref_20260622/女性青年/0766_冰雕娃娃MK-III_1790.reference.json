@@ -1,0 +1,20 @@
+{
+  "id": 1790,
+  "name": "冰雕娃娃MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1790",
+  "robotId": "1790",
+  "engineVoiceId": "create_voice_guagua_1790",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。算了，我们先往前走吧。灯影晃了一下，心绪也跟着沉了下去。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0766_冰雕娃娃MK-III_1790.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0766_冰雕娃娃MK-III_1790.mp3",
+  "audioHash": "3b584752c7205fbe74480573536d6a63be210de77db494c7a223a1d491387a22",
+  "durationMs": 14976,
+  "materialId": 810620648,
+  "bookId": 112653,
+  "chapterId": 25527420,
+  "updatedAt": "2026-06-22T17:23:03.164Z"
+}

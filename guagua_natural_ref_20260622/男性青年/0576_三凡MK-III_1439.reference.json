@@ -1,0 +1,20 @@
+{
+  "id": 1439,
+  "name": "三凡MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1439",
+  "robotId": "1439",
+  "engineVoiceId": "create_voice_guagua_1439",
+  "referenceText": "事情已经到了这一步，退后反而更危险。别担心，我知道自己在做什么。停了一会儿，语气终于慢慢平稳下来。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0576_三凡MK-III_1439.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0576_三凡MK-III_1439.mp3",
+  "audioHash": "89d42a3ef3589ea1caa33f6e226bc2504bc3cb21c29e8d07d9417e67ea9f5fde",
+  "durationMs": 12840,
+  "materialId": 810618292,
+  "bookId": 112464,
+  "chapterId": 25526939,
+  "updatedAt": "2026-06-22T17:21:17.163Z"
+}

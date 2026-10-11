@@ -1,0 +1,20 @@
+{
+  "id": 1245,
+  "name": "小面人MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1245",
+  "robotId": "1245",
+  "engineVoiceId": "create_voice_guagua_1245",
+  "referenceText": "刚才那句话，我不是随便说说。如果必须有人留下，那就让我来。灯影晃了一下，心绪也跟着沉了下去。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0471_小面人MK-III_1245.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0471_小面人MK-III_1245.mp3",
+  "audioHash": "d2470f4677deba441f8a800aef6a5aacf3e001f37eba68bb38950bbfb6b3f358",
+  "durationMs": 13512,
+  "materialId": 810615292,
+  "bookId": 112359,
+  "chapterId": 25526722,
+  "updatedAt": "2026-06-22T17:20:49.051Z"
+}

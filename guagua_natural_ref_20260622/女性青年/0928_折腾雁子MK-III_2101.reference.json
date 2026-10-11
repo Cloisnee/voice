@@ -1,0 +1,20 @@
+{
+  "id": 2101,
+  "name": "折腾雁子MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2101",
+  "robotId": "2101",
+  "engineVoiceId": "create_voice_guagua_2101",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。如果还有机会，我想重新来一次。停了一会儿，语气终于慢慢平稳下来。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0928_折腾雁子MK-III_2101.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0928_折腾雁子MK-III_2101.mp3",
+  "audioHash": "8d2828a1d53b1b8c0cd3407fc385276e4dcab1ebe9f8dd4a76bed5d60be713a2",
+  "durationMs": 21816,
+  "materialId": 810621831,
+  "bookId": 112815,
+  "chapterId": 25527748,
+  "updatedAt": "2026-06-22T17:24:34.210Z"
+}

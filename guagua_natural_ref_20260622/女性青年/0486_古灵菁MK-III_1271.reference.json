@@ -1,0 +1,20 @@
+{
+  "id": 1271,
+  "name": "古灵菁MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1271",
+  "robotId": "1271",
+  "engineVoiceId": "create_voice_guagua_1271",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。算了，我们先往前走吧。停了一会儿，语气终于慢慢平稳下来。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0486_古灵菁MK-III_1271.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0486_古灵菁MK-III_1271.mp3",
+  "audioHash": "403c7d601a9a7dbb248413c53920fdb01803a2cbabca80b2f83f7cbab97b8aa9",
+  "durationMs": 14496,
+  "materialId": 810615846,
+  "bookId": 112374,
+  "chapterId": 25526773,
+  "updatedAt": "2026-06-22T17:20:52.123Z"
+}

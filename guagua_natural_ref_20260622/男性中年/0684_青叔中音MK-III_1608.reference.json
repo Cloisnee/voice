@@ -1,0 +1,20 @@
+{
+  "id": 1608,
+  "name": "青叔中音MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1608",
+  "robotId": "1608",
+  "engineVoiceId": "create_voice_guagua_1608",
+  "referenceText": "多年经验告诉我，越平静的地方越要小心。稳住局面，比什么都重要。门外那一点动静，让所有话都停在了半空。天亮之前，我们必须有结果。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/悬疑",
+  "audioFile": "0684_青叔中音MK-III_1608.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0684_青叔中音MK-III_1608.mp3",
+  "audioHash": "383cd1936984351513396323d3453bb24014adb01afd9edd811b56c16e65ddb0",
+  "durationMs": 14952,
+  "materialId": 810620058,
+  "bookId": 112572,
+  "chapterId": 25527285,
+  "updatedAt": "2026-06-22T17:22:16.897Z"
+}

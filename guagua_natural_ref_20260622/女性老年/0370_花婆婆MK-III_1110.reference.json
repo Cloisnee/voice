@@ -1,0 +1,20 @@
+{
+  "id": 1110,
+  "name": "花婆婆MK-III",
+  "category": "女性老年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1110",
+  "robotId": "1110",
+  "engineVoiceId": "create_voice_guagua_1110",
+  "referenceText": "别把一时的输赢看得太重。日子还得过，天亮了，就该往前走。灯影晃了一下，心绪也跟着沉了下去。人要学会低头，也要记得抬头看路。",
+  "emotionProfile": "慈祥、缓慢、带回忆感",
+  "sampleStyle": "女性老年/古风",
+  "audioFile": "0370_花婆婆MK-III_1110.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性老年/0370_花婆婆MK-III_1110.mp3",
+  "audioHash": "a5eccc20341feea3783ae2902d2b59245be92bfca5e944bfa37e716be20859f6",
+  "durationMs": 17424,
+  "materialId": 810603747,
+  "bookId": 112258,
+  "chapterId": 25526471,
+  "updatedAt": "2026-06-22T17:07:59.833Z"
+}

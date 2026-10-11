@@ -1,0 +1,20 @@
+{
+  "id": 1615,
+  "name": "小小天儿MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1615",
+  "robotId": "1615",
+  "engineVoiceId": "create_voice_guagua_1615",
+  "referenceText": "事情已经到了这一步，退后反而更危险。别担心，我知道自己在做什么。帘外风声一紧，话到嘴边便轻了半分。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0688_小小天儿MK-III_1615.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0688_小小天儿MK-III_1615.mp3",
+  "audioHash": "50d5821aad7382f115cca8964979e076f4a20162d9e962fc5d94c44ad40110d0",
+  "durationMs": 13824,
+  "materialId": 810619853,
+  "bookId": 112576,
+  "chapterId": 25527289,
+  "updatedAt": "2026-06-22T17:22:19.261Z"
+}

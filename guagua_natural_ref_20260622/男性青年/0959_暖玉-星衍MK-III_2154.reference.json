@@ -1,0 +1,20 @@
+{
+  "id": 2154,
+  "name": "暖玉-星衍MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2154",
+  "robotId": "2154",
+  "engineVoiceId": "create_voice_guagua_2154",
+  "referenceText": "我当然会怕，可是现在不能停下。如果必须有人留下，那就让我来。帘外风声一紧，话到嘴边便轻了半分。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0959_暖玉-星衍MK-III_2154.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0959_暖玉-星衍MK-III_2154.mp3",
+  "audioHash": "f890d4d01c0d48a96304be023904449e7ef4e4630262ea94e827c7c7cbc10bc0",
+  "durationMs": 13056,
+  "materialId": 810621944,
+  "bookId": 112846,
+  "chapterId": 25527805,
+  "updatedAt": "2026-06-22T17:24:51.537Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1911,
+  "name": "鲲声MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1911",
+  "robotId": "1911",
+  "engineVoiceId": "create_voice_guagua_1911",
+  "referenceText": "这件事没你想得那么简单。你把人手安排好，我去看现场。屋里忽然安静下来，连呼吸声都显得格外清楚。别慌，先按计划来。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/悬疑",
+  "audioFile": "0826_鲲声MK-III_1911.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0826_鲲声MK-III_1911.mp3",
+  "audioHash": "2d65e406de5efee478efec963de5dd13fb44241dc00615160915d5367e8e40fa",
+  "durationMs": 11640,
+  "materialId": 810621104,
+  "bookId": 112713,
+  "chapterId": 25527581,
+  "updatedAt": "2026-06-22T17:23:37.602Z"
+}

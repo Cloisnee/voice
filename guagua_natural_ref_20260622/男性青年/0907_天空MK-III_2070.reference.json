@@ -1,0 +1,20 @@
+{
+  "id": 2070,
+  "name": "天空MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2070",
+  "robotId": "2070",
+  "engineVoiceId": "create_voice_guagua_2070",
+  "referenceText": "我当然会怕，可是现在不能停下。如果必须有人留下，那就让我来。停了一会儿，语气终于慢慢平稳下来。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0907_天空MK-III_2070.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0907_天空MK-III_2070.mp3",
+  "audioHash": "905d8fa2e1234303cafe608061543cce19149e45ee1943319e5d10a17986de40",
+  "durationMs": 12888,
+  "materialId": 810621703,
+  "bookId": 112794,
+  "chapterId": 25527710,
+  "updatedAt": "2026-06-22T17:24:22.367Z"
+}

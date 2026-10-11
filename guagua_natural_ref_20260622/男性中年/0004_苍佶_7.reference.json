@@ -1,0 +1,20 @@
+{
+  "id": 7,
+  "name": "苍佶",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG7",
+  "robotId": "7",
+  "engineVoiceId": "create_voice_guagua_7",
+  "referenceText": "我不是不相信你，只是现在必须谨慎。稳住局面，比什么都重要。帘外风声一紧，话到嘴边便轻了半分。这句话我只说一遍，你记住。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0004_苍佶_7.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0004_苍佶_7.mp3",
+  "audioHash": "768ba256050043c491413af2d42549ca942e2d7ec1102f5fdc811f32544c7c81",
+  "durationMs": 14184,
+  "materialId": 810336652,
+  "bookId": 111965,
+  "chapterId": 25523209,
+  "updatedAt": "2026-06-22T14:25:26.139Z"
+}

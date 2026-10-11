@@ -1,0 +1,20 @@
+{
+  "id": 2083,
+  "name": "大河马MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2083",
+  "robotId": "2083",
+  "engineVoiceId": "create_voice_guagua_2083",
+  "referenceText": "辛勤的耕耘，会获得丰硕的果实；汗水和不眠之夜，会铺平通往科学之巅的道路。杜微和方爽经过几年苦斗，终于查明：烈性腐蚀菌的秘密，在于它能分泌出一种烈性腐蚀剂。它的腐蚀本领，来自腐蚀剂。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/现代",
+  "audioFile": "0915_大河马MK-III_2083.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0915_大河马MK-III_2083.mp3",
+  "audioHash": "cdb71cc3b42f8188cf35d71fbc9fd5d02e8a7aaea498d4b0e76cc9cf1d17c186",
+  "durationMs": 19776,
+  "materialId": 810621783,
+  "bookId": 112802,
+  "chapterId": 25527725,
+  "updatedAt": "2026-06-22T17:24:26.898Z"
+}

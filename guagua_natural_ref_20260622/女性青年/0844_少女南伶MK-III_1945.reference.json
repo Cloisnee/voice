@@ -1,0 +1,20 @@
+{
+  "id": 1945,
+  "name": "少女南伶MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1945",
+  "robotId": "1945",
+  "engineVoiceId": "create_voice_guagua_1945",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。如果还有机会，我想重新来一次。帘外风声一紧，话到嘴边便轻了半分。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0844_少女南伶MK-III_1945.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0844_少女南伶MK-III_1945.mp3",
+  "audioHash": "9c3a99e54e91109f51e83988850c1ec15bf3294787e6620124fa8c078a9ed08e",
+  "durationMs": 15936,
+  "materialId": 810621559,
+  "bookId": 112731,
+  "chapterId": 25527607,
+  "updatedAt": "2026-06-22T17:23:47.323Z"
+}

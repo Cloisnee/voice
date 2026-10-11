@@ -1,0 +1,20 @@
+{
+  "id": 2194,
+  "name": "雾里听雨MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2194",
+  "robotId": "2194",
+  "engineVoiceId": "create_voice_guagua_2194",
+  "referenceText": "她说罢，抬起手背抹了一下眼眶，小跑着上了楼。随着她的跑动，无色的粉末洒在了何婉的裙摆上，无声无息。何婉站在原地，面部抽搐，胸口起伏。她自从嫁给林建，什么时候被这么骂过！",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0981_雾里听雨MK-III_2194.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0981_雾里听雨MK-III_2194.mp3",
+  "audioHash": "1cd085dd19da3e60e148065988a539a25f02b23a500286ed90ef4a4000d0e6a8",
+  "durationMs": 18336,
+  "materialId": 810622075,
+  "bookId": 112868,
+  "chapterId": 25527842,
+  "updatedAt": "2026-06-22T17:25:03.473Z"
+}

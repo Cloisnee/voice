@@ -1,0 +1,20 @@
+{
+  "id": 1431,
+  "name": "子渊-星衍MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1431",
+  "robotId": "1431",
+  "engineVoiceId": "create_voice_guagua_1431",
+  "referenceText": "我当然会怕，可是现在不能停下。先稳住呼吸，再看清楚前面的路。帘外风声一紧，话到嘴边便轻了半分。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0570_子渊-星衍MK-III_1431.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0570_子渊-星衍MK-III_1431.mp3",
+  "audioHash": "28ed273dd31fc4e8fe38f295b95a7268a05ad4dc4290adee668312179c7bfd5b",
+  "durationMs": 11328,
+  "materialId": 810618237,
+  "bookId": 112458,
+  "chapterId": 25526929,
+  "updatedAt": "2026-06-22T17:21:13.967Z"
+}

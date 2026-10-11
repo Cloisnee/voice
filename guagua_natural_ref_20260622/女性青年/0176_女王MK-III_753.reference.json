@@ -1,0 +1,20 @@
+{
+  "id": 753,
+  "name": "女王MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG753",
+  "robotId": "753",
+  "engineVoiceId": "create_voice_guagua_753",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。如果还有机会，我想重新来一次。停了一会儿，语气终于慢慢平稳下来。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0176_女王MK-III_753.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0176_女王MK-III_753.mp3",
+  "audioHash": "c9fee504fa53ec98bdf93c9bb9c5a0790441a91465f6b9449eb05feb10256be9",
+  "durationMs": 18408,
+  "materialId": 810508508,
+  "bookId": 112085,
+  "chapterId": 25525114,
+  "updatedAt": "2026-06-22T15:55:19.465Z"
+}

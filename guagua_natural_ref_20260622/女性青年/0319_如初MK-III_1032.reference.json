@@ -1,0 +1,20 @@
+{
+  "id": 1032,
+  "name": "如初MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1032",
+  "robotId": "1032",
+  "engineVoiceId": "create_voice_guagua_1032",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。我会把情绪收好，不影响接下来的事。帘外风声一紧，话到嘴边便轻了半分。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0319_如初MK-III_1032.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0319_如初MK-III_1032.mp3",
+  "audioHash": "b6ad4fe3ef4a1506504fee1462a98f1fd69b5b4c45c78c3541e56f1994ec8853",
+  "durationMs": 15648,
+  "materialId": 810590984,
+  "bookId": 112207,
+  "chapterId": 25526390,
+  "updatedAt": "2026-06-22T16:58:23.372Z"
+}

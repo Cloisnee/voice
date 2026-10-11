@@ -1,0 +1,20 @@
+{
+  "id": 1109,
+  "name": "江水呆MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1109",
+  "robotId": "1109",
+  "engineVoiceId": "create_voice_guagua_1109",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。如果还有机会，我想重新来一次。门外那一点动静，让所有话都停在了半空。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/悬疑",
+  "audioFile": "0369_江水呆MK-III_1109.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0369_江水呆MK-III_1109.mp3",
+  "audioHash": "635fab70cb0813506d0644b1853dc13b9e7521234d76824829f2b8c8f37719c7",
+  "durationMs": 13680,
+  "materialId": 810603734,
+  "bookId": 112257,
+  "chapterId": 25526470,
+  "updatedAt": "2026-06-22T17:07:59.611Z"
+}

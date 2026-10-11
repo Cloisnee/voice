@@ -1,0 +1,20 @@
+{
+  "id": 1052,
+  "name": "小红米MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1052",
+  "robotId": "1052",
+  "engineVoiceId": "create_voice_guagua_1052",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。你不用立刻回答，我可以等。帘外风声一紧，话到嘴边便轻了半分。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0329_小红米MK-III_1052.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0329_小红米MK-III_1052.mp3",
+  "audioHash": "691e135095fcd9c6330dea756778a7b861f4933e0b38c7f13104cb45e4ec8350",
+  "durationMs": 16920,
+  "materialId": 810592586,
+  "bookId": 112217,
+  "chapterId": 25526407,
+  "updatedAt": "2026-06-22T16:58:25.540Z"
+}

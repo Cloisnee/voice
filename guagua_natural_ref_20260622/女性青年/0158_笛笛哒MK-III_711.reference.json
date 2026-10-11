@@ -1,0 +1,20 @@
+{
+  "id": 711,
+  "name": "笛笛哒MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG711",
+  "robotId": "711",
+  "engineVoiceId": "create_voice_guagua_711",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。算了，我们先往前走吧。窗外车声一闪而过，语气也慢慢稳住了。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/现代",
+  "audioFile": "0158_笛笛哒MK-III_711.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0158_笛笛哒MK-III_711.mp3",
+  "audioHash": "1d92a02d9711351b980916bf996f2a565ebd0683648e4ab9014d2a03a3031b30",
+  "durationMs": 20016,
+  "materialId": 810472824,
+  "bookId": 112067,
+  "chapterId": 25525090,
+  "updatedAt": "2026-06-22T15:31:04.650Z"
+}

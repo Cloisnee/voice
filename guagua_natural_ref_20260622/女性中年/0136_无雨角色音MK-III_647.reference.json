@@ -1,0 +1,20 @@
+{
+  "id": 647,
+  "name": "无雨角色音MK-III",
+  "category": "女性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG647",
+  "robotId": "647",
+  "engineVoiceId": "create_voice_guagua_647",
+  "referenceText": "“民女拜见皇上，皇上万岁万福！拜见皇后娘娘，皇后娘娘千岁金安！”",
+  "emotionProfile": "沉稳安抚，低强度情绪起伏",
+  "sampleStyle": "女性中年/古风",
+  "audioFile": "0136_无雨角色音MK-III_647.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性中年/0136_无雨角色音MK-III_647.mp3",
+  "audioHash": "65a84da07ceff96c3fe3ddf4e3d582cb07051bc8feb38c6dd7a51e7345aae423",
+  "durationMs": 9960,
+  "materialId": 810435277,
+  "bookId": 112045,
+  "chapterId": 25524473,
+  "updatedAt": "2026-06-22T15:06:22.826Z"
+}

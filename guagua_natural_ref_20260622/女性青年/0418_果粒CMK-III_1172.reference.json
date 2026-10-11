@@ -1,0 +1,20 @@
+{
+  "id": 1172,
+  "name": "果粒CMK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1172",
+  "robotId": "1172",
+  "engineVoiceId": "create_voice_guagua_1172",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。算了，我们先往前走吧。灯影晃了一下，心绪也跟着沉了下去。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0418_果粒CMK-III_1172.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0418_果粒CMK-III_1172.mp3",
+  "audioHash": "e6e8cfe1ab84b04aacc26e2d6b482cd14b1b6d73f5f7cd725a0ade897abf89f9",
+  "durationMs": 13800,
+  "materialId": 810610818,
+  "bookId": 112306,
+  "chapterId": 25526630,
+  "updatedAt": "2026-06-22T17:17:04.136Z"
+}

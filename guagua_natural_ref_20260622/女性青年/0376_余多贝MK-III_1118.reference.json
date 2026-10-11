@@ -1,0 +1,20 @@
+{
+  "id": 1118,
+  "name": "余多贝MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1118",
+  "robotId": "1118",
+  "engineVoiceId": "create_voice_guagua_1118",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。如果还有机会，我想重新来一次。手机屏幕暗下去以后，房间里只剩下彼此的呼吸。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/现代",
+  "audioFile": "0376_余多贝MK-III_1118.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0376_余多贝MK-III_1118.mp3",
+  "audioHash": "a38c93f6a54850bc878562c5bf1940bb7fff16fe20d07a60f7b81f2fc27e9abc",
+  "durationMs": 14640,
+  "materialId": 810603827,
+  "bookId": 112264,
+  "chapterId": 25526480,
+  "updatedAt": "2026-06-22T17:08:01.247Z"
+}

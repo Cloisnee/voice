@@ -1,0 +1,20 @@
+{
+  "id": 141,
+  "name": "玲珑MK-II",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG141",
+  "robotId": "141",
+  "engineVoiceId": "create_voice_guagua_141",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。算了，我们先往前走吧。灯影晃了一下，心绪也跟着沉了下去。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0041_玲珑MK-II_141.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0041_玲珑MK-II_141.mp3",
+  "audioHash": "0a0806b68cb0aaa7a7423e9ef37e5a1512d8a34b82d97760892faffbd1ac0009",
+  "durationMs": 14784,
+  "materialId": 810397403,
+  "bookId": 112011,
+  "chapterId": 25524383,
+  "updatedAt": "2026-06-22T14:40:39.362Z"
+}

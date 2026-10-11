@@ -1,0 +1,20 @@
+{
+  "id": 2081,
+  "name": "忘川MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2081",
+  "robotId": "2081",
+  "engineVoiceId": "create_voice_guagua_2081",
+  "referenceText": "晨风拂过庭院，带着草木的清新气息，吹散了最后一丝阴冷。新的一天，开始了。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0914_忘川MK-III_2081.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0914_忘川MK-III_2081.mp3",
+  "audioHash": "f66343eb1ab769f0012244392164c58c0761bd27ccb189358c10c2201a5404e1",
+  "durationMs": 9432,
+  "materialId": 810621770,
+  "bookId": 112801,
+  "chapterId": 25527723,
+  "updatedAt": "2026-06-22T17:24:26.292Z"
+}

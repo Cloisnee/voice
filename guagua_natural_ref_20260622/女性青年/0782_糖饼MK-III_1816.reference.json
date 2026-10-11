@@ -1,0 +1,20 @@
+{
+  "id": 1816,
+  "name": "糖饼MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1816",
+  "robotId": "1816",
+  "engineVoiceId": "create_voice_guagua_1816",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。算了，我们先往前走吧。灯影晃了一下，心绪也跟着沉了下去。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0782_糖饼MK-III_1816.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0782_糖饼MK-III_1816.mp3",
+  "audioHash": "ddd39926b1f167b4e794326d0e8ad2f4444f1a3eb8ffd4d7a9397eb5956932a2",
+  "durationMs": 14904,
+  "materialId": 810620935,
+  "bookId": 112669,
+  "chapterId": 25527445,
+  "updatedAt": "2026-06-22T17:23:12.177Z"
+}

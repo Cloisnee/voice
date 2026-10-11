@@ -1,0 +1,20 @@
+{
+  "id": 1374,
+  "name": "芝宝是甜妹MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1374",
+  "robotId": "1374",
+  "engineVoiceId": "create_voice_guagua_1374",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。我会把情绪收好，不影响接下来的事。帘外风声一紧，话到嘴边便轻了半分。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0543_芝宝是甜妹MK-III_1374.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0543_芝宝是甜妹MK-III_1374.mp3",
+  "audioHash": "22c542c644953bc3013ff78befb6fc052056546406d93261a21f8d126ac5d80c",
+  "durationMs": 17856,
+  "materialId": 810617377,
+  "bookId": 112431,
+  "chapterId": 25526882,
+  "updatedAt": "2026-06-22T17:21:05.282Z"
+}

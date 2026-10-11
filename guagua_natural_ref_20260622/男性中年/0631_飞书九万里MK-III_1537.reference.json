@@ -1,0 +1,20 @@
+{
+  "id": 1537,
+  "name": "飞书九万里MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1537",
+  "robotId": "1537",
+  "engineVoiceId": "create_voice_guagua_1537",
+  "referenceText": "多年经验告诉我，越平静的地方越要小心。有些责任，躲是躲不过去的。灯影晃了一下，心绪也跟着沉了下去。天亮之前，我们必须有结果。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0631_飞书九万里MK-III_1537.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0631_飞书九万里MK-III_1537.mp3",
+  "audioHash": "840b85f0be6f7101131e47760737dca202871aa3c999e77348bb299ff02073cc",
+  "durationMs": 12960,
+  "materialId": 810619123,
+  "bookId": 112519,
+  "chapterId": 25527204,
+  "updatedAt": "2026-06-22T17:21:47.543Z"
+}

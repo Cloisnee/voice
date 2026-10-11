@@ -1,0 +1,20 @@
+{
+  "id": 605,
+  "name": "冰哥旁白MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG605",
+  "robotId": "605",
+  "engineVoiceId": "create_voice_guagua_605",
+  "referenceText": "苏然坐起身来，满脸羞愤的看向床边的男人！被子从她肩头滑下，露出光洁白皙的皮肤。她鹅颈修长，五官俏美，即便是现在宿醉刚醒，完全素颜，依旧是美艳无比。旁边的陈阳揉了揉眼睛，然后满不在乎的伸了个懒腰。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0128_冰哥旁白MK-III_605.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0128_冰哥旁白MK-III_605.mp3",
+  "audioHash": "209fdc16d0248dc406bca2fcf42565d41a5b0f4c9c7621330596a0b0938edeb9",
+  "durationMs": 23160,
+  "materialId": 810435021,
+  "bookId": 112037,
+  "chapterId": 25524461,
+  "updatedAt": "2026-06-22T15:06:21.040Z"
+}

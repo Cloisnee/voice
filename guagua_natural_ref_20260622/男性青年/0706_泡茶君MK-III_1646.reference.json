@@ -1,0 +1,20 @@
+{
+  "id": 1646,
+  "name": "泡茶君MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1646",
+  "robotId": "1646",
+  "engineVoiceId": "create_voice_guagua_1646",
+  "referenceText": "刚才那句话，我不是随便说说。先稳住呼吸，再看清楚前面的路。灯影晃了一下，心绪也跟着沉了下去。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0706_泡茶君MK-III_1646.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0706_泡茶君MK-III_1646.mp3",
+  "audioHash": "03f0b87c2d4dd46e5e6ef7716e6e79880a08eea1a152999cf5c88b397d093988",
+  "durationMs": 14184,
+  "materialId": 810620177,
+  "bookId": 112593,
+  "chapterId": 25527314,
+  "updatedAt": "2026-06-22T17:22:29.665Z"
+}

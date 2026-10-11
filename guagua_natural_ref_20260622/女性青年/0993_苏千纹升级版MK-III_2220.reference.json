@@ -1,0 +1,20 @@
+{
+  "id": 2220,
+  "name": "苏千纹升级版MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2220",
+  "robotId": "2220",
+  "engineVoiceId": "create_voice_guagua_2220",
+  "referenceText": "初夏的晚风，裹挟着淡淡的栀子花香，漫过了整条街道。她就那样安静地坐在长椅上，手里捧着一本未读完的书，指尖轻轻划过书页。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0993_苏千纹升级版MK-III_2220.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0993_苏千纹升级版MK-III_2220.mp3",
+  "audioHash": "2d636649f0fde3a2dadaee121140490e0e20eed770bd4b40dc90583bb2a9f07e",
+  "durationMs": 12960,
+  "materialId": 810622393,
+  "bookId": 112880,
+  "chapterId": 25527862,
+  "updatedAt": "2026-06-22T17:25:10.124Z"
+}

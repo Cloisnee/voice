@@ -1,0 +1,20 @@
+{
+  "id": 2153,
+  "name": "适配甜宠MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2153",
+  "robotId": "2153",
+  "engineVoiceId": "create_voice_guagua_2153",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。算了，我们先往前走吧。说到这里，声音不自觉放轻了一点。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/温柔",
+  "audioFile": "0958_适配甜宠MK-III_2153.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0958_适配甜宠MK-III_2153.mp3",
+  "audioHash": "5c3e9087997aeab50c6999f5186d7856f8a5cf7520061ef04d0e07c0c15f2adc",
+  "durationMs": 14112,
+  "materialId": 810621946,
+  "bookId": 112845,
+  "chapterId": 25527803,
+  "updatedAt": "2026-06-22T17:24:50.957Z"
+}

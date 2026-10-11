@@ -1,0 +1,20 @@
+{
+  "id": 1771,
+  "name": "大宝剑MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1771",
+  "robotId": "1771",
+  "engineVoiceId": "create_voice_guagua_1771",
+  "referenceText": "我当然会怕，可是现在不能停下。先稳住呼吸，再看清楚前面的路。帘外风声一紧，话到嘴边便轻了半分。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0754_大宝剑MK-III_1771.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0754_大宝剑MK-III_1771.mp3",
+  "audioHash": "46de32afef93fc0feed3f4ca49419f1c8304c9596f8762d6e869da08e1873e2c",
+  "durationMs": 12816,
+  "materialId": 810620596,
+  "bookId": 112641,
+  "chapterId": 25527403,
+  "updatedAt": "2026-06-22T17:22:56.613Z"
+}

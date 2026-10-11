@@ -1,0 +1,20 @@
+{
+  "id": 1998,
+  "name": "水冷MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1998",
+  "robotId": "1998",
+  "engineVoiceId": "create_voice_guagua_1998",
+  "referenceText": "而碧霄剑谱七十二式，每修炼成三式剑招，剑术就能够增进一重，最高可以修炼到第二十四重境界，这已经是江湖上无比罕见的顶尖武学。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0868_水冷MK-III_1998.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0868_水冷MK-III_1998.mp3",
+  "audioHash": "e1f18e26386a0bdf12c3e1388032fbe836dfc9f05bc3c31cfdab0483880dcccb",
+  "durationMs": 13584,
+  "materialId": 810621707,
+  "bookId": 112755,
+  "chapterId": 25527646,
+  "updatedAt": "2026-06-22T17:24:00.715Z"
+}

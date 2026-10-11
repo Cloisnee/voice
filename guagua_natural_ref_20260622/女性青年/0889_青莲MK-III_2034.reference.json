@@ -1,0 +1,20 @@
+{
+  "id": 2034,
+  "name": "青莲MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2034",
+  "robotId": "2034",
+  "engineVoiceId": "create_voice_guagua_2034",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。你不用立刻回答，我可以等。帘外风声一紧，话到嘴边便轻了半分。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0889_青莲MK-III_2034.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0889_青莲MK-III_2034.mp3",
+  "audioHash": "1e70b871ce1a824c26319422b74778e755af4769867adcb4410a516fcd959eab",
+  "durationMs": 14640,
+  "materialId": 810621636,
+  "bookId": 112776,
+  "chapterId": 25527679,
+  "updatedAt": "2026-06-22T17:24:12.216Z"
+}

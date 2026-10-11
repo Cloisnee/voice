@@ -1,0 +1,20 @@
+{
+  "id": 1184,
+  "name": "镜子酱MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1184",
+  "robotId": "1184",
+  "engineVoiceId": "create_voice_guagua_1184",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。你不用立刻回答，我可以等。停了一会儿，语气终于慢慢平稳下来。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0429_镜子酱MK-III_1184.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0429_镜子酱MK-III_1184.mp3",
+  "audioHash": "a9c3c3468b0aaeca9531fcf5fbcdb400bffabe917c3daedc36393df492733e59",
+  "durationMs": 16920,
+  "materialId": 810610897,
+  "bookId": 112317,
+  "chapterId": 25526650,
+  "updatedAt": "2026-06-22T17:17:06.339Z"
+}

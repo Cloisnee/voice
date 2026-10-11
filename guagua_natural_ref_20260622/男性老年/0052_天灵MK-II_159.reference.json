@@ -1,0 +1,20 @@
+{
+  "id": 159,
+  "name": "天灵MK-II",
+  "category": "男性老年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG159",
+  "robotId": "159",
+  "engineVoiceId": "create_voice_guagua_159",
+  "referenceText": "我年纪大了，可这些事还看得明白。急没有用，心要稳。帘外风声一紧，话到嘴边便轻了半分。记住这句话，以后用得上。",
+  "emotionProfile": "阅历感、慢节奏、劝诫语气",
+  "sampleStyle": "男性老年/古风",
+  "audioFile": "0052_天灵MK-II_159.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性老年/0052_天灵MK-II_159.mp3",
+  "audioHash": "19c69a0ba368553e84009975e0815b9cd29c9a35900df658c26fb9d9ef3e5df8",
+  "durationMs": 17112,
+  "materialId": 810398158,
+  "bookId": 112022,
+  "chapterId": 25524430,
+  "updatedAt": "2026-06-22T14:40:42.453Z"
+}

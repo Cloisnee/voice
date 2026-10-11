@@ -1,0 +1,20 @@
+{
+  "id": 1120,
+  "name": "冷秋MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1120",
+  "robotId": "1120",
+  "engineVoiceId": "create_voice_guagua_1120",
+  "referenceText": "我当然会怕，可是现在不能停下。我会把人带回来，也会给你一个交代。停了一会儿，语气终于慢慢平稳下来。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0377_冷秋MK-III_1120.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0377_冷秋MK-III_1120.mp3",
+  "audioHash": "2a170c7098d845f2affbe191d0c886c69cc40b62ff3cdc1fd3204cf25a7514e3",
+  "durationMs": 14040,
+  "materialId": 810604077,
+  "bookId": 112265,
+  "chapterId": 25526481,
+  "updatedAt": "2026-06-22T17:08:01.497Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 819,
+  "name": "猎猎MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG819",
+  "robotId": "819",
+  "engineVoiceId": "create_voice_guagua_819",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。我会把情绪收好，不影响接下来的事。这句话不需要喊出来，却要让人听得真切。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0199_猎猎MK-III_819.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0199_猎猎MK-III_819.mp3",
+  "audioHash": "102199fe42ba9e10ee937132e120052331e6dba466e8a676084b6fdda08d898d",
+  "durationMs": 18336,
+  "materialId": 810542369,
+  "bookId": 112108,
+  "chapterId": 25525826,
+  "updatedAt": "2026-06-22T16:16:30.499Z"
+}

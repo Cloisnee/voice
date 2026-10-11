@@ -1,0 +1,20 @@
+{
+  "id": 1175,
+  "name": "安橙汘汘MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1175",
+  "robotId": "1175",
+  "engineVoiceId": "create_voice_guagua_1175",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。你不用立刻回答，我可以等。这句话不需要喊出来，却要让人听得真切。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0421_安橙汘汘MK-III_1175.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0421_安橙汘汘MK-III_1175.mp3",
+  "audioHash": "60eb6e8fefdcbb1a4606f351b9c47e2127816ecef02095bd0bf911c85d3b6643",
+  "durationMs": 13728,
+  "materialId": 810610705,
+  "bookId": 112309,
+  "chapterId": 25526636,
+  "updatedAt": "2026-06-22T17:17:04.733Z"
+}

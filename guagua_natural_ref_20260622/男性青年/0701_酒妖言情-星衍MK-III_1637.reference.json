@@ -1,0 +1,20 @@
+{
+  "id": 1637,
+  "name": "酒妖言情-星衍MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1637",
+  "robotId": "1637",
+  "engineVoiceId": "create_voice_guagua_1637",
+  "referenceText": "你听，他们还在等我回去。我会把人带回来，也会给你一个交代。灯影晃了一下，心绪也跟着沉了下去。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0701_酒妖言情-星衍MK-III_1637.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0701_酒妖言情-星衍MK-III_1637.mp3",
+  "audioHash": "a81fd5929282d4d0c60089160d5418431e3c323101fcda4672e3dbb5d27b2c06",
+  "durationMs": 14040,
+  "materialId": 810619897,
+  "bookId": 112589,
+  "chapterId": 25527309,
+  "updatedAt": "2026-06-22T17:22:27.376Z"
+}

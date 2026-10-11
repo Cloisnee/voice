@@ -1,0 +1,20 @@
+{
+  "id": 1866,
+  "name": "远桥MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1866",
+  "robotId": "1866",
+  "engineVoiceId": "create_voice_guagua_1866",
+  "referenceText": "我不是不相信你，只是现在必须谨慎。该问的一个都不能漏。帘外风声一紧，话到嘴边便轻了半分。这句话我只说一遍，你记住。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0809_远桥MK-III_1866.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0809_远桥MK-III_1866.mp3",
+  "audioHash": "4c6a21ce675fe89399494f185f7eaa39f271cba17eff22312ba26539224e6f1e",
+  "durationMs": 13080,
+  "materialId": 810621049,
+  "bookId": 112696,
+  "chapterId": 25527558,
+  "updatedAt": "2026-06-22T17:23:28.278Z"
+}

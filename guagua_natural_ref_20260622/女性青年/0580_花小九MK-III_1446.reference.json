@@ -1,0 +1,20 @@
+{
+  "id": 1446,
+  "name": "花小九MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1446",
+  "robotId": "1446",
+  "engineVoiceId": "create_voice_guagua_1446",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。我会把情绪收好，不影响接下来的事。灯影晃了一下，心绪也跟着沉了下去。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0580_花小九MK-III_1446.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0580_花小九MK-III_1446.mp3",
+  "audioHash": "d7e0891f88269b0725760f912fab3b588355c6d100c1bc5e4df29173977be621",
+  "durationMs": 14304,
+  "materialId": 810618401,
+  "bookId": 112468,
+  "chapterId": 25526946,
+  "updatedAt": "2026-06-22T17:21:19.327Z"
+}

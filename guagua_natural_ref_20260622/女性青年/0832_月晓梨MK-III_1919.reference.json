@@ -1,0 +1,20 @@
+{
+  "id": 1919,
+  "name": "月晓梨MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1919",
+  "robotId": "1919",
+  "engineVoiceId": "create_voice_guagua_1919",
+  "referenceText": "姐姐，你看这针断了，怎么缝衣服啊？要是我缝不好，耽误了去冷宫的时辰，张公公问起来，姐姐怕是也不好交代吧？毕竟这针线是你送来的，要是张公公以为是你故意刁难我，让我没法按时接旨，你说可如何是好？",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0832_月晓梨MK-III_1919.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0832_月晓梨MK-III_1919.mp3",
+  "audioHash": "805a796ab50f08e1b3a3616ca38db208a25e91599e9d40862a0906f2f788bb1a",
+  "durationMs": 21960,
+  "materialId": 810621161,
+  "bookId": 112719,
+  "chapterId": 25527590,
+  "updatedAt": "2026-06-22T17:23:40.887Z"
+}

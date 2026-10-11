@@ -1,0 +1,20 @@
+{
+  "id": 1212,
+  "name": "三千MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1212",
+  "robotId": "1212",
+  "engineVoiceId": "create_voice_guagua_1212",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。算了，我们先往前走吧。门外那一点动静，让所有话都停在了半空。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/悬疑",
+  "audioFile": "0450_三千MK-III_1212.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0450_三千MK-III_1212.mp3",
+  "audioHash": "9d1acc0a3d45be864c9663845a467a647d810690131cce060775280fc5bf3a19",
+  "durationMs": 13896,
+  "materialId": 810613755,
+  "bookId": 112338,
+  "chapterId": 25526684,
+  "updatedAt": "2026-06-22T17:17:11.178Z"
+}

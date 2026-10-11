@@ -1,0 +1,20 @@
+{
+  "id": 1614,
+  "name": "米帅姐MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1614",
+  "robotId": "1614",
+  "engineVoiceId": "create_voice_guagua_1614",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。我会把情绪收好，不影响接下来的事。帘外风声一紧，话到嘴边便轻了半分。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0687_米帅姐MK-III_1614.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0687_米帅姐MK-III_1614.mp3",
+  "audioHash": "201e8ad887621e84c5a6864aae5c5c5888c8037cb4f6a5b599e3d933dea1c1a4",
+  "durationMs": 18168,
+  "materialId": 810619888,
+  "bookId": 112575,
+  "chapterId": 25527288,
+  "updatedAt": "2026-06-22T17:22:18.681Z"
+}

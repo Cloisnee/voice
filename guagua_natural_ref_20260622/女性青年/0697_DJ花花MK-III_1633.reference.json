@@ -1,0 +1,20 @@
+{
+  "id": 1633,
+  "name": "DJ花花MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1633",
+  "robotId": "1633",
+  "engineVoiceId": "create_voice_guagua_1633",
+  "referenceText": "姓赵的！你当老娘是庙里泥塑的菩萨呢？说好了三更断魂崖见真章，你可倒好，缩在乌龟壳里让个喽啰来传话！",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0697_DJ花花MK-III_1633.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0697_DJ花花MK-III_1633.mp3",
+  "audioHash": "ecf966c53320862df06b8c5b986739fec1000be57e90c5be7fa7804111552c05",
+  "durationMs": 11640,
+  "materialId": 810619883,
+  "bookId": 112585,
+  "chapterId": 25527302,
+  "updatedAt": "2026-06-22T17:22:25.024Z"
+}

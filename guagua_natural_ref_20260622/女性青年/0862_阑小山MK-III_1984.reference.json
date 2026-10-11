@@ -1,0 +1,20 @@
+{
+  "id": 1984,
+  "name": "阑小山MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1984",
+  "robotId": "1984",
+  "engineVoiceId": "create_voice_guagua_1984",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。算了，我们先往前走吧。灯影晃了一下，心绪也跟着沉了下去。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0862_阑小山MK-III_1984.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0862_阑小山MK-III_1984.mp3",
+  "audioHash": "56af5393d47dd67c18bc6d274ef3dbb277904fb09b7b15f6f3083ae3d9b10928",
+  "durationMs": 14760,
+  "materialId": 810621695,
+  "bookId": 112749,
+  "chapterId": 25527636,
+  "updatedAt": "2026-06-22T17:23:57.472Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1926,
+  "name": "天罡恐怖MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1926",
+  "robotId": "1926",
+  "engineVoiceId": "create_voice_guagua_1926",
+  "referenceText": "先别急着下结论，把前因后果都弄清楚再说。有些责任，躲是躲不过去的。门外那一点动静，让所有话都停在了半空。等证据齐了，再做决定。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/悬疑",
+  "audioFile": "0836_天罡恐怖MK-III_1926.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0836_天罡恐怖MK-III_1926.mp3",
+  "audioHash": "c243248342099fa0f052bb4a130a291ad4ef3b2faf5eafd6bf7cb69e0b50c80b",
+  "durationMs": 13056,
+  "materialId": 810621515,
+  "bookId": 112723,
+  "chapterId": 25527595,
+  "updatedAt": "2026-06-22T17:23:42.973Z"
+}

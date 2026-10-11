@@ -1,0 +1,20 @@
+{
+  "id": 1434,
+  "name": "慕凝MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1434",
+  "robotId": "1434",
+  "engineVoiceId": "create_voice_guagua_1434",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。我会把情绪收好，不影响接下来的事。灯影晃了一下，心绪也跟着沉了下去。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0572_慕凝MK-III_1434.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0572_慕凝MK-III_1434.mp3",
+  "audioHash": "292155419bcaba8cc332b2e387e23abf4f3dc885b4221a7a4551c5578a6a5cb7",
+  "durationMs": 13824,
+  "materialId": 810618285,
+  "bookId": 112460,
+  "chapterId": 25526931,
+  "updatedAt": "2026-06-22T17:21:14.957Z"
+}

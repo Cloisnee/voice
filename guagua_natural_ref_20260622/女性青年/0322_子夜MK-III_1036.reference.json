@@ -1,0 +1,20 @@
+{
+  "id": 1036,
+  "name": "子夜MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1036",
+  "robotId": "1036",
+  "engineVoiceId": "create_voice_guagua_1036",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。算了，我们先往前走吧。门外那一点动静，让所有话都停在了半空。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/悬疑",
+  "audioFile": "0322_子夜MK-III_1036.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0322_子夜MK-III_1036.mp3",
+  "audioHash": "51b329bd3735571d04a1cf017b072e1725eafb37d409b8316e7caf82f80146d3",
+  "durationMs": 15408,
+  "materialId": 810591689,
+  "bookId": 112210,
+  "chapterId": 25526393,
+  "updatedAt": "2026-06-22T16:58:24.030Z"
+}

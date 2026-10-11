@@ -1,0 +1,20 @@
+{
+  "id": 1167,
+  "name": "婆婆妈妈MK-III",
+  "category": "女性老年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1167",
+  "robotId": "1167",
+  "engineVoiceId": "create_voice_guagua_1167",
+  "referenceText": "年轻的时候总觉得路很长，回头看才知道，一步都不能白走。能平安回来，比什么都要紧。这句话不需要喊出来，却要让人听得真切。等雪停了，院子里就又亮堂了。",
+  "emotionProfile": "慈祥、缓慢、带回忆感",
+  "sampleStyle": "女性老年/通用",
+  "audioFile": "0415_婆婆妈妈MK-III_1167.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性老年/0415_婆婆妈妈MK-III_1167.mp3",
+  "audioHash": "24eadaec32c9ec24383adba25ab9fa58fc123967ad39f432abaa63142236aebf",
+  "durationMs": 20832,
+  "materialId": 810610336,
+  "bookId": 112303,
+  "chapterId": 25526627,
+  "updatedAt": "2026-06-22T17:17:03.433Z"
+}

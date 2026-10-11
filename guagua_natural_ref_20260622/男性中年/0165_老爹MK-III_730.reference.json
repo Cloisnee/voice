@@ -1,0 +1,20 @@
+{
+  "id": 730,
+  "name": "老爹MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG730",
+  "robotId": "730",
+  "engineVoiceId": "create_voice_guagua_730",
+  "referenceText": "我不是不相信你，只是现在必须谨慎。该问的一个都不能漏。帘外风声一紧，话到嘴边便轻了半分。这句话我只说一遍，你记住。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0165_老爹MK-III_730.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0165_老爹MK-III_730.mp3",
+  "audioHash": "c9a711c8c76f9ac93917f8c0fda8cd1f837e10f388d84253ce0a9d795f810e07",
+  "durationMs": 14256,
+  "materialId": 810473023,
+  "bookId": 112074,
+  "chapterId": 25525100,
+  "updatedAt": "2026-06-22T15:31:06.270Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2115,
+  "name": "月光MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2115",
+  "robotId": "2115",
+  "engineVoiceId": "create_voice_guagua_2115",
+  "referenceText": "远古邪神的脸上却裂开了一道缝，一道弯曲的缝，它似乎在笑。它慢慢地伸出一条滴着漆黑粘液的触手，像是要抚摸秋风的头顶。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0934_月光MK-III_2115.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0934_月光MK-III_2115.mp3",
+  "audioHash": "184e3eda93065a4262e14c037b2d6dd5d9fcade1ca24618cc112e31ee58cdeb3",
+  "durationMs": 13320,
+  "materialId": 810622093,
+  "bookId": 112821,
+  "chapterId": 25527761,
+  "updatedAt": "2026-06-22T17:24:37.511Z"
+}

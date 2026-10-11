@@ -1,0 +1,20 @@
+{
+  "id": 2165,
+  "name": "亦云MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2165",
+  "robotId": "2165",
+  "engineVoiceId": "create_voice_guagua_2165",
+  "referenceText": "苍雪城磅礴的轮廓在漫天风雪中时隐时现，巍然不动的冰雪银城，像一尊无畏的战神，戍守着帝国的西北边陲。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0965_亦云MK-III_2165.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0965_亦云MK-III_2165.mp3",
+  "audioHash": "7e2f8a5f509d05ecba56227d6020f898f41d791e79b992d4915fd50bdadd0307",
+  "durationMs": 10656,
+  "materialId": 810622199,
+  "bookId": 112852,
+  "chapterId": 25527815,
+  "updatedAt": "2026-06-22T17:24:54.881Z"
+}

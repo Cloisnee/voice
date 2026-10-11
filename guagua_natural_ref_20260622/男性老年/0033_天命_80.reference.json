@@ -1,0 +1,20 @@
+{
+  "id": 80,
+  "name": "天命",
+  "category": "男性老年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG80",
+  "robotId": "80",
+  "engineVoiceId": "create_voice_guagua_80",
+  "referenceText": "年轻人，路不是这么走的。先坐下，把气喘匀了再说。帘外风声一紧，话到嘴边便轻了半分。天冷了，别硬撑。",
+  "emotionProfile": "阅历感、慢节奏、劝诫语气",
+  "sampleStyle": "男性老年/古风",
+  "audioFile": "0033_天命_80.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性老年/0033_天命_80.mp3",
+  "audioHash": "63dcf50e75de50bfb4c7ffb6f16cc6e146318ab87df8f991d72c153190789283",
+  "durationMs": 14568,
+  "materialId": 810371911,
+  "bookId": 111996,
+  "chapterId": 25524075,
+  "updatedAt": "2026-06-22T14:25:58.461Z"
+}

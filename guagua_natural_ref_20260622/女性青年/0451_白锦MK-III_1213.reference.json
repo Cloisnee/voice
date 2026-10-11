@@ -1,0 +1,20 @@
+{
+  "id": 1213,
+  "name": "白锦MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1213",
+  "robotId": "1213",
+  "engineVoiceId": "create_voice_guagua_1213",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。我会把情绪收好，不影响接下来的事。这句话不需要喊出来，却要让人听得真切。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0451_白锦MK-III_1213.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0451_白锦MK-III_1213.mp3",
+  "audioHash": "332728f8501ecd5fcf935145d51d476de1de8ab188394bb3ef1f38626199f936",
+  "durationMs": 13344,
+  "materialId": 810614138,
+  "bookId": 112339,
+  "chapterId": 25526687,
+  "updatedAt": "2026-06-22T17:17:11.382Z"
+}

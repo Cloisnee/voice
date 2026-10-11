@@ -1,0 +1,20 @@
+{
+  "id": 1969,
+  "name": "清清风MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1969",
+  "robotId": "1969",
+  "engineVoiceId": "create_voice_guagua_1969",
+  "referenceText": "狭小的房间内，池砚沉默望着自己的双手，神思一点点飘远。她就是一个二十一世纪的普通打工人，顶多有点小漂亮，但也不算出众，她也不知道为什么、自己一觉醒来就到了这鬼地方。舌尖顶了顶腮帮，生锈的大脑开始转动。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0853_清清风MK-III_1969.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0853_清清风MK-III_1969.mp3",
+  "audioHash": "97e61f6e99b6aafbf4c7452a694beaa9af5cc4770f4e984799fd2c4865ad2113",
+  "durationMs": 19080,
+  "materialId": 810621357,
+  "bookId": 112740,
+  "chapterId": 25527622,
+  "updatedAt": "2026-06-22T17:23:52.400Z"
+}

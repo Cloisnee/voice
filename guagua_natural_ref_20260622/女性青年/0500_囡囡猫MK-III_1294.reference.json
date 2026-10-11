@@ -1,0 +1,20 @@
+{
+  "id": 1294,
+  "name": "囡囡猫MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1294",
+  "robotId": "1294",
+  "engineVoiceId": "create_voice_guagua_1294",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。如果还有机会，我想重新来一次。这句话不需要喊出来，却要让人听得真切。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0500_囡囡猫MK-III_1294.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0500_囡囡猫MK-III_1294.mp3",
+  "audioHash": "655d1b3949f119e379f330f756e0ced8bdfa3f621a00d157c034e00fe2d2f04f",
+  "durationMs": 15408,
+  "materialId": 810616201,
+  "bookId": 112388,
+  "chapterId": 25526802,
+  "updatedAt": "2026-06-22T17:20:55.453Z"
+}

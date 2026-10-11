@@ -1,0 +1,20 @@
+{
+  "id": 57,
+  "name": "闻雨",
+  "category": "女性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG57",
+  "robotId": "57",
+  "engineVoiceId": "create_voice_guagua_57",
+  "referenceText": "我知道你委屈，可委屈不能替你做决定。我们先把眼前这一关过了。这句话不需要喊出来，却要让人听得真切。等你想明白了，再回来也不迟。",
+  "emotionProfile": "沉稳安抚，低强度情绪起伏",
+  "sampleStyle": "女性中年/通用",
+  "audioFile": "0027_闻雨_57.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性中年/0027_闻雨_57.mp3",
+  "audioHash": "49407442a1c10c8340b4b7e989d74984e3ee1098b67d3d6d72eaecca2f4f109f",
+  "durationMs": 13512,
+  "materialId": 810371810,
+  "bookId": 111990,
+  "chapterId": 25524064,
+  "updatedAt": "2026-06-22T14:25:50.509Z"
+}

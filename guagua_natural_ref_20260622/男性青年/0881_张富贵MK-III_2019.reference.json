@@ -1,0 +1,20 @@
+{
+  "id": 2019,
+  "name": "张富贵MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2019",
+  "robotId": "2019",
+  "engineVoiceId": "create_voice_guagua_2019",
+  "referenceText": "黑夜，别出门。这句话在残老村流传了很多年，具体是从什么时候传下来的，已经无从考证。不过这句话却是真理，无需怀疑。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0881_张富贵MK-III_2019.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0881_张富贵MK-III_2019.mp3",
+  "audioHash": "e003aae9f86ba77410840f4367f737b0b3292d32f833f773c52dca58bb1bec2a",
+  "durationMs": 11832,
+  "materialId": 810621585,
+  "bookId": 112768,
+  "chapterId": 25527667,
+  "updatedAt": "2026-06-22T17:24:07.816Z"
+}

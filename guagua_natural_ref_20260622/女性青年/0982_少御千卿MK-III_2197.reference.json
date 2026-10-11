@@ -1,0 +1,20 @@
+{
+  "id": 2197,
+  "name": "少御千卿MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2197",
+  "robotId": "2197",
+  "engineVoiceId": "create_voice_guagua_2197",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。算了，我们先往前走吧。帘外风声一紧，话到嘴边便轻了半分。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0982_少御千卿MK-III_2197.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0982_少御千卿MK-III_2197.mp3",
+  "audioHash": "fc83cc3f85ce42c7ba4fd6a81abc6ebea255f46f018eea482bf9c66037ae2d5a",
+  "durationMs": 13920,
+  "materialId": 810622219,
+  "bookId": 112869,
+  "chapterId": 25527844,
+  "updatedAt": "2026-06-22T17:25:04.020Z"
+}

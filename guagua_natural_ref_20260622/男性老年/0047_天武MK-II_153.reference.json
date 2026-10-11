@@ -1,0 +1,20 @@
+{
+  "id": 153,
+  "name": "天武MK-II",
+  "category": "男性老年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG153",
+  "robotId": "153",
+  "engineVoiceId": "create_voice_guagua_153",
+  "referenceText": "风浪见多了，就知道什么该放，什么该守。该回头的时候，不丢人。灯影晃了一下，心绪也跟着沉了下去。走吧，路还长着呢。",
+  "emotionProfile": "阅历感、慢节奏、劝诫语气",
+  "sampleStyle": "男性老年/古风",
+  "audioFile": "0047_天武MK-II_153.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性老年/0047_天武MK-II_153.mp3",
+  "audioHash": "fa663d5ed351f9930237e72fbbb808210dad305716d91ade2f99410c79601f76",
+  "durationMs": 15720,
+  "materialId": 810397793,
+  "bookId": 112017,
+  "chapterId": 25524393,
+  "updatedAt": "2026-06-22T14:40:40.892Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1440,
+  "name": "宛骐骐旁白MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1440",
+  "robotId": "1440",
+  "engineVoiceId": "create_voice_guagua_1440",
+  "referenceText": "四年过去，其实现在狐九的妖丹已经修复了。他本就是几千年的大妖，之所以当初还打不过宁仙仙和明玄夜，完全是因为那破损的妖丹，让他修行起来，速度，比别人慢十倍。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0577_宛骐骐旁白MK-III_1440.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0577_宛骐骐旁白MK-III_1440.mp3",
+  "audioHash": "ef22471e65f3dcade4200d538d00643ee4cedbabb8be5fc9609a602932462dfc",
+  "durationMs": 15096,
+  "materialId": 810618300,
+  "bookId": 112465,
+  "chapterId": 25526942,
+  "updatedAt": "2026-06-22T17:21:17.732Z"
+}

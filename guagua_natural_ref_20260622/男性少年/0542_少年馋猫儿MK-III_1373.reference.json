@@ -1,0 +1,20 @@
+{
+  "id": 1373,
+  "name": "少年馋猫儿MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1373",
+  "robotId": "1373",
+  "engineVoiceId": "create_voice_guagua_1373",
+  "referenceText": "事情已经到了这一步，退后反而更危险。先稳住呼吸，再看清楚前面的路。停了一会儿，语气终于慢慢平稳下来。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0542_少年馋猫儿MK-III_1373.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0542_少年馋猫儿MK-III_1373.mp3",
+  "audioHash": "fcf75892be3b9c5b82a4ca39bb0a6909d4d666c1472b2c1dbb5080996953b6d2",
+  "durationMs": 14208,
+  "materialId": 810617375,
+  "bookId": 112430,
+  "chapterId": 25526880,
+  "updatedAt": "2026-06-22T17:21:05.046Z"
+}

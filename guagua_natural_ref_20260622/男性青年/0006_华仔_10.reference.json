@@ -1,0 +1,20 @@
+{
+  "id": 10,
+  "name": "华仔",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG10",
+  "robotId": "10",
+  "engineVoiceId": "create_voice_guagua_10",
+  "referenceText": "刚才那句话，我不是随便说说。我会把人带回来，也会给你一个交代。灯影晃了一下，心绪也跟着沉了下去。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0006_华仔_10.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0006_华仔_10.mp3",
+  "audioHash": "e52880b4d4b36a72ed56e2f7aa8c225db139fd46cbca57208290b761389c0f6f",
+  "durationMs": 12312,
+  "materialId": 810337844,
+  "bookId": 111967,
+  "chapterId": 25523212,
+  "updatedAt": "2026-06-22T14:25:26.150Z"
+}

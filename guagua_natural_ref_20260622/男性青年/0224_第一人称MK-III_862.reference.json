@@ -1,0 +1,20 @@
+{
+  "id": 862,
+  "name": "第一人称MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG862",
+  "robotId": "862",
+  "engineVoiceId": "create_voice_guagua_862",
+  "referenceText": "你听，他们还在等我回去。别担心，我知道自己在做什么。门外那一点动静，让所有话都停在了半空。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/悬疑",
+  "audioFile": "0224_第一人称MK-III_862.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0224_第一人称MK-III_862.mp3",
+  "audioHash": "3b1c1379d0706206f81ac81f630b06fd6de71c9fa3fcd9cab2e60c31af22a78f",
+  "durationMs": 12408,
+  "materialId": 810549051,
+  "bookId": 112123,
+  "chapterId": 25525848,
+  "updatedAt": "2026-06-22T16:20:57.585Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1182,
+  "name": "小金鱼MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1182",
+  "robotId": "1182",
+  "engineVoiceId": "create_voice_guagua_1182",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。我会把情绪收好，不影响接下来的事。帘外风声一紧，话到嘴边便轻了半分。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0427_小金鱼MK-III_1182.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0427_小金鱼MK-III_1182.mp3",
+  "audioHash": "068dbff2f2df864ecc63b115f878f6c4b0a604fdaa8a86aef4740e4f0f9e7a24",
+  "durationMs": 16152,
+  "materialId": 810610813,
+  "bookId": 112315,
+  "chapterId": 25526647,
+  "updatedAt": "2026-06-22T17:17:05.927Z"
+}

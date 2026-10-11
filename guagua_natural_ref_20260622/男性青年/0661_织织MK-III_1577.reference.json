@@ -1,0 +1,20 @@
+{
+  "id": 1577,
+  "name": "织织MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1577",
+  "robotId": "1577",
+  "engineVoiceId": "create_voice_guagua_1577",
+  "referenceText": "你听，他们还在等我回去。我会把人带回来，也会给你一个交代。手机屏幕暗下去以后，房间里只剩下彼此的呼吸。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/现代",
+  "audioFile": "0661_织织MK-III_1577.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0661_织织MK-III_1577.mp3",
+  "audioHash": "2df39ebfe2f57e4a71424a3ecefd5fe907923c05b8c97e536c4a31a0f951039e",
+  "durationMs": 13248,
+  "materialId": 810619498,
+  "bookId": 112549,
+  "chapterId": 25527249,
+  "updatedAt": "2026-06-22T17:22:04.191Z"
+}

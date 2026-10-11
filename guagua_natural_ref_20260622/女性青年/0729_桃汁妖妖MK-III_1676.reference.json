@@ -1,0 +1,20 @@
+{
+  "id": 1676,
+  "name": "桃汁妖妖MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1676",
+  "robotId": "1676",
+  "engineVoiceId": "create_voice_guagua_1676",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。你不用立刻回答，我可以等。帘外风声一紧，话到嘴边便轻了半分。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0729_桃汁妖妖MK-III_1676.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0729_桃汁妖妖MK-III_1676.mp3",
+  "audioHash": "967764c1b32da42367ed911e02ce928fb63c741b7a13a4f180447763a95298a5",
+  "durationMs": 16032,
+  "materialId": 810620175,
+  "bookId": 112616,
+  "chapterId": 25527360,
+  "updatedAt": "2026-06-22T17:22:42.573Z"
+}

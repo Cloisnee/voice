@@ -1,0 +1,20 @@
+{
+  "id": 11,
+  "name": "梦悬",
+  "category": "女性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG11",
+  "robotId": "11",
+  "engineVoiceId": "create_voice_guagua_11",
+  "referenceText": "你先别急，事情还没到最坏的时候。该承担的别躲，该放下的也别抓太紧。门外那一点动静，让所有话都停在了半空。等你想明白了，再回来也不迟。",
+  "emotionProfile": "沉稳安抚，低强度情绪起伏",
+  "sampleStyle": "女性中年/悬疑",
+  "audioFile": "0007_梦悬_11.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性中年/0007_梦悬_11.mp3",
+  "audioHash": "3dc47881d84923272a2bd5614bb437ebfac70ccb9be7bd0c66f0516b754186f7",
+  "durationMs": 15216,
+  "materialId": 810337874,
+  "bookId": 111968,
+  "chapterId": 25523215,
+  "updatedAt": "2026-06-22T14:25:26.154Z"
+}

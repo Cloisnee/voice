@@ -1,0 +1,20 @@
+{
+  "id": 1924,
+  "name": "天秤小哥MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1924",
+  "robotId": "1924",
+  "engineVoiceId": "create_voice_guagua_1924",
+  "referenceText": "你听，他们还在等我回去。先稳住呼吸，再看清楚前面的路。门外那一点动静，让所有话都停在了半空。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/悬疑",
+  "audioFile": "0834_天秤小哥MK-III_1924.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0834_天秤小哥MK-III_1924.mp3",
+  "audioHash": "95615d81801814f49e9f4a9c3b817496c6374d2dff0794163ae3701c8e8bc265",
+  "durationMs": 12096,
+  "materialId": 810621204,
+  "bookId": 112721,
+  "chapterId": 25527593,
+  "updatedAt": "2026-06-22T17:23:41.956Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1950,
+  "name": "随小喜MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1950",
+  "robotId": "1950",
+  "engineVoiceId": "create_voice_guagua_1950",
+  "referenceText": "刚才那句话，我不是随便说说。我会把人带回来，也会给你一个交代。灯影晃了一下，心绪也跟着沉了下去。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0846_随小喜MK-III_1950.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0846_随小喜MK-III_1950.mp3",
+  "audioHash": "b80d1acfdcfdea3492b0a36ea75984ecc3e43a2df2a821e14aae2985843c0ac3",
+  "durationMs": 11352,
+  "materialId": 810621239,
+  "bookId": 112733,
+  "chapterId": 25527611,
+  "updatedAt": "2026-06-22T17:23:48.419Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1983,
+  "name": "拖把proMK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1983",
+  "robotId": "1983",
+  "engineVoiceId": "create_voice_guagua_1983",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。你不用立刻回答，我可以等。灯影晃了一下，心绪也跟着沉了下去。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0861_拖把proMK-III_1983.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0861_拖把proMK-III_1983.mp3",
+  "audioHash": "388cefbb7ec4cfac1a81a81a851b5638250f264d0a500f7a17015a6549a748fa",
+  "durationMs": 13320,
+  "materialId": 810621499,
+  "bookId": 112748,
+  "chapterId": 25527635,
+  "updatedAt": "2026-06-22T17:23:56.905Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1100,
+  "name": "希涵MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1100",
+  "robotId": "1100",
+  "engineVoiceId": "create_voice_guagua_1100",
+  "referenceText": "我当然会怕，可是现在不能停下。我会把人带回来，也会给你一个交代。屋里忽然安静下来，连呼吸声都显得格外清楚。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/悬疑",
+  "audioFile": "0361_希涵MK-III_1100.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0361_希涵MK-III_1100.mp3",
+  "audioHash": "185dd6c7d1177ab53259ec17d9ee756ed14f919aa897cdac5c6d977380f0bb97",
+  "durationMs": 14184,
+  "materialId": 810598856,
+  "bookId": 112249,
+  "chapterId": 25526458,
+  "updatedAt": "2026-06-22T17:03:20.711Z"
+}

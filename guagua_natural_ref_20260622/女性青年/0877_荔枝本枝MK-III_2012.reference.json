@@ -1,0 +1,20 @@
+{
+  "id": 2012,
+  "name": "荔枝本枝MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2012",
+  "robotId": "2012",
+  "engineVoiceId": "create_voice_guagua_2012",
+  "referenceText": "贺敛握住那只纤细的手腕，狭长的凤眸逼出狷怒的红意，身体里的燥热更是排山倒海般涌来。。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/现代",
+  "audioFile": "0877_荔枝本枝MK-III_2012.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0877_荔枝本枝MK-III_2012.mp3",
+  "audioHash": "8775e02add038ccf39f22e3f213062a0f90c275c0201f2061ddf64bf456204e7",
+  "durationMs": 8640,
+  "materialId": 810621556,
+  "bookId": 112764,
+  "chapterId": 25527659,
+  "updatedAt": "2026-06-22T17:24:05.682Z"
+}

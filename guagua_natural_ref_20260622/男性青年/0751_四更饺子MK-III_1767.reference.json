@@ -1,0 +1,20 @@
+{
+  "id": 1767,
+  "name": "四更饺子MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1767",
+  "robotId": "1767",
+  "engineVoiceId": "create_voice_guagua_1767",
+  "referenceText": "你听，他们还在等我回去。如果必须有人留下，那就让我来。灯影晃了一下，心绪也跟着沉了下去。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0751_四更饺子MK-III_1767.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0751_四更饺子MK-III_1767.mp3",
+  "audioHash": "8e5014671749a867d790f6220c231c61c0f9159e158b23bddcd7ec5507c37a1e",
+  "durationMs": 12792,
+  "materialId": 810620586,
+  "bookId": 112638,
+  "chapterId": 25527398,
+  "updatedAt": "2026-06-22T17:22:55.001Z"
+}

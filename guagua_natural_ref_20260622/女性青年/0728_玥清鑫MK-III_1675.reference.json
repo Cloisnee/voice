@@ -1,0 +1,20 @@
+{
+  "id": 1675,
+  "name": "玥清鑫MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1675",
+  "robotId": "1675",
+  "engineVoiceId": "create_voice_guagua_1675",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。如果还有机会，我想重新来一次。帘外风声一紧，话到嘴边便轻了半分。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0728_玥清鑫MK-III_1675.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0728_玥清鑫MK-III_1675.mp3",
+  "audioHash": "2ca64778efb054dc73cca174e310de3c255c6794206c573a857fea944069a965",
+  "durationMs": 17064,
+  "materialId": 810620174,
+  "bookId": 112615,
+  "chapterId": 25527358,
+  "updatedAt": "2026-06-22T17:22:41.847Z"
+}

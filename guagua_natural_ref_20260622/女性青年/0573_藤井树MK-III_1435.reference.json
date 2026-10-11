@@ -1,0 +1,20 @@
+{
+  "id": 1435,
+  "name": "藤井树MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1435",
+  "robotId": "1435",
+  "engineVoiceId": "create_voice_guagua_1435",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。你不用立刻回答，我可以等。灯影晃了一下，心绪也跟着沉了下去。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0573_藤井树MK-III_1435.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0573_藤井树MK-III_1435.mp3",
+  "audioHash": "ebe76a1faf5bdbe201002cd86f28f7d1212f73aff89bd3f8a8f66ae2112b4f4f",
+  "durationMs": 13944,
+  "materialId": 810618281,
+  "bookId": 112461,
+  "chapterId": 25526933,
+  "updatedAt": "2026-06-22T17:21:15.479Z"
+}

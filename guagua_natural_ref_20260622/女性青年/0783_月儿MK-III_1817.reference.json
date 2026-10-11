@@ -1,0 +1,20 @@
+{
+  "id": 1817,
+  "name": "月儿MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1817",
+  "robotId": "1817",
+  "engineVoiceId": "create_voice_guagua_1817",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。我会把情绪收好，不影响接下来的事。这句话不需要喊出来，却要让人听得真切。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0783_月儿MK-III_1817.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0783_月儿MK-III_1817.mp3",
+  "audioHash": "5d35688910da108cf805f76578e55f8138f59d407fd4432d465790db4c15e209",
+  "durationMs": 14688,
+  "materialId": 810620956,
+  "bookId": 112670,
+  "chapterId": 25527446,
+  "updatedAt": "2026-06-22T17:23:12.754Z"
+}

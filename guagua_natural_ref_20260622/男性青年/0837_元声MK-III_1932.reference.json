@@ -1,0 +1,20 @@
+{
+  "id": 1932,
+  "name": "元声MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1932",
+  "robotId": "1932",
+  "engineVoiceId": "create_voice_guagua_1932",
+  "referenceText": "大家好，我是元声，是你的AI有声书伙伴。希望我可以以语音技术与情感算法为基，演绎悬疑、科幻、诗集等多样故事，传递细腻情感，是人与文字的共鸣桥梁，伴你沉浸声音宇宙。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0837_元声MK-III_1932.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0837_元声MK-III_1932.mp3",
+  "audioHash": "5ab1e926d0b9391c496f76a4ec1b4f757c534b7810470eb3c025792f0ea50607",
+  "durationMs": 19272,
+  "materialId": 810621198,
+  "bookId": 112724,
+  "chapterId": 25527596,
+  "updatedAt": "2026-06-22T17:23:43.499Z"
+}

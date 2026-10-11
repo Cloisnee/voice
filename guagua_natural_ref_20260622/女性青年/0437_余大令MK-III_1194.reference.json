@@ -1,0 +1,20 @@
+{
+  "id": 1194,
+  "name": "余大令MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1194",
+  "robotId": "1194",
+  "engineVoiceId": "create_voice_guagua_1194",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。你不用立刻回答，我可以等。停了一会儿，语气终于慢慢平稳下来。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0437_余大令MK-III_1194.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0437_余大令MK-III_1194.mp3",
+  "audioHash": "95ad204f13d61b0a61f9efffdbc5aed3b2d2e1e29001df1b97ee5a0fd39e3e6f",
+  "durationMs": 11832,
+  "materialId": 810613501,
+  "bookId": 112325,
+  "chapterId": 25526663,
+  "updatedAt": "2026-06-22T17:17:08.266Z"
+}

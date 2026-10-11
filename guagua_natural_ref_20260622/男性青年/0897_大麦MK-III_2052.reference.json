@@ -1,0 +1,20 @@
+{
+  "id": 2052,
+  "name": "大麦MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2052",
+  "robotId": "2052",
+  "engineVoiceId": "create_voice_guagua_2052",
+  "referenceText": "赵洪的尸体扭曲地躺在地上，他的双眼圆睁，空洞的眼神中，似乎还残留着生前最后一刻的恐惧。陈宇蹲下身子，仔细地观察着尸体，不放过任何一个细节。赵宏的身上布满了伤痕，每一道伤口都触目惊心",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0897_大麦MK-III_2052.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0897_大麦MK-III_2052.mp3",
+  "audioHash": "01585c2a24d9ab6739573758692631481ae4fb688833a9bf89d278e0f9a6b073",
+  "durationMs": 18816,
+  "materialId": 810621687,
+  "bookId": 112784,
+  "chapterId": 25527691,
+  "updatedAt": "2026-06-22T17:24:16.898Z"
+}

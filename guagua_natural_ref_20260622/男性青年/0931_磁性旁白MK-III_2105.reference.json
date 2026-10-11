@@ -1,0 +1,20 @@
+{
+  "id": 2105,
+  "name": "磁性旁白MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2105",
+  "robotId": "2105",
+  "engineVoiceId": "create_voice_guagua_2105",
+  "referenceText": "刚才那句话，我不是随便说说。如果必须有人留下，那就让我来。灯影晃了一下，心绪也跟着沉了下去。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0931_磁性旁白MK-III_2105.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0931_磁性旁白MK-III_2105.mp3",
+  "audioHash": "a96ad5e1af2100f639525fc28a0884173f7119de0bb04cb0eac2bb6abbfe8bdd",
+  "durationMs": 12264,
+  "materialId": 810622069,
+  "bookId": 112818,
+  "chapterId": 25527755,
+  "updatedAt": "2026-06-22T17:24:35.805Z"
+}

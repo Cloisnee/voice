@@ -1,0 +1,20 @@
+{
+  "id": 5,
+  "name": "碧玉",
+  "category": "女性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG5",
+  "robotId": "5",
+  "engineVoiceId": "create_voice_guagua_5",
+  "referenceText": "有些话说出口以前，总要在心里转上好几遍。慢慢说，我听着呢。帘外风声一紧，话到嘴边便轻了半分。别怕，我在这里。",
+  "emotionProfile": "沉稳安抚，低强度情绪起伏",
+  "sampleStyle": "女性中年/古风",
+  "audioFile": "0002_碧玉_5.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性中年/0002_碧玉_5.mp3",
+  "audioHash": "4ce61339c29cf413c2b12ae80c4aab9ac1024e6789dccf5199517077d64a8c2a",
+  "durationMs": 12912,
+  "materialId": 810327985,
+  "bookId": 111962,
+  "chapterId": 25523051,
+  "updatedAt": "2026-06-22T14:25:26.124Z"
+}

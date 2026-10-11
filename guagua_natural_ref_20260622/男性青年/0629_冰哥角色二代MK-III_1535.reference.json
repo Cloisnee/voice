@@ -1,0 +1,20 @@
+{
+  "id": 1535,
+  "name": "冰哥角色二代MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1535",
+  "robotId": "1535",
+  "engineVoiceId": "create_voice_guagua_1535",
+  "referenceText": "哎，我说苏然同学啊，昨天晚上可是我付了房费，而且还满足了你！你不道谢*也就罢了，还对我这个态度！真的是…让人寒心呐！",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0629_冰哥角色二代MK-III_1535.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0629_冰哥角色二代MK-III_1535.mp3",
+  "audioHash": "e08c0a1448b14fafd08ab018ef86d5e5d52775e119e3364bad170ddf69f48c34",
+  "durationMs": 13392,
+  "materialId": 810619107,
+  "bookId": 112517,
+  "chapterId": 25527202,
+  "updatedAt": "2026-06-22T17:21:46.370Z"
+}

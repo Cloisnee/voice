@@ -1,0 +1,20 @@
+{
+  "id": 1426,
+  "name": "碎嘴掌柜说书人MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1426",
+  "robotId": "1426",
+  "engineVoiceId": "create_voice_guagua_1426",
+  "referenceText": "你听，他们还在等我回去。别担心，我知道自己在做什么。这句话不需要喊出来，却要让人听得真切。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0568_碎嘴掌柜说书人MK-III_1426.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0568_碎嘴掌柜说书人MK-III_1426.mp3",
+  "audioHash": "f8737bd69ad6b02a883183a50dab10b83f6143b623ce7ee867ef0316ad6c3e81",
+  "durationMs": 12648,
+  "materialId": 810618198,
+  "bookId": 112456,
+  "chapterId": 25526925,
+  "updatedAt": "2026-06-22T17:21:12.884Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1132,
+  "name": "康康_剧有范MK-III",
+  "category": "女性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1132",
+  "robotId": "1132",
+  "engineVoiceId": "create_voice_guagua_1132",
+  "referenceText": "穿越重生的小说她也看过几本，小说里有资格重生的人，不都是苦大仇深、怨气冲天的吗？\n而她并没有啊！\n思绪间到了家门口，还没进去就见自家老娘王月菊正拿着擀面杖，怒火朝天的追三姐顾三静",
+  "emotionProfile": "沉稳安抚，低强度情绪起伏",
+  "sampleStyle": "女性中年/现代",
+  "audioFile": "0388_康康_剧有范MK-III_1132.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性中年/0388_康康_剧有范MK-III_1132.mp3",
+  "audioHash": "0f974ea1e76bfa59f4786d79e4db03e83d179d52096194a838d53a53b3896d4f",
+  "durationMs": 18600,
+  "materialId": 810606280,
+  "bookId": 112276,
+  "chapterId": 25526574,
+  "updatedAt": "2026-06-22T17:12:36.641Z"
+}

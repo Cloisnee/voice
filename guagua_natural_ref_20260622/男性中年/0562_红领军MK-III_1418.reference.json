@@ -1,0 +1,20 @@
+{
+  "id": 1418,
+  "name": "红领军MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1418",
+  "robotId": "1418",
+  "engineVoiceId": "create_voice_guagua_1418",
+  "referenceText": "多年经验告诉我，越平静的地方越要小心。你把人手安排好，我去看现场。灯影晃了一下，心绪也跟着沉了下去。别慌，先按计划来。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0562_红领军MK-III_1418.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0562_红领军MK-III_1418.mp3",
+  "audioHash": "a180ea707fd8e94c0fc26bc101bd944d84d0a4e7dba2c1f2dcf4b28f778949f2",
+  "durationMs": 12840,
+  "materialId": 810617952,
+  "bookId": 112450,
+  "chapterId": 25526914,
+  "updatedAt": "2026-06-22T17:21:09.792Z"
+}

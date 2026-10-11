@@ -1,0 +1,20 @@
+{
+  "id": 1394,
+  "name": "大丰收MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1394",
+  "robotId": "1394",
+  "engineVoiceId": "create_voice_guagua_1394",
+  "referenceText": "顾北野不等汪泉反应，先一步向市场里边走去。华强电子市场集合了各种品牌的手机和电脑的旗舰店，授权店，以及直营店。反正只要前一天晚上在大洋彼岸发布上市的新产品，第二天就会出现在市场的柜台上。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0554_大丰收MK-III_1394.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0554_大丰收MK-III_1394.mp3",
+  "audioHash": "78466589605c41718f9238236f7dc3aeb66eede6ed9394b138b8102bd58bed06",
+  "durationMs": 20544,
+  "materialId": 810617843,
+  "bookId": 112442,
+  "chapterId": 25526900,
+  "updatedAt": "2026-06-22T17:21:08.015Z"
+}

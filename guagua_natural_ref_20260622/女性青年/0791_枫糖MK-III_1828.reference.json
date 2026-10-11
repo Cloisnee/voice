@@ -1,0 +1,20 @@
+{
+  "id": 1828,
+  "name": "枫糖MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1828",
+  "robotId": "1828",
+  "engineVoiceId": "create_voice_guagua_1828",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。我会把情绪收好，不影响接下来的事。帘外风声一紧，话到嘴边便轻了半分。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0791_枫糖MK-III_1828.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0791_枫糖MK-III_1828.mp3",
+  "audioHash": "9ea6d53eff2ebd0af19095ec882ac9f7821e7aa802d479976e558bc2550c88f9",
+  "durationMs": 16872,
+  "materialId": 810620969,
+  "bookId": 112678,
+  "chapterId": 25527532,
+  "updatedAt": "2026-06-22T17:23:17.480Z"
+}

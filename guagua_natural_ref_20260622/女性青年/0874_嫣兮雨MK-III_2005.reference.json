@@ -1,0 +1,20 @@
+{
+  "id": 2005,
+  "name": "嫣兮雨MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2005",
+  "robotId": "2005",
+  "engineVoiceId": "create_voice_guagua_2005",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。算了，我们先往前走吧。帘外风声一紧，话到嘴边便轻了半分。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0874_嫣兮雨MK-III_2005.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0874_嫣兮雨MK-III_2005.mp3",
+  "audioHash": "16eca6415b748a376be79a5a049d81c0b83c9c2a1645ca47290241613941e0dc",
+  "durationMs": 12768,
+  "materialId": 810621558,
+  "bookId": 112761,
+  "chapterId": 25527655,
+  "updatedAt": "2026-06-22T17:24:03.995Z"
+}

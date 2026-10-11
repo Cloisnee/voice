@@ -1,0 +1,20 @@
+{
+  "id": 2035,
+  "name": "为瑜倾城MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2035",
+  "robotId": "2035",
+  "engineVoiceId": "create_voice_guagua_2035",
+  "referenceText": "小姑娘的娇俏，女学生的青涩，白领的干练，妈妈的温柔，老鸨子的市侩，嬷嬷的狠毒，我皆能驾驭，声藏百相，等你来听！",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0890_为瑜倾城MK-III_2035.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0890_为瑜倾城MK-III_2035.mp3",
+  "audioHash": "158a8b28d5be771658e03709e588d3d63259a76abea64aaed6ccbb70c13f84ce",
+  "durationMs": 13920,
+  "materialId": 810621594,
+  "bookId": 112777,
+  "chapterId": 25527680,
+  "updatedAt": "2026-06-22T17:24:12.788Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2071,
+  "name": "狗头行者MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2071",
+  "robotId": "2071",
+  "engineVoiceId": "create_voice_guagua_2071",
+  "referenceText": "事情已经到了这一步，退后反而更危险。别担心，我知道自己在做什么。停了一会儿，语气终于慢慢平稳下来。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0908_狗头行者MK-III_2071.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0908_狗头行者MK-III_2071.mp3",
+  "audioHash": "1efa3698b3e818b9c630c0fe457f100b0f7d68e632b6cee2a96bcc5789fc43f8",
+  "durationMs": 12120,
+  "materialId": 810621737,
+  "bookId": 112795,
+  "chapterId": 25527714,
+  "updatedAt": "2026-06-22T17:24:22.878Z"
+}

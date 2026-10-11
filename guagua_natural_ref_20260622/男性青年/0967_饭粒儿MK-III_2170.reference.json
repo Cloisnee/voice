@@ -1,0 +1,20 @@
+{
+  "id": 2170,
+  "name": "饭粒儿MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2170",
+  "robotId": "2170",
+  "engineVoiceId": "create_voice_guagua_2170",
+  "referenceText": "“我靠，你也太黑暗了，你这个心机婊腹黑妹。姑娘，咱们还是有话好好说行不行？刚刚我有做错的地方我向你赔礼道歉行不行？对不起成不成？您大人不计小人过呀……”",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0967_饭粒儿MK-III_2170.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0967_饭粒儿MK-III_2170.mp3",
+  "audioHash": "bf6e66664d866320572ec27db3f18e41ad3e78aee2a1449496c1119e067f10b7",
+  "durationMs": 16152,
+  "materialId": 810622203,
+  "bookId": 112854,
+  "chapterId": 25527819,
+  "updatedAt": "2026-06-22T17:24:56.101Z"
+}

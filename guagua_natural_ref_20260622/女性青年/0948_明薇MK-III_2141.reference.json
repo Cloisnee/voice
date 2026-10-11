@@ -1,0 +1,20 @@
+{
+  "id": 2141,
+  "name": "明薇MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2141",
+  "robotId": "2141",
+  "engineVoiceId": "create_voice_guagua_2141",
+  "referenceText": "也许是顾若白的药特别的灵验，苏明玉背上那些骇人的伤口，没几天就好了。而苏玥那边，不知道为什么，伤口不但久久未愈，甚至还有些腐烂发红的迹象。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0948_明薇MK-III_2141.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0948_明薇MK-III_2141.mp3",
+  "audioHash": "3b50983628c4950aabeb47fab33c8fcf469c29be0a79c91778f21ff9470489ec",
+  "durationMs": 14544,
+  "materialId": 810621913,
+  "bookId": 112835,
+  "chapterId": 25527786,
+  "updatedAt": "2026-06-22T17:24:45.271Z"
+}

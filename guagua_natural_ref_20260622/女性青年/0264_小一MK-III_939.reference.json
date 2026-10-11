@@ -1,0 +1,20 @@
+{
+  "id": 939,
+  "name": "小一MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG939",
+  "robotId": "939",
+  "engineVoiceId": "create_voice_guagua_939",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。如果还有机会，我想重新来一次。帘外风声一紧，话到嘴边便轻了半分。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0264_小一MK-III_939.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0264_小一MK-III_939.mp3",
+  "audioHash": "639396c2840edd994d6ac7f6d2545c48186d77ecf6a4a9fc70bb193a7efac0f0",
+  "durationMs": 14472,
+  "materialId": 810562895,
+  "bookId": 112152,
+  "chapterId": 25526294,
+  "updatedAt": "2026-06-22T16:35:10.802Z"
+}

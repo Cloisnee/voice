@@ -1,0 +1,20 @@
+{
+  "id": 2024,
+  "name": "少帅恐悬MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2024",
+  "robotId": "2024",
+  "engineVoiceId": "create_voice_guagua_2024",
+  "referenceText": "随着咒决念动，地上的砂石全都被卷了起来，雨点般打在了我的脸上。我不敢睁眼，生怕被迷了眼睛，只能竖着耳朵仔细听着周围的动向。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/悬疑",
+  "audioFile": "0884_少帅恐悬MK-III_2024.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0884_少帅恐悬MK-III_2024.mp3",
+  "audioHash": "ac23156227d9d450d950d8487cab67688d2106e83e499f0de34ecf5bcc4e91e5",
+  "durationMs": 13872,
+  "materialId": 810621589,
+  "bookId": 112771,
+  "chapterId": 25527670,
+  "updatedAt": "2026-06-22T17:24:09.496Z"
+}

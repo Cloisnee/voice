@@ -1,0 +1,20 @@
+{
+  "id": 1553,
+  "name": "羽小白MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1553",
+  "robotId": "1553",
+  "engineVoiceId": "create_voice_guagua_1553",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。你不用立刻回答，我可以等。灯影晃了一下，心绪也跟着沉了下去。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0641_羽小白MK-III_1553.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0641_羽小白MK-III_1553.mp3",
+  "audioHash": "a4a6c26cdc77676ba07d02b52a97bb8f60402c1f41b6727fcaf5df5679fb3fe2",
+  "durationMs": 14880,
+  "materialId": 810619364,
+  "bookId": 112529,
+  "chapterId": 25527219,
+  "updatedAt": "2026-06-22T17:21:53.044Z"
+}

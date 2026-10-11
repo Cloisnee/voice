@@ -1,0 +1,20 @@
+{
+  "id": 1187,
+  "name": "东风雨MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1187",
+  "robotId": "1187",
+  "engineVoiceId": "create_voice_guagua_1187",
+  "referenceText": "你听，他们还在等我回去。如果必须有人留下，那就让我来。灯影晃了一下，心绪也跟着沉了下去。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0431_东风雨MK-III_1187.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0431_东风雨MK-III_1187.mp3",
+  "audioHash": "3e34da7d8e2dc795933071ea7893df3e8d4a7b7bd58c98a5a54c3f21ad38da49",
+  "durationMs": 11928,
+  "materialId": 810610900,
+  "bookId": 112319,
+  "chapterId": 25526653,
+  "updatedAt": "2026-06-22T17:17:06.762Z"
+}

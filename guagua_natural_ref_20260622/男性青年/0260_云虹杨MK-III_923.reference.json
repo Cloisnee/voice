@@ -1,0 +1,20 @@
+{
+  "id": 923,
+  "name": "云虹杨MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG923",
+  "robotId": "923",
+  "engineVoiceId": "create_voice_guagua_923",
+  "referenceText": "事情已经到了这一步，退后反而更危险。别担心，我知道自己在做什么。帘外风声一紧，话到嘴边便轻了半分。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0260_云虹杨MK-III_923.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0260_云虹杨MK-III_923.mp3",
+  "audioHash": "4c8b4e2117c0fc5d1958fe03755ed0baff4ae1194c4f3456ee5fac578079cf60",
+  "durationMs": 14424,
+  "materialId": 810562694,
+  "bookId": 112148,
+  "chapterId": 25526286,
+  "updatedAt": "2026-06-22T16:35:09.899Z"
+}

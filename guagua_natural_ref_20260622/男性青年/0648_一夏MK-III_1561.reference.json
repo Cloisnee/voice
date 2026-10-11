@@ -1,0 +1,20 @@
+{
+  "id": 1561,
+  "name": "一夏MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1561",
+  "robotId": "1561",
+  "engineVoiceId": "create_voice_guagua_1561",
+  "referenceText": "我当然会怕，可是现在不能停下。别担心，我知道自己在做什么。停了一会儿，语气终于慢慢平稳下来。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0648_一夏MK-III_1561.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0648_一夏MK-III_1561.mp3",
+  "audioHash": "4164b0327fac0f5592568bee4a8ee75f30b9ac502b33e2a96535832861cfb428",
+  "durationMs": 12648,
+  "materialId": 810619649,
+  "bookId": 112536,
+  "chapterId": 25527230,
+  "updatedAt": "2026-06-22T17:21:57.257Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1180,
+  "name": "诺诺MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1180",
+  "robotId": "1180",
+  "engineVoiceId": "create_voice_guagua_1180",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。你不用立刻回答，我可以等。帘外风声一紧，话到嘴边便轻了半分。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0425_诺诺MK-III_1180.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0425_诺诺MK-III_1180.mp3",
+  "audioHash": "978bba8fc6d53b2019fa0bcaab8b39208bbf677d9d08a5cbc3af9d76cdd2bbe7",
+  "durationMs": 16512,
+  "materialId": 810610770,
+  "bookId": 112313,
+  "chapterId": 25526644,
+  "updatedAt": "2026-06-22T17:17:05.528Z"
+}

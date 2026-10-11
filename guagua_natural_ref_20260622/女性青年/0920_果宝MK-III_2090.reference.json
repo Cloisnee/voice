@@ -1,0 +1,20 @@
+{
+  "id": 2090,
+  "name": "果宝MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2090",
+  "robotId": "2090",
+  "engineVoiceId": "create_voice_guagua_2090",
+  "referenceText": "阳光*依旧明媚，却再也驱不散那股笼罩在每个人心头，源自未知恐怖的*浓重阴影。叶漓静静地看着天渊，看着他眼中那抹属于天道，却无能为力的痛苦，也看到了他话语中揭示的，比战争本身更可怕的真相！",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0920_果宝MK-III_2090.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0920_果宝MK-III_2090.mp3",
+  "audioHash": "e743594fa9bc857c4e9af17479674cb2327c306a2fd71eed35a248d74217261c",
+  "durationMs": 24144,
+  "materialId": 810621792,
+  "bookId": 112807,
+  "chapterId": 25527735,
+  "updatedAt": "2026-06-22T17:24:29.687Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 642,
+  "name": "白狐MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG642",
+  "robotId": "642",
+  "engineVoiceId": "create_voice_guagua_642",
+  "referenceText": "事情已经到了这一步，退后反而更危险。我会把人带回来，也会给你一个交代。帘外风声一紧，话到嘴边便轻了半分。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0133_白狐MK-III_642.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0133_白狐MK-III_642.mp3",
+  "audioHash": "68d5e642df1ad50bc6713b853cc6121885e934c39169f9d5fee702f4562f39cf",
+  "durationMs": 12288,
+  "materialId": 810435424,
+  "bookId": 112042,
+  "chapterId": 25524468,
+  "updatedAt": "2026-06-22T15:06:22.087Z"
+}

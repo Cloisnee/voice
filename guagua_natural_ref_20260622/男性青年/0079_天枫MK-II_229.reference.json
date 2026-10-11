@@ -1,0 +1,20 @@
+{
+  "id": 229,
+  "name": "天枫MK-II",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG229",
+  "robotId": "229",
+  "engineVoiceId": "create_voice_guagua_229",
+  "referenceText": "刚才那句话，我不是随便说说。别担心，我知道自己在做什么。手机屏幕暗下去以后，房间里只剩下彼此的呼吸。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/现代",
+  "audioFile": "0079_天枫MK-II_229.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0079_天枫MK-II_229.mp3",
+  "audioHash": "c9339cf54a7cc5df3f3d8e9a522dd919fd1c8a655d57cd23bf351d6a80c10aab",
+  "durationMs": 12624,
+  "materialId": 810398463,
+  "bookId": 112028,
+  "chapterId": 25524444,
+  "updatedAt": "2026-06-22T14:40:44.210Z"
+}

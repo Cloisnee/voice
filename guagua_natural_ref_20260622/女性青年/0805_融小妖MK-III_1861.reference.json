@@ -1,0 +1,20 @@
+{
+  "id": 1861,
+  "name": "融小妖MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1861",
+  "robotId": "1861",
+  "engineVoiceId": "create_voice_guagua_1861",
+  "referenceText": "我盯着洗手池里的水，它慢慢变红了，不是血的颜色，是那种陈旧的发暗的红。然后，水面浮起几根黑色长发，缠在一起。我明明是短发。水龙头还在滴水，滴答，滴答。忽然，一滴水落在我的手背上，带着一股腐烂的味道",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/悬疑",
+  "audioFile": "0805_融小妖MK-III_1861.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0805_融小妖MK-III_1861.mp3",
+  "audioHash": "a7b48aca70ca1dded669a6925902d93ee725a33d209e67ef9d8073de4fd15c62",
+  "durationMs": 22416,
+  "materialId": 810621297,
+  "bookId": 112692,
+  "chapterId": 25527552,
+  "updatedAt": "2026-06-22T17:23:25.923Z"
+}

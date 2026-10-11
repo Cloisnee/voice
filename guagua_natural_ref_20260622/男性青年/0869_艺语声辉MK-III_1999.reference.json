@@ -1,0 +1,20 @@
+{
+  "id": 1999,
+  "name": "艺语声辉MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1999",
+  "robotId": "1999",
+  "engineVoiceId": "create_voice_guagua_1999",
+  "referenceText": "刚才那句话，我不是随便说说。我会把人带回来，也会给你一个交代。灯影晃了一下，心绪也跟着沉了下去。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0869_艺语声辉MK-III_1999.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0869_艺语声辉MK-III_1999.mp3",
+  "audioHash": "7f12a07c4aeb13cc675b72a4a53fe5a965a001fc6d6dfa9474938575a19b6aed",
+  "durationMs": 11928,
+  "materialId": 810621507,
+  "bookId": 112756,
+  "chapterId": 25527647,
+  "updatedAt": "2026-06-22T17:24:01.268Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1654,
+  "name": "猫仙豆MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1654",
+  "robotId": "1654",
+  "engineVoiceId": "create_voice_guagua_1654",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。我会把情绪收好，不影响接下来的事。帘外风声一紧，话到嘴边便轻了半分。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0711_猫仙豆MK-III_1654.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0711_猫仙豆MK-III_1654.mp3",
+  "audioHash": "6dfcbf62d9f156b15c9fca8226fd16ffbd19a6adfc7f13d7439c1e2e9aa4707f",
+  "durationMs": 16608,
+  "materialId": 810620373,
+  "bookId": 112598,
+  "chapterId": 25527321,
+  "updatedAt": "2026-06-22T17:22:32.471Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1155,
+  "name": "郭金非中年MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1155",
+  "robotId": "1155",
+  "engineVoiceId": "create_voice_guagua_1155",
+  "referenceText": "这件事没你想得那么简单。你把人手安排好，我去看现场。屋里忽然安静下来，连呼吸声都显得格外清楚。别慌，先按计划来。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/悬疑",
+  "audioFile": "0406_郭金非中年MK-III_1155.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0406_郭金非中年MK-III_1155.mp3",
+  "audioHash": "bb72988a206d05678703ad66402586a7db35cdc29284eff31b28f30447ec9c35",
+  "durationMs": 13632,
+  "materialId": 810608125,
+  "bookId": 112294,
+  "chapterId": 25526609,
+  "updatedAt": "2026-06-22T17:12:40.494Z"
+}

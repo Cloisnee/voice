@@ -1,0 +1,20 @@
+{
+  "id": 1521,
+  "name": "财神MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1521",
+  "robotId": "1521",
+  "engineVoiceId": "create_voice_guagua_1521",
+  "referenceText": "你听，他们还在等我回去。我会把人带回来，也会给你一个交代。门外那一点动静，让所有话都停在了半空。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/悬疑",
+  "audioFile": "0617_财神MK-III_1521.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0617_财神MK-III_1521.mp3",
+  "audioHash": "0f3f8cc9af1208d81064f1cfde7cfba28d5ba10cdc49e7daf08543fb9c32d5fe",
+  "durationMs": 11856,
+  "materialId": 810618831,
+  "bookId": 112505,
+  "chapterId": 25527186,
+  "updatedAt": "2026-06-22T17:21:39.441Z"
+}

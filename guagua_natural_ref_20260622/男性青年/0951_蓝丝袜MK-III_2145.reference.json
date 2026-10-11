@@ -1,0 +1,20 @@
+{
+  "id": 2145,
+  "name": "蓝丝袜MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2145",
+  "robotId": "2145",
+  "engineVoiceId": "create_voice_guagua_2145",
+  "referenceText": "坐在床沿边的云霜儿早有防备，身影一闪便挪到了一旁，叶风扑了个空，噗通一声扑在了床上。叶风回头看去，只见云霜儿脸色有些发红，抱着三吱儿站在床边。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0951_蓝丝袜MK-III_2145.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0951_蓝丝袜MK-III_2145.mp3",
+  "audioHash": "b7966713ee0598c864816611da90d7cec3c129e5d65d402e15d9ef7265d0fab6",
+  "durationMs": 15744,
+  "materialId": 810622148,
+  "bookId": 112838,
+  "chapterId": 25527792,
+  "updatedAt": "2026-06-22T17:24:47.000Z"
+}

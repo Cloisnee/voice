@@ -1,0 +1,20 @@
+{
+  "id": 1606,
+  "name": "凤羽伊伊MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1606",
+  "robotId": "1606",
+  "engineVoiceId": "create_voice_guagua_1606",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。我会把情绪收好，不影响接下来的事。停了一会儿，语气终于慢慢平稳下来。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0683_凤羽伊伊MK-III_1606.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0683_凤羽伊伊MK-III_1606.mp3",
+  "audioHash": "c42e6690d65379790490ffe68a0003d3a8815e3c0b68a20d5ad59e243c16003a",
+  "durationMs": 17256,
+  "materialId": 810619845,
+  "bookId": 112571,
+  "chapterId": 25527282,
+  "updatedAt": "2026-06-22T17:22:16.314Z"
+}

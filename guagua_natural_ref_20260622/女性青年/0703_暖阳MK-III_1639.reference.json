@@ -1,0 +1,20 @@
+{
+  "id": 1639,
+  "name": "暖阳MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1639",
+  "robotId": "1639",
+  "engineVoiceId": "create_voice_guagua_1639",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。我会把情绪收好，不影响接下来的事。手机屏幕暗下去以后，房间里只剩下彼此的呼吸。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/现代",
+  "audioFile": "0703_暖阳MK-III_1639.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0703_暖阳MK-III_1639.mp3",
+  "audioHash": "7268c50a94934263db652f606361876b6b9ecee29ac586d3e6d5055b784875a6",
+  "durationMs": 15312,
+  "materialId": 810619903,
+  "bookId": 112591,
+  "chapterId": 25527312,
+  "updatedAt": "2026-06-22T17:22:28.481Z"
+}

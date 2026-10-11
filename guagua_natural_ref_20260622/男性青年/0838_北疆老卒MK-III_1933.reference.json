@@ -1,0 +1,20 @@
+{
+  "id": 1933,
+  "name": "北疆老卒MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1933",
+  "robotId": "1933",
+  "engineVoiceId": "create_voice_guagua_1933",
+  "referenceText": "事情已经到了这一步，退后反而更危险。先稳住呼吸，再看清楚前面的路。停了一会儿，语气终于慢慢平稳下来。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0838_北疆老卒MK-III_1933.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0838_北疆老卒MK-III_1933.mp3",
+  "audioHash": "ee0b9b466a730bbebeb176818bdc398e8d47a378925061c4bb5b49a783c7301d",
+  "durationMs": 12768,
+  "materialId": 810621200,
+  "bookId": 112725,
+  "chapterId": 25527600,
+  "updatedAt": "2026-06-22T17:23:44.022Z"
+}

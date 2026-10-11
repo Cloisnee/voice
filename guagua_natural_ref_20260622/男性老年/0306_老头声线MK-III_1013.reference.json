@@ -1,0 +1,20 @@
+{
+  "id": 1013,
+  "name": "老头声线MK-III",
+  "category": "男性老年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1013",
+  "robotId": "1013",
+  "engineVoiceId": "create_voice_guagua_1013",
+  "referenceText": "我年纪大了，可这些事还看得明白。先坐下，把气喘匀了再说。帘外风声一紧，话到嘴边便轻了半分。等你真正明白，就不会怪我。",
+  "emotionProfile": "阅历感、慢节奏、劝诫语气",
+  "sampleStyle": "男性老年/古风",
+  "audioFile": "0306_老头声线MK-III_1013.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性老年/0306_老头声线MK-III_1013.mp3",
+  "audioHash": "61b4263b440191fe355d87a59c981bb89cc181ca6be3abaab37a937dec702481",
+  "durationMs": 18072,
+  "materialId": 810581282,
+  "bookId": 112194,
+  "chapterId": 25526371,
+  "updatedAt": "2026-06-22T16:48:36.139Z"
+}

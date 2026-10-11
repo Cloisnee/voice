@@ -1,0 +1,20 @@
+{
+  "id": 635,
+  "name": "大猫MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG635",
+  "robotId": "635",
+  "engineVoiceId": "create_voice_guagua_635",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。我会把情绪收好，不影响接下来的事。这句话不需要喊出来，却要让人听得真切。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0131_大猫MK-III_635.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0131_大猫MK-III_635.mp3",
+  "audioHash": "db8156ad09d50f65ef518c94b1d9e29f3b7791deaebd81fbf3017b735ea84fbe",
+  "durationMs": 15408,
+  "materialId": 810435094,
+  "bookId": 112040,
+  "chapterId": 25524464,
+  "updatedAt": "2026-06-22T15:06:21.689Z"
+}

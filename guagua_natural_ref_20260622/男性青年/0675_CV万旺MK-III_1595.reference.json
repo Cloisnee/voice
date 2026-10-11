@@ -1,0 +1,20 @@
+{
+  "id": 1595,
+  "name": "CV万旺MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1595",
+  "robotId": "1595",
+  "engineVoiceId": "create_voice_guagua_1595",
+  "referenceText": "你听，他们还在等我回去。如果必须有人留下，那就让我来。门外那一点动静，让所有话都停在了半空。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/悬疑",
+  "audioFile": "0675_CV万旺MK-III_1595.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0675_CV万旺MK-III_1595.mp3",
+  "audioHash": "2e56581d2131564a0e224bf3c3118148438f87a42b3bbc047bcc9b7d14518519",
+  "durationMs": 11664,
+  "materialId": 810619668,
+  "bookId": 112563,
+  "chapterId": 25527272,
+  "updatedAt": "2026-06-22T17:22:11.872Z"
+}

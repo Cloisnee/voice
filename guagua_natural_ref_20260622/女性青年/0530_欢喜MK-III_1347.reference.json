@@ -1,0 +1,20 @@
+{
+  "id": 1347,
+  "name": "欢喜MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1347",
+  "robotId": "1347",
+  "engineVoiceId": "create_voice_guagua_1347",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。算了，我们先往前走吧。帘外风声一紧，话到嘴边便轻了半分。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0530_欢喜MK-III_1347.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0530_欢喜MK-III_1347.mp3",
+  "audioHash": "d0882d633c3663eb913634bf8b30530622f4c80875f59e94080c1abde512146a",
+  "durationMs": 16704,
+  "materialId": 810616931,
+  "bookId": 112418,
+  "chapterId": 25526859,
+  "updatedAt": "2026-06-22T17:21:02.343Z"
+}

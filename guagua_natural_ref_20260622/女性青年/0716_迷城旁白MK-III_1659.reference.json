@@ -1,0 +1,20 @@
+{
+  "id": 1659,
+  "name": "迷城旁白MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1659",
+  "robotId": "1659",
+  "engineVoiceId": "create_voice_guagua_1659",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。如果还有机会，我想重新来一次。窗外车声一闪而过，语气也慢慢稳住了。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/现代",
+  "audioFile": "0716_迷城旁白MK-III_1659.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0716_迷城旁白MK-III_1659.mp3",
+  "audioHash": "e5d1286b4d79828f57b8619a47e006b0559ee77c9b28a28574ba149d92857bf3",
+  "durationMs": 16368,
+  "materialId": 810620051,
+  "bookId": 112603,
+  "chapterId": 25527329,
+  "updatedAt": "2026-06-22T17:22:35.395Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 867,
+  "name": "娜诺MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG867",
+  "robotId": "867",
+  "engineVoiceId": "create_voice_guagua_867",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。你不用立刻回答，我可以等。灯影晃了一下，心绪也跟着沉了下去。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0229_娜诺MK-III_867.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0229_娜诺MK-III_867.mp3",
+  "audioHash": "aef99208b050e1bbe42b3218c6870115a1b3fdabe6b901a361eba4ceb9d6c2f8",
+  "durationMs": 14304,
+  "materialId": 810550737,
+  "bookId": 112128,
+  "chapterId": 25525857,
+  "updatedAt": "2026-06-22T16:20:58.914Z"
+}

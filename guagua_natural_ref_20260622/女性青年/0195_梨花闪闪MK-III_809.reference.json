@@ -1,0 +1,20 @@
+{
+  "id": 809,
+  "name": "梨花闪闪MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG809",
+  "robotId": "809",
+  "engineVoiceId": "create_voice_guagua_809",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。我会把情绪收好，不影响接下来的事。灯影晃了一下，心绪也跟着沉了下去。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0195_梨花闪闪MK-III_809.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0195_梨花闪闪MK-III_809.mp3",
+  "audioHash": "f8107ea3ed22dd7894c66005923c649d1c6e426ccda168c043056cc6ce61c947",
+  "durationMs": 14664,
+  "materialId": null,
+  "bookId": 112104,
+  "chapterId": 25525818,
+  "updatedAt": "2026-06-22T16:07:04.164Z"
+}

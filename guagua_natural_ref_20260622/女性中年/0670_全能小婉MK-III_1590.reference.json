@@ -1,0 +1,20 @@
+{
+  "id": 1590,
+  "name": "全能小婉MK-III",
+  "category": "女性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1590",
+  "robotId": "1590",
+  "engineVoiceId": "create_voice_guagua_1590",
+  "referenceText": "我知道你委屈，可委屈不能替你做决定。慢慢说，我听着呢。门外那一点动静，让所有话都停在了半空。别怕，我在这里。",
+  "emotionProfile": "沉稳安抚，低强度情绪起伏",
+  "sampleStyle": "女性中年/悬疑",
+  "audioFile": "0670_全能小婉MK-III_1590.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性中年/0670_全能小婉MK-III_1590.mp3",
+  "audioHash": "8cd2ab4870545944d60ca7fcdc07263799252f1d3eb7ebd3b214c5028cc9d78d",
+  "durationMs": 12912,
+  "materialId": 810619666,
+  "bookId": 112558,
+  "chapterId": 25527264,
+  "updatedAt": "2026-06-22T17:22:09.518Z"
+}

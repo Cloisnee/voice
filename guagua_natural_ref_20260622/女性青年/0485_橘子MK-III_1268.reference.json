@@ -1,0 +1,20 @@
+{
+  "id": 1268,
+  "name": "橘子MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1268",
+  "robotId": "1268",
+  "engineVoiceId": "create_voice_guagua_1268",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。如果还有机会，我想重新来一次。帘外风声一紧，话到嘴边便轻了半分。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0485_橘子MK-III_1268.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0485_橘子MK-III_1268.mp3",
+  "audioHash": "e611baabe55a8c6fa80e01c9aa5b7aa99e1354397350a3893faaa94ec0e58abb",
+  "durationMs": 15792,
+  "materialId": 810616056,
+  "bookId": 112373,
+  "chapterId": 25526771,
+  "updatedAt": "2026-06-22T17:20:51.932Z"
+}

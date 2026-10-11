@@ -1,0 +1,20 @@
+{
+  "id": 1355,
+  "name": "悦云MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1355",
+  "robotId": "1355",
+  "engineVoiceId": "create_voice_guagua_1355",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。我会把情绪收好，不影响接下来的事。这句话不需要喊出来，却要让人听得真切。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0535_悦云MK-III_1355.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0535_悦云MK-III_1355.mp3",
+  "audioHash": "a71fe1aff5f1ec51d9c72bbf2fa133efef617c2a490ee6c4c3cbb59128eadaa1",
+  "durationMs": 15696,
+  "materialId": 810617449,
+  "bookId": 112423,
+  "chapterId": 25526868,
+  "updatedAt": "2026-06-22T17:21:03.381Z"
+}

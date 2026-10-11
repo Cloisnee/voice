@@ -1,0 +1,20 @@
+{
+  "id": 1555,
+  "name": "小萌呀MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1555",
+  "robotId": "1555",
+  "engineVoiceId": "create_voice_guagua_1555",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。我会把情绪收好，不影响接下来的事。灯影晃了一下，心绪也跟着沉了下去。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0643_小萌呀MK-III_1555.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0643_小萌呀MK-III_1555.mp3",
+  "audioHash": "eb463aa0745a0b742d0daea91d58fb705af0167a6b9fe7c203d95e5f05e37c80",
+  "durationMs": 15408,
+  "materialId": 810619505,
+  "bookId": 112531,
+  "chapterId": 25527223,
+  "updatedAt": "2026-06-22T17:21:54.367Z"
+}

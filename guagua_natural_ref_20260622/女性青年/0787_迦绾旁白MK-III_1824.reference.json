@@ -1,0 +1,20 @@
+{
+  "id": 1824,
+  "name": "迦绾旁白MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1824",
+  "robotId": "1824",
+  "engineVoiceId": "create_voice_guagua_1824",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。我会把情绪收好，不影响接下来的事。帘外风声一紧，话到嘴边便轻了半分。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0787_迦绾旁白MK-III_1824.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0787_迦绾旁白MK-III_1824.mp3",
+  "audioHash": "282d7ee7ddf3051e8ee99a06268bcad15d8019a312d85b639259500e1d098857",
+  "durationMs": 15504,
+  "materialId": 810620941,
+  "bookId": 112674,
+  "chapterId": 25527527,
+  "updatedAt": "2026-06-22T17:23:14.988Z"
+}

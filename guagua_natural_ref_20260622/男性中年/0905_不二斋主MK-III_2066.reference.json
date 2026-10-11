@@ -1,0 +1,20 @@
+{
+  "id": 2066,
+  "name": "不二斋主MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2066",
+  "robotId": "2066",
+  "engineVoiceId": "create_voice_guagua_2066",
+  "referenceText": "废黜太子祭天文告颁布半个月，两广总督武丹，奉旨回京。因此时京师情形极为复杂，武丹没有拜会一个人，在自己私宅里歇息一夜，第二天一早就起轿直趋西华门递牌子请见。\n刚递过牌子，便见里头，出来一位将军。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0905_不二斋主MK-III_2066.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0905_不二斋主MK-III_2066.mp3",
+  "audioHash": "e5554c1b97ab0bc310b50bb36be28953a7224d04770ed345258821edb39f6be8",
+  "durationMs": 21216,
+  "materialId": 810621769,
+  "bookId": 112792,
+  "chapterId": 25527706,
+  "updatedAt": "2026-06-22T17:24:21.260Z"
+}

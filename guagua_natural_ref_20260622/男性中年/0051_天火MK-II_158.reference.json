@@ -1,0 +1,20 @@
+{
+  "id": 158,
+  "name": "天火MK-II",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG158",
+  "robotId": "158",
+  "engineVoiceId": "create_voice_guagua_158",
+  "referenceText": "这件事没你想得那么简单。你把人手安排好，我去看现场。帘外风声一紧，话到嘴边便轻了半分。天亮之前，我们必须有结果。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0051_天火MK-II_158.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0051_天火MK-II_158.mp3",
+  "audioHash": "2376a45181bcbe97e246928dda5fda497811abee134f996fa01696d815ca1b56",
+  "durationMs": 11976,
+  "materialId": 810398134,
+  "bookId": 112021,
+  "chapterId": 25524399,
+  "updatedAt": "2026-06-22T14:40:42.158Z"
+}

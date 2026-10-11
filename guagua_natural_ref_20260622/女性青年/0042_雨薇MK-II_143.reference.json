@@ -1,0 +1,20 @@
+{
+  "id": 143,
+  "name": "雨薇MK-II",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG143",
+  "robotId": "143",
+  "engineVoiceId": "create_voice_guagua_143",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。我会把情绪收好，不影响接下来的事。帘外风声一紧，话到嘴边便轻了半分。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0042_雨薇MK-II_143.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0042_雨薇MK-II_143.mp3",
+  "audioHash": "9d1efe1fc817e0f7fa0084eec026b85f6177f3d4c1f77f92df1b6458de48c43b",
+  "durationMs": 17328,
+  "materialId": 810397560,
+  "bookId": 112012,
+  "chapterId": 25524384,
+  "updatedAt": "2026-06-22T14:40:39.677Z"
+}

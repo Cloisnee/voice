@@ -1,0 +1,20 @@
+{
+  "id": 1831,
+  "name": "王隔壁2.0MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1831",
+  "robotId": "1831",
+  "engineVoiceId": "create_voice_guagua_1831",
+  "referenceText": "刚才那句话，我不是随便说说。我会把人带回来，也会给你一个交代。灯影晃了一下，心绪也跟着沉了下去。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0793_王隔壁2.0MK-III_1831.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0793_王隔壁2.0MK-III_1831.mp3",
+  "audioHash": "7f4c6003b8e2ccb6f37f307283d7ece7c57466cc1851edaa1c82e698aed5546e",
+  "durationMs": 11928,
+  "materialId": 810620966,
+  "bookId": 112680,
+  "chapterId": 25527535,
+  "updatedAt": "2026-06-22T17:23:18.653Z"
+}

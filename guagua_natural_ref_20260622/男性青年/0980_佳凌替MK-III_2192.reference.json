@@ -1,0 +1,20 @@
+{
+  "id": 2192,
+  "name": "佳凌替MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2192",
+  "robotId": "2192",
+  "engineVoiceId": "create_voice_guagua_2192",
+  "referenceText": "刚才那句话，我不是随便说说。别担心，我知道自己在做什么。灯影晃了一下，心绪也跟着沉了下去。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0980_佳凌替MK-III_2192.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0980_佳凌替MK-III_2192.mp3",
+  "audioHash": "d360ff347674d102be21ecaecb23a67454e8b958e27dddcf89ac2e1e22c15983",
+  "durationMs": 11808,
+  "materialId": 810629197,
+  "bookId": 112897,
+  "chapterId": 25530058,
+  "updatedAt": "2026-06-22T17:29:42.739Z"
+}

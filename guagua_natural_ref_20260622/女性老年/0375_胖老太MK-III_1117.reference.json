@@ -1,0 +1,20 @@
+{
+  "id": 1117,
+  "name": "胖老太MK-III",
+  "category": "女性老年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1117",
+  "robotId": "1117",
+  "engineVoiceId": "create_voice_guagua_1117",
+  "referenceText": "别把一时的输赢看得太重。能平安回来，比什么都要紧。灯影晃了一下，心绪也跟着沉了下去。等雪停了，院子里就又亮堂了。",
+  "emotionProfile": "慈祥、缓慢、带回忆感",
+  "sampleStyle": "女性老年/古风",
+  "audioFile": "0375_胖老太MK-III_1117.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性老年/0375_胖老太MK-III_1117.mp3",
+  "audioHash": "f0a417ab98ddf6118327d233eae2980ce60aa47832cfb5948b5983a78dbdfaca",
+  "durationMs": 16320,
+  "materialId": 810604073,
+  "bookId": 112263,
+  "chapterId": 25526479,
+  "updatedAt": "2026-06-22T17:08:01.015Z"
+}

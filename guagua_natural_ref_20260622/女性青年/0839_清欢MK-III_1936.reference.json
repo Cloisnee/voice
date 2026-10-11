@@ -1,0 +1,20 @@
+{
+  "id": 1936,
+  "name": "清欢MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1936",
+  "robotId": "1936",
+  "engineVoiceId": "create_voice_guagua_1936",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。我会把情绪收好，不影响接下来的事。帘外风声一紧，话到嘴边便轻了半分。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0839_清欢MK-III_1936.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0839_清欢MK-III_1936.mp3",
+  "audioHash": "a408481505f1eaf2c1dae9c55abc54cc662aa919d6dc5e01cd7f7c18e2103cf8",
+  "durationMs": 15456,
+  "materialId": 810621164,
+  "bookId": 112726,
+  "chapterId": 25527601,
+  "updatedAt": "2026-06-22T17:23:44.534Z"
+}

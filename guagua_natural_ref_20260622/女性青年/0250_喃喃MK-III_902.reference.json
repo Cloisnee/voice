@@ -1,0 +1,20 @@
+{
+  "id": 902,
+  "name": "喃喃MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG902",
+  "robotId": "902",
+  "engineVoiceId": "create_voice_guagua_902",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。算了，我们先往前走吧。灯影晃了一下，心绪也跟着沉了下去。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0250_喃喃MK-III_902.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0250_喃喃MK-III_902.mp3",
+  "audioHash": "97a5067b30320261e8880a8297f95c06bf2aaa27a98929398b460c9486864a44",
+  "durationMs": 13824,
+  "materialId": 810561089,
+  "bookId": 112138,
+  "chapterId": 25526272,
+  "updatedAt": "2026-06-22T16:28:05.720Z"
+}

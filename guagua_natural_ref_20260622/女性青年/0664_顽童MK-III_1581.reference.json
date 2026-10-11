@@ -1,0 +1,20 @@
+{
+  "id": 1581,
+  "name": "顽童MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1581",
+  "robotId": "1581",
+  "engineVoiceId": "create_voice_guagua_1581",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。如果还有机会，我想重新来一次。停了一会儿，语气终于慢慢平稳下来。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0664_顽童MK-III_1581.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0664_顽童MK-III_1581.mp3",
+  "audioHash": "dfa4b0a9571189c692a1cbec9eac2e4deb1f2ce52056c4a04d6146cccfd226d3",
+  "durationMs": 17232,
+  "materialId": 810619576,
+  "bookId": 112552,
+  "chapterId": 25527255,
+  "updatedAt": "2026-06-22T17:22:06.081Z"
+}

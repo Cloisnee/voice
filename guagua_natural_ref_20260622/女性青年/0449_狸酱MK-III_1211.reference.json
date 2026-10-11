@@ -1,0 +1,20 @@
+{
+  "id": 1211,
+  "name": "狸酱MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1211",
+  "robotId": "1211",
+  "engineVoiceId": "create_voice_guagua_1211",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。你不用立刻回答，我可以等。这句话不需要喊出来，却要让人听得真切。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0449_狸酱MK-III_1211.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0449_狸酱MK-III_1211.mp3",
+  "audioHash": "b5f6f0c32c50c8f9564c89ff60b902b40ef548ac25aadd35be5177be61440072",
+  "durationMs": 11952,
+  "materialId": 810613730,
+  "bookId": 112337,
+  "chapterId": 25526683,
+  "updatedAt": "2026-06-22T17:17:10.981Z"
+}

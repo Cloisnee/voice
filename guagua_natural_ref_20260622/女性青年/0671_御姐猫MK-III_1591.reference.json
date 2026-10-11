@@ -1,0 +1,20 @@
+{
+  "id": 1591,
+  "name": "御姐猫MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1591",
+  "robotId": "1591",
+  "engineVoiceId": "create_voice_guagua_1591",
+  "referenceText": "她爬上板凳，然后熟练地把那些洗干净的衣服挂在绳索上面，还抖了抖，让衣服的版型不变。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/现代",
+  "audioFile": "0671_御姐猫MK-III_1591.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0671_御姐猫MK-III_1591.mp3",
+  "audioHash": "276a4b5f40fc8dba9af697ecaf40739f5aa28e8231dd390ce3ed425d931b5f54",
+  "durationMs": 8736,
+  "materialId": 810619665,
+  "bookId": 112559,
+  "chapterId": 25527265,
+  "updatedAt": "2026-06-22T17:22:10.007Z"
+}

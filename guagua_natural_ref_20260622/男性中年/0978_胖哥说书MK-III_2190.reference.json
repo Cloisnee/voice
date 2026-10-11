@@ -1,0 +1,20 @@
+{
+  "id": 2190,
+  "name": "胖哥说书MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2190",
+  "robotId": "2190",
+  "engineVoiceId": "create_voice_guagua_2190",
+  "referenceText": "多年经验告诉我，越平静的地方越要小心。你把人手安排好，我去看现场。灯影晃了一下，心绪也跟着沉了下去。别慌，先按计划来。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0978_胖哥说书MK-III_2190.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0978_胖哥说书MK-III_2190.mp3",
+  "audioHash": "d83bd0b44d30d9d12fce3996613d0307fcb0778c6f9b22f7977aad8d58aa1720",
+  "durationMs": 13296,
+  "materialId": 810622072,
+  "bookId": 112865,
+  "chapterId": 25527837,
+  "updatedAt": "2026-06-22T17:25:01.871Z"
+}

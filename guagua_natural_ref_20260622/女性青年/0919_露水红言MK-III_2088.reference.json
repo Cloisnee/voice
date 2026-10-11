@@ -1,0 +1,20 @@
+{
+  "id": 2088,
+  "name": "露水红言MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2088",
+  "robotId": "2088",
+  "engineVoiceId": "create_voice_guagua_2088",
+  "referenceText": "狂风撕扯着他的衣角，脚下碎石滚落深渊。追兵的火把已逼近崖边，他最后望了一眼故土的方向……\n他纵身一跃，气流在耳畔尖啸。而比坠落更快的，是他心中炸开的惊雷：那根断裂的绳索，竟在空中划出烈焰的轨迹。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0919_露水红言MK-III_2088.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0919_露水红言MK-III_2088.mp3",
+  "audioHash": "7a2ed2595f96a73730c02f2efe4589c6506d8c7d09c169841d217d7ce02c30e0",
+  "durationMs": 19584,
+  "materialId": 810621780,
+  "bookId": 112806,
+  "chapterId": 25527733,
+  "updatedAt": "2026-06-22T17:24:29.132Z"
+}

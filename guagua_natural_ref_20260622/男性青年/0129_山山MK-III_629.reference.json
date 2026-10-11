@@ -1,0 +1,20 @@
+{
+  "id": 629,
+  "name": "山山MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG629",
+  "robotId": "629",
+  "engineVoiceId": "create_voice_guagua_629",
+  "referenceText": "地上忽而犬声大作，狂吠、低吼、尖嚎声声透入地下，犬群已然发现积善堂变作了屠宰场，正啸聚而至。紧接着，又听着撕咬声，那是恶犬在争食残尸；再听得哀鸣声，那是主人在鞭策猎犬们，叫莫要贪食，快快追索躲藏的猎物",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0129_山山MK-III_629.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0129_山山MK-III_629.mp3",
+  "audioHash": "ab54147721a34a415294f1758ed4d05b100af089f732a129d2b1f41702367636",
+  "durationMs": 22944,
+  "materialId": 810435055,
+  "bookId": 112038,
+  "chapterId": 25524462,
+  "updatedAt": "2026-06-22T15:06:21.234Z"
+}

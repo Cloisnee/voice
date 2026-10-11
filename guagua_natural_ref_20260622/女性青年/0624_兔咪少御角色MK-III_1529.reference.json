@@ -1,0 +1,20 @@
+{
+  "id": 1529,
+  "name": "兔咪少御角色MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1529",
+  "robotId": "1529",
+  "engineVoiceId": "create_voice_guagua_1529",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。我会把情绪收好，不影响接下来的事。窗外车声一闪而过，语气也慢慢稳住了。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/现代",
+  "audioFile": "0624_兔咪少御角色MK-III_1529.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0624_兔咪少御角色MK-III_1529.mp3",
+  "audioHash": "4fff4b769ba0bf37dab6a19f09b8a57638c22f604fcf7b3ea7c77d3ce31f5b90",
+  "durationMs": 16152,
+  "materialId": 810618870,
+  "bookId": 112512,
+  "chapterId": 25527194,
+  "updatedAt": "2026-06-22T17:21:43.505Z"
+}

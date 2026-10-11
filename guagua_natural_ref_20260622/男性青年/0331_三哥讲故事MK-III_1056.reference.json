@@ -1,0 +1,20 @@
+{
+  "id": 1056,
+  "name": "三哥讲故事MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1056",
+  "robotId": "1056",
+  "engineVoiceId": "create_voice_guagua_1056",
+  "referenceText": "事情已经到了这一步，退后反而更危险。如果必须有人留下，那就让我来。帘外风声一紧，话到嘴边便轻了半分。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0331_三哥讲故事MK-III_1056.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0331_三哥讲故事MK-III_1056.mp3",
+  "audioHash": "fac487227107bfd1750120af74f73781671efac56f7a8e3bc300aa360a4c5101",
+  "durationMs": 14160,
+  "materialId": 810592216,
+  "bookId": 112219,
+  "chapterId": 25526410,
+  "updatedAt": "2026-06-22T16:58:25.936Z"
+}

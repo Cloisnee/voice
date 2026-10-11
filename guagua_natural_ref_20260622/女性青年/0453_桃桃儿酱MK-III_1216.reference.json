@@ -1,0 +1,20 @@
+{
+  "id": 1216,
+  "name": "桃桃儿酱MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1216",
+  "robotId": "1216",
+  "engineVoiceId": "create_voice_guagua_1216",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。你不用立刻回答，我可以等。帘外风声一紧，话到嘴边便轻了半分。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0453_桃桃儿酱MK-III_1216.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0453_桃桃儿酱MK-III_1216.mp3",
+  "audioHash": "8c6704b87a7bb9a553b2bd0a719a2ea80cd062bec54ed936ff7a2167fade57eb",
+  "durationMs": 15360,
+  "materialId": 810614198,
+  "bookId": 112341,
+  "chapterId": 25526689,
+  "updatedAt": "2026-06-22T17:17:11.800Z"
+}

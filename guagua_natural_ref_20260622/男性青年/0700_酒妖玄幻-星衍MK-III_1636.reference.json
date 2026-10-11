@@ -1,0 +1,20 @@
+{
+  "id": 1636,
+  "name": "酒妖玄幻-星衍MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1636",
+  "robotId": "1636",
+  "engineVoiceId": "create_voice_guagua_1636",
+  "referenceText": "刚才那句话，我不是随便说说。别担心，我知道自己在做什么。灯影晃了一下，心绪也跟着沉了下去。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0700_酒妖玄幻-星衍MK-III_1636.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0700_酒妖玄幻-星衍MK-III_1636.mp3",
+  "audioHash": "532970d1e931abff6c4f0a47a1172dc44ea7f032dd7c3554dcd786eec2e7a496",
+  "durationMs": 13872,
+  "materialId": 810619899,
+  "bookId": 112588,
+  "chapterId": 25527307,
+  "updatedAt": "2026-06-22T17:22:26.817Z"
+}

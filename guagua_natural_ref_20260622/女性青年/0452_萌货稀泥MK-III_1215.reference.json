@@ -1,0 +1,20 @@
+{
+  "id": 1215,
+  "name": "萌货稀泥MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1215",
+  "robotId": "1215",
+  "engineVoiceId": "create_voice_guagua_1215",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。如果还有机会，我想重新来一次。说完这句，眼睛又亮了一点。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/童真",
+  "audioFile": "0452_萌货稀泥MK-III_1215.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0452_萌货稀泥MK-III_1215.mp3",
+  "audioHash": "6776c2d3db3bd984c2d61d3ab70aa869b3e32911606f9d5c6074b3c9e7f1d2cd",
+  "durationMs": 14688,
+  "materialId": 810614137,
+  "bookId": 112340,
+  "chapterId": 25526688,
+  "updatedAt": "2026-06-22T17:17:11.604Z"
+}

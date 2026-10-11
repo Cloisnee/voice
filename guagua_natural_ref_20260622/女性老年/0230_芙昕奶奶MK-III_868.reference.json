@@ -1,0 +1,20 @@
+{
+  "id": 868,
+  "name": "芙昕奶奶MK-III",
+  "category": "女性老年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG868",
+  "robotId": "868",
+  "engineVoiceId": "create_voice_guagua_868",
+  "referenceText": "年轻的时候总觉得路很长，回头看才知道，一步都不能白走。日子还得过，天亮了，就该往前走。手机屏幕暗下去以后，房间里只剩下彼此的呼吸。人要学会低头，也要记得抬头看路。",
+  "emotionProfile": "慈祥、缓慢、带回忆感",
+  "sampleStyle": "女性老年/现代",
+  "audioFile": "0230_芙昕奶奶MK-III_868.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性老年/0230_芙昕奶奶MK-III_868.mp3",
+  "audioHash": "b22cb495d78c2b8747b6240b2beef5a4bb610ade50e34f93b9a305c0b8ed2fae",
+  "durationMs": 20400,
+  "materialId": 810551153,
+  "bookId": 112129,
+  "chapterId": 25525858,
+  "updatedAt": "2026-06-22T16:20:59.142Z"
+}

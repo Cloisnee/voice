@@ -1,0 +1,20 @@
+{
+  "id": 1060,
+  "name": "旭暖微光MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1060",
+  "robotId": "1060",
+  "engineVoiceId": "create_voice_guagua_1060",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。你不用立刻回答，我可以等。停了一会儿，语气终于慢慢平稳下来。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0333_旭暖微光MK-III_1060.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0333_旭暖微光MK-III_1060.mp3",
+  "audioHash": "9745f436cfd627341f6a6dc87f0dd94927b7c950b2bb15b6eccefc468ab3f5f2",
+  "durationMs": 13920,
+  "materialId": 810592238,
+  "bookId": 112221,
+  "chapterId": 25526414,
+  "updatedAt": "2026-06-22T16:58:26.351Z"
+}

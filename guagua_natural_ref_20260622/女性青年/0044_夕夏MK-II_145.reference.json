@@ -1,0 +1,20 @@
+{
+  "id": 145,
+  "name": "夕夏MK-II",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG145",
+  "robotId": "145",
+  "engineVoiceId": "create_voice_guagua_145",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。如果还有机会，我想重新来一次。帘外风声一紧，话到嘴边便轻了半分。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0044_夕夏MK-II_145.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0044_夕夏MK-II_145.mp3",
+  "audioHash": "45893d5b3e25ccaf9933fe9c792d99b05a6f13f3927c86cb2330464b56262624",
+  "durationMs": 19872,
+  "materialId": 810397594,
+  "bookId": 112014,
+  "chapterId": 25524387,
+  "updatedAt": "2026-06-22T14:40:39.986Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1656,
+  "name": "青梅MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1656",
+  "robotId": "1656",
+  "engineVoiceId": "create_voice_guagua_1656",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。你不用立刻回答，我可以等。帘外风声一紧，话到嘴边便轻了半分。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0713_青梅MK-III_1656.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0713_青梅MK-III_1656.mp3",
+  "audioHash": "6be66d39a4dc9b080efe9922e74f21e03dc1e0770879821b3c1c266ed819ef14",
+  "durationMs": 16824,
+  "materialId": 810619954,
+  "bookId": 112600,
+  "chapterId": 25527324,
+  "updatedAt": "2026-06-22T17:22:33.668Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1895,
+  "name": "瀚洋腔调MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1895",
+  "robotId": "1895",
+  "engineVoiceId": "create_voice_guagua_1895",
+  "referenceText": "事情已经到了这一步，退后反而更危险。别担心，我知道自己在做什么。帘外风声一紧，话到嘴边便轻了半分。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0816_瀚洋腔调MK-III_1895.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0816_瀚洋腔调MK-III_1895.mp3",
+  "audioHash": "79ac40c2756d04b30abb4e160a1bb512602ad4a6c7f394423d75ec13d3978d78",
+  "durationMs": 14712,
+  "materialId": 810621097,
+  "bookId": 112703,
+  "chapterId": 25527567,
+  "updatedAt": "2026-06-22T17:23:32.110Z"
+}

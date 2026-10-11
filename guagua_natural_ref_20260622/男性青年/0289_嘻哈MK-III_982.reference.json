@@ -1,0 +1,20 @@
+{
+  "id": 982,
+  "name": "嘻哈MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG982",
+  "robotId": "982",
+  "engineVoiceId": "create_voice_guagua_982",
+  "referenceText": "事情已经到了这一步，退后反而更危险。我会把人带回来，也会给你一个交代。停了一会儿，语气终于慢慢平稳下来。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0289_嘻哈MK-III_982.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0289_嘻哈MK-III_982.mp3",
+  "audioHash": "a5a6a6f5c03ac68c18ffa4ec74b78c30b44bdbc108142ab40544b671a9fca3fd",
+  "durationMs": 13584,
+  "materialId": 810573044,
+  "bookId": 112177,
+  "chapterId": 25526346,
+  "updatedAt": "2026-06-22T16:40:40.832Z"
+}

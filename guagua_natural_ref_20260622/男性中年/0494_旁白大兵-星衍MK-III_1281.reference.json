@@ -1,0 +1,20 @@
+{
+  "id": 1281,
+  "name": "旁白大兵-星衍MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1281",
+  "robotId": "1281",
+  "engineVoiceId": "create_voice_guagua_1281",
+  "referenceText": "我不是不相信你，只是现在必须谨慎。你把人手安排好，我去看现场。帘外风声一紧，话到嘴边便轻了半分。别慌，先按计划来。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0494_旁白大兵-星衍MK-III_1281.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0494_旁白大兵-星衍MK-III_1281.mp3",
+  "audioHash": "bbde41b344b40bb40a03873d5efa5cfbbee8c2ad8fcc5ce63b7a7867bae546ed",
+  "durationMs": 14232,
+  "materialId": 810616312,
+  "bookId": 112382,
+  "chapterId": 25526789,
+  "updatedAt": "2026-06-22T17:20:53.675Z"
+}

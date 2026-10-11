@@ -1,0 +1,20 @@
+{
+  "id": 1501,
+  "name": "轻书MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1501",
+  "robotId": "1501",
+  "engineVoiceId": "create_voice_guagua_1501",
+  "referenceText": "我当然会怕，可是现在不能停下。别担心，我知道自己在做什么。帘外风声一紧，话到嘴边便轻了半分。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0608_轻书MK-III_1501.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0608_轻书MK-III_1501.mp3",
+  "audioHash": "5be5e9c015dac54727abf9c7ba7527cd1f55ab71af489e35297ebaa01c934388",
+  "durationMs": 11856,
+  "materialId": 810618772,
+  "bookId": 112496,
+  "chapterId": 25527173,
+  "updatedAt": "2026-06-22T17:21:34.575Z"
+}

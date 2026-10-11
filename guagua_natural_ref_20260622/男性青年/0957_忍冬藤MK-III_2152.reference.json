@@ -1,0 +1,20 @@
+{
+  "id": 2152,
+  "name": "忍冬藤MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2152",
+  "robotId": "2152",
+  "engineVoiceId": "create_voice_guagua_2152",
+  "referenceText": "我当然会怕，可是现在不能停下。我会把人带回来，也会给你一个交代。停了一会儿，语气终于慢慢平稳下来。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0957_忍冬藤MK-III_2152.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0957_忍冬藤MK-III_2152.mp3",
+  "audioHash": "1b7c432981534b208ad1c26d4012e8e261d36a17c5ef828431f5b5ae0ab4d9e3",
+  "durationMs": 11184,
+  "materialId": 810621938,
+  "bookId": 112844,
+  "chapterId": 25527802,
+  "updatedAt": "2026-06-22T17:24:50.410Z"
+}

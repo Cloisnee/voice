@@ -1,0 +1,20 @@
+{
+  "id": 1923,
+  "name": "申金火炼ProMK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1923",
+  "robotId": "1923",
+  "engineVoiceId": "create_voice_guagua_1923",
+  "referenceText": "多年经验告诉我，越平静的地方越要小心。该问的一个都不能漏。灯影晃了一下，心绪也跟着沉了下去。这句话我只说一遍，你记住。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0833_申金火炼ProMK-III_1923.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0833_申金火炼ProMK-III_1923.mp3",
+  "audioHash": "bb923049b77aee7a4b8490c444d5d9a4b8c14d19f8e16a18b478312d2cd63ddc",
+  "durationMs": 12144,
+  "materialId": 810621503,
+  "bookId": 112720,
+  "chapterId": 25527592,
+  "updatedAt": "2026-06-22T17:23:41.382Z"
+}

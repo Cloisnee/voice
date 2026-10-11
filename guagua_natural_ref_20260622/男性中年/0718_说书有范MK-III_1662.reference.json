@@ -1,0 +1,20 @@
+{
+  "id": 1662,
+  "name": "说书有范MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1662",
+  "robotId": "1662",
+  "engineVoiceId": "create_voice_guagua_1662",
+  "referenceText": "多年经验告诉我，越平静的地方越要小心。你把人手安排好，我去看现场。灯影晃了一下，心绪也跟着沉了下去。别慌，先按计划来。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0718_说书有范MK-III_1662.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0718_说书有范MK-III_1662.mp3",
+  "audioHash": "dd2388ba86aa5e44952e32666723f98d8d34cdef8f2d87ecc89e0960f8a8b703",
+  "durationMs": 11664,
+  "materialId": 810620012,
+  "bookId": 112605,
+  "chapterId": 25527334,
+  "updatedAt": "2026-06-22T17:22:36.533Z"
+}

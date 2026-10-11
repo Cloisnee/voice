@@ -1,0 +1,20 @@
+{
+  "id": 232,
+  "name": "深渊MK-II",
+  "category": "男性老年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG232",
+  "robotId": "232",
+  "engineVoiceId": "create_voice_guagua_232",
+  "referenceText": "风浪见多了，就知道什么该放，什么该守。人这一生，最难的是认清自己。灯影晃了一下，心绪也跟着沉了下去。记住这句话，以后用得上。",
+  "emotionProfile": "阅历感、慢节奏、劝诫语气",
+  "sampleStyle": "男性老年/古风",
+  "audioFile": "0080_深渊MK-II_232.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性老年/0080_深渊MK-II_232.mp3",
+  "audioHash": "98222e4adea4d58123b80b06c17bdc1ae533c9e4ea9ad5f89a0ce138ddbe1f25",
+  "durationMs": 16704,
+  "materialId": 810398497,
+  "bookId": 112029,
+  "chapterId": 25524447,
+  "updatedAt": "2026-06-22T14:40:44.481Z"
+}

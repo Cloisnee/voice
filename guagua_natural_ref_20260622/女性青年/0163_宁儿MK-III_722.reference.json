@@ -1,0 +1,20 @@
+{
+  "id": 722,
+  "name": "宁儿MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG722",
+  "robotId": "722",
+  "engineVoiceId": "create_voice_guagua_722",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。我会把情绪收好，不影响接下来的事。停了一会儿，语气终于慢慢平稳下来。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0163_宁儿MK-III_722.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0163_宁儿MK-III_722.mp3",
+  "audioHash": "bec7e62c43acb53632bba0b9b8e562464f04c48e68c71fbe01d80bcad9660f14",
+  "durationMs": 15024,
+  "materialId": 810473010,
+  "bookId": 112072,
+  "chapterId": 25525098,
+  "updatedAt": "2026-06-22T15:31:05.790Z"
+}

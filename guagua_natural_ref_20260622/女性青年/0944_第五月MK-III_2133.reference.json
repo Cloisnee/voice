@@ -1,0 +1,20 @@
+{
+  "id": 2133,
+  "name": "第五月MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2133",
+  "robotId": "2133",
+  "engineVoiceId": "create_voice_guagua_2133",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。如果还有机会，我想重新来一次。停了一会儿，语气终于慢慢平稳下来。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0944_第五月MK-III_2133.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0944_第五月MK-III_2133.mp3",
+  "audioHash": "43be03d976cbce831637350066eb6ad56b822eb38a0f767e3360a6c2bc584820",
+  "durationMs": 17520,
+  "materialId": 810621886,
+  "bookId": 112831,
+  "chapterId": 25527778,
+  "updatedAt": "2026-06-22T17:24:43.029Z"
+}

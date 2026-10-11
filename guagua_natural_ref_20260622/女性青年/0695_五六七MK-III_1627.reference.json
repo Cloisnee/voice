@@ -1,0 +1,20 @@
+{
+  "id": 1627,
+  "name": "五六七MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1627",
+  "robotId": "1627",
+  "engineVoiceId": "create_voice_guagua_1627",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。我会把情绪收好，不影响接下来的事。门外那一点动静，让所有话都停在了半空。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/悬疑",
+  "audioFile": "0695_五六七MK-III_1627.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0695_五六七MK-III_1627.mp3",
+  "audioHash": "4060e1dce351a15ea772635386bc9855afb6fab35382d9fc08faf8f60a5a3a65",
+  "durationMs": 14640,
+  "materialId": 810619873,
+  "bookId": 112583,
+  "chapterId": 25527300,
+  "updatedAt": "2026-06-22T17:22:23.881Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 956,
+  "name": "蜜语MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG956",
+  "robotId": "956",
+  "engineVoiceId": "create_voice_guagua_956",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。如果还有机会，我想重新来一次。灯影晃了一下，心绪也跟着沉了下去。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0272_蜜语MK-III_956.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0272_蜜语MK-III_956.mp3",
+  "audioHash": "9484b7a582b552835849a3af1ce3062e3ee70cb7d766aed81ed2cac2c24a5bb5",
+  "durationMs": 14976,
+  "materialId": 810571912,
+  "bookId": 112160,
+  "chapterId": 25526306,
+  "updatedAt": "2026-06-22T16:40:37.481Z"
+}

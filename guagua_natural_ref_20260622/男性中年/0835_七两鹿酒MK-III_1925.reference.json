@@ -1,0 +1,20 @@
+{
+  "id": 1925,
+  "name": "七两鹿酒MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1925",
+  "robotId": "1925",
+  "engineVoiceId": "create_voice_guagua_1925",
+  "referenceText": "多年经验告诉我，越平静的地方越要小心。有些责任，躲是躲不过去的。灯影晃了一下，心绪也跟着沉了下去。别慌，先按计划来。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0835_七两鹿酒MK-III_1925.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0835_七两鹿酒MK-III_1925.mp3",
+  "audioHash": "a941a99ae943bc3d17f49073df4cef392be96c5eb418f6df7a86dbafcb8b2ee8",
+  "durationMs": 12168,
+  "materialId": 810621114,
+  "bookId": 112722,
+  "chapterId": 25527594,
+  "updatedAt": "2026-06-22T17:23:42.472Z"
+}

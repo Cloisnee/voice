@@ -1,0 +1,20 @@
+{
+  "id": 157,
+  "name": "天扬MK-II",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG157",
+  "robotId": "157",
+  "engineVoiceId": "create_voice_guagua_157",
+  "referenceText": "事情已经到了这一步，退后反而更危险。先稳住呼吸，再看清楚前面的路。帘外风声一紧，话到嘴边便轻了半分。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0050_天扬MK-II_157.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0050_天扬MK-II_157.mp3",
+  "audioHash": "2217c1c69e231f73bb6aeb2d321d25db8e5f80df366f995a395bc7d5590822d2",
+  "durationMs": 13872,
+  "materialId": 810397971,
+  "bookId": 112020,
+  "chapterId": 25524398,
+  "updatedAt": "2026-06-22T14:40:41.824Z"
+}

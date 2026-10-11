@@ -1,0 +1,20 @@
+{
+  "id": 1912,
+  "name": "祁云MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1912",
+  "robotId": "1912",
+  "engineVoiceId": "create_voice_guagua_1912",
+  "referenceText": "事情已经到了这一步，退后反而更危险。如果必须有人留下，那就让我来。帘外风声一紧，话到嘴边便轻了半分。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0827_祁云MK-III_1912.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0827_祁云MK-III_1912.mp3",
+  "audioHash": "a7bd404d846ff5d459dbc2eac8acb1b6562295f9ef75c000389bb7101eaaca14",
+  "durationMs": 15744,
+  "materialId": 810621195,
+  "bookId": 112714,
+  "chapterId": 25527582,
+  "updatedAt": "2026-06-22T17:23:38.172Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1359,
+  "name": "厚虎叔叔MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1359",
+  "robotId": "1359",
+  "engineVoiceId": "create_voice_guagua_1359",
+  "referenceText": "我不是不相信你，只是现在必须谨慎。稳住局面，比什么都重要。停了一会儿，语气终于慢慢平稳下来。等证据齐了，再做决定。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/通用",
+  "audioFile": "0536_厚虎叔叔MK-III_1359.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0536_厚虎叔叔MK-III_1359.mp3",
+  "audioHash": "b24a93fb9be2101e8a294575ae497eb632f6eed78bda0f514c4de8e77d40ef16",
+  "durationMs": 15672,
+  "materialId": 810617345,
+  "bookId": 112424,
+  "chapterId": 25526870,
+  "updatedAt": "2026-06-22T17:21:03.615Z"
+}

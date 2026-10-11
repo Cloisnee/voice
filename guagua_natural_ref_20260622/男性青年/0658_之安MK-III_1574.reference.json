@@ -1,0 +1,20 @@
+{
+  "id": 1574,
+  "name": "之安MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1574",
+  "robotId": "1574",
+  "engineVoiceId": "create_voice_guagua_1574",
+  "referenceText": "刚才那句话，我不是随便说说。先稳住呼吸，再看清楚前面的路。这句话不需要喊出来，却要让人听得真切。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0658_之安MK-III_1574.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0658_之安MK-III_1574.mp3",
+  "audioHash": "22191dc65ec0d03dbaac89c8879d33a1b4915b75a17b0d5a11f212b382ec6a25",
+  "durationMs": 12264,
+  "materialId": 810619487,
+  "bookId": 112546,
+  "chapterId": 25527245,
+  "updatedAt": "2026-06-22T17:22:02.656Z"
+}

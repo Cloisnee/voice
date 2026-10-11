@@ -1,0 +1,20 @@
+{
+  "id": 1486,
+  "name": "五颗松籽MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1486",
+  "robotId": "1486",
+  "engineVoiceId": "create_voice_guagua_1486",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。算了，我们先往前走吧。手机屏幕暗下去以后，房间里只剩下彼此的呼吸。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/现代",
+  "audioFile": "0602_五颗松籽MK-III_1486.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0602_五颗松籽MK-III_1486.mp3",
+  "audioHash": "71660ca96cef28a30428ea17055ce87c6025802937b11672a08118d0c16f5a63",
+  "durationMs": 15048,
+  "materialId": 810618669,
+  "bookId": 112490,
+  "chapterId": 25527163,
+  "updatedAt": "2026-06-22T17:21:31.222Z"
+}

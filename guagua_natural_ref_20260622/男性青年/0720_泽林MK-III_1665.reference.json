@@ -1,0 +1,20 @@
+{
+  "id": 1665,
+  "name": "泽林MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1665",
+  "robotId": "1665",
+  "engineVoiceId": "create_voice_guagua_1665",
+  "referenceText": "我当然会怕，可是现在不能停下。别担心，我知道自己在做什么。帘外风声一紧，话到嘴边便轻了半分。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0720_泽林MK-III_1665.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0720_泽林MK-III_1665.mp3",
+  "audioHash": "f8dd897e69f280a41e05a3beae2134ba09b5e68856d08fd2749b58d0dd0ba29e",
+  "durationMs": 12888,
+  "materialId": 810620487,
+  "bookId": 112607,
+  "chapterId": 25527339,
+  "updatedAt": "2026-06-22T17:22:37.556Z"
+}

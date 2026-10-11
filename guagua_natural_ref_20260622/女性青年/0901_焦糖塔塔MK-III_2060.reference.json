@@ -1,0 +1,20 @@
+{
+  "id": 2060,
+  "name": "焦糖塔塔MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2060",
+  "robotId": "2060",
+  "engineVoiceId": "create_voice_guagua_2060",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。你不用立刻回答，我可以等。帘外风声一紧，话到嘴边便轻了半分。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0901_焦糖塔塔MK-III_2060.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0901_焦糖塔塔MK-III_2060.mp3",
+  "audioHash": "50733f01fc547c9c275aeef257f2f20be396eb98b150a4599210bbb712f2f632",
+  "durationMs": 16056,
+  "materialId": 810621887,
+  "bookId": 112788,
+  "chapterId": 25527699,
+  "updatedAt": "2026-06-22T17:24:18.985Z"
+}

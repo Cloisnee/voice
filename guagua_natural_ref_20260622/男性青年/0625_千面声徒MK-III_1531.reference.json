@@ -1,0 +1,20 @@
+{
+  "id": 1531,
+  "name": "千面声徒MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1531",
+  "robotId": "1531",
+  "engineVoiceId": "create_voice_guagua_1531",
+  "referenceText": "刚才那句话，我不是随便说说。我会把人带回来，也会给你一个交代。灯影晃了一下，心绪也跟着沉了下去。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0625_千面声徒MK-III_1531.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0625_千面声徒MK-III_1531.mp3",
+  "audioHash": "f61941b08142e6e1b6247959754b57298d7d0df9ede9e4546580639498037800",
+  "durationMs": 15576,
+  "materialId": 810619139,
+  "bookId": 112513,
+  "chapterId": 25527196,
+  "updatedAt": "2026-06-22T17:21:44.065Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1137,
+  "name": "小潭豆花MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1137",
+  "robotId": "1137",
+  "engineVoiceId": "create_voice_guagua_1137",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。如果还有机会，我想重新来一次。帘外风声一紧，话到嘴边便轻了半分。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0392_小潭豆花MK-III_1137.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0392_小潭豆花MK-III_1137.mp3",
+  "audioHash": "3c13c78a808cd86cd03e0a9d69f6a7a6924a41a2a31f6642fb23027817dbf5ec",
+  "durationMs": 17232,
+  "materialId": 810607711,
+  "bookId": 112280,
+  "chapterId": 25526583,
+  "updatedAt": "2026-06-22T17:12:37.508Z"
+}

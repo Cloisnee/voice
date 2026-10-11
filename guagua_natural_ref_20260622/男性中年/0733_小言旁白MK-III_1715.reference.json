@@ -1,0 +1,20 @@
+{
+  "id": 1715,
+  "name": "小言旁白MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1715",
+  "robotId": "1715",
+  "engineVoiceId": "create_voice_guagua_1715",
+  "referenceText": "多年经验告诉我，越平静的地方越要小心。稳住局面，比什么都重要。灯影晃了一下，心绪也跟着沉了下去。别慌，先按计划来。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0733_小言旁白MK-III_1715.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0733_小言旁白MK-III_1715.mp3",
+  "audioHash": "8d2e7dffcc48573ffbb4c1ec79f44081ce72f2318fb2a7f629da7b75beae5134",
+  "durationMs": 12648,
+  "materialId": 810620234,
+  "bookId": 112620,
+  "chapterId": 25527371,
+  "updatedAt": "2026-06-22T17:22:44.798Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1725,
+  "name": "亿趣旁白MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1725",
+  "robotId": "1725",
+  "engineVoiceId": "create_voice_guagua_1725",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。你不用立刻回答，我可以等。灯影晃了一下，心绪也跟着沉了下去。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0737_亿趣旁白MK-III_1725.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0737_亿趣旁白MK-III_1725.mp3",
+  "audioHash": "b6c19476f95321156afa71bec4fee1e6995f3fb0199e6b3c610b0b65558f3960",
+  "durationMs": 14208,
+  "materialId": 810620246,
+  "bookId": 112624,
+  "chapterId": 25527379,
+  "updatedAt": "2026-06-22T17:22:46.947Z"
+}

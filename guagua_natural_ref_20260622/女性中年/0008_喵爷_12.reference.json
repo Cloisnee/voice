@@ -1,0 +1,20 @@
+{
+  "id": 12,
+  "name": "喵爷",
+  "category": "女性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG12",
+  "robotId": "12",
+  "engineVoiceId": "create_voice_guagua_12",
+  "referenceText": "我知道你委屈，可委屈不能替你做决定。该承担的别躲，该放下的也别抓太紧。这句话不需要喊出来，却要让人听得真切。天总会亮的，人也总要往前看。",
+  "emotionProfile": "沉稳安抚，低强度情绪起伏",
+  "sampleStyle": "女性中年/通用",
+  "audioFile": "0008_喵爷_12.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性中年/0008_喵爷_12.mp3",
+  "audioHash": "fb8490b6a7226e00da6ace2d0b61222a755d38aa1da152e98aae9094d04db176",
+  "durationMs": 15000,
+  "materialId": 810338232,
+  "bookId": 111969,
+  "chapterId": 25523218,
+  "updatedAt": "2026-06-22T14:25:26.156Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1964,
+  "name": "燕归来升级-星衍MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1964",
+  "robotId": "1964",
+  "engineVoiceId": "create_voice_guagua_1964",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。算了，我们先往前走吧。灯影晃了一下，心绪也跟着沉了下去。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0850_燕归来升级-星衍MK-III_1964.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0850_燕归来升级-星衍MK-III_1964.mp3",
+  "audioHash": "880d19b7875064ba9ad359a305a7de916770ce3a762e84ad10b699249766a175",
+  "durationMs": 14520,
+  "materialId": 810621288,
+  "bookId": 112737,
+  "chapterId": 25527617,
+  "updatedAt": "2026-06-22T17:23:50.613Z"
+}

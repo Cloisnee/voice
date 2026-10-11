@@ -1,0 +1,20 @@
+{
+  "id": 1421,
+  "name": "邪恶老太MK-III",
+  "category": "女性老年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1421",
+  "robotId": "1421",
+  "engineVoiceId": "create_voice_guagua_1421",
+  "referenceText": "人这一辈子啊，总有几件事是放不下的。心里有话，就轻轻说出来。帘外风声一紧，话到嘴边便轻了半分。我在这儿等着你。",
+  "emotionProfile": "慈祥、缓慢、带回忆感",
+  "sampleStyle": "女性老年/古风",
+  "audioFile": "0564_邪恶老太MK-III_1421.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性老年/0564_邪恶老太MK-III_1421.mp3",
+  "audioHash": "73fc5873bedf098113924a3b24a9f17da9496e022414939157a5974036366e58",
+  "durationMs": 18456,
+  "materialId": 810617960,
+  "bookId": 112452,
+  "chapterId": 25526917,
+  "updatedAt": "2026-06-22T17:21:10.685Z"
+}

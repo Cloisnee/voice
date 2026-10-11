@@ -1,0 +1,20 @@
+{
+  "id": 1855,
+  "name": "小荔枝MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1855",
+  "robotId": "1855",
+  "engineVoiceId": "create_voice_guagua_1855",
+  "referenceText": "这一刻，她不敢告诉周聿深她怀孕的事儿，他根本不会要这个孩子，又怎么可能为了这个孩子，而让颜昕有一丁点儿的危险。望着关上的手术室大门，她的心沉入谷底。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0802_小荔枝MK-III_1855.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0802_小荔枝MK-III_1855.mp3",
+  "audioHash": "bd5343d11fc3ddf48746c82a111e3d6df52a3114a1079fef4c4e5672464f2659",
+  "durationMs": 14640,
+  "materialId": 810621056,
+  "bookId": 112689,
+  "chapterId": 25527548,
+  "updatedAt": "2026-06-22T17:23:24.030Z"
+}

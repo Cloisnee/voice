@@ -1,0 +1,20 @@
+{
+  "id": 1871,
+  "name": "卷心菜MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1871",
+  "robotId": "1871",
+  "engineVoiceId": "create_voice_guagua_1871",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。算了，我们先往前走吧。帘外风声一紧，话到嘴边便轻了半分。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0810_卷心菜MK-III_1871.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0810_卷心菜MK-III_1871.mp3",
+  "audioHash": "c33f5444ca558e1ea2c650b086d698db4b97471752e18876033e8c31b44f55ee",
+  "durationMs": 16824,
+  "materialId": 810621041,
+  "bookId": 112697,
+  "chapterId": 25527559,
+  "updatedAt": "2026-06-22T17:23:28.824Z"
+}

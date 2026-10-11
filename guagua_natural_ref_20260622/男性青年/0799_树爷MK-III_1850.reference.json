@@ -1,0 +1,20 @@
+{
+  "id": 1850,
+  "name": "树爷MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1850",
+  "robotId": "1850",
+  "engineVoiceId": "create_voice_guagua_1850",
+  "referenceText": "我当然会怕，可是现在不能停下。如果必须有人留下，那就让我来。停了一会儿，语气终于慢慢平稳下来。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0799_树爷MK-III_1850.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0799_树爷MK-III_1850.mp3",
+  "audioHash": "2787e82cd7a52eb43b73e405fe40b02cbc87ad3fda4ed0fe66725ba8d48ff20e",
+  "durationMs": 14112,
+  "materialId": 810620973,
+  "bookId": 112686,
+  "chapterId": 25527544,
+  "updatedAt": "2026-06-22T17:23:22.193Z"
+}

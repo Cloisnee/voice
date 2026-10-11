@@ -1,0 +1,20 @@
+{
+  "id": 795,
+  "name": "冰哥角色MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG795",
+  "robotId": "795",
+  "engineVoiceId": "create_voice_guagua_795",
+  "referenceText": "您好，冰哥角色的人设呢，大致是这样的：冷静、决绝、内敛、沉稳、英气、霸道、睿智、腹黑，适用全赛道男女频男主。不过呢，不建议用于龙套，会抢男主风头。另外还有冰哥角色二代，听起来会更加自然放松一些。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0189_冰哥角色MK-III_795.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0189_冰哥角色MK-III_795.mp3",
+  "audioHash": "e64b416473256678477ea9d5e140bd8a6fdafb2df74c262e882977e2d4853608",
+  "durationMs": 22392,
+  "materialId": 810509021,
+  "bookId": 112098,
+  "chapterId": 25525809,
+  "updatedAt": "2026-06-22T15:55:22.257Z"
+}

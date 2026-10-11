@@ -1,0 +1,20 @@
+{
+  "id": 1480,
+  "name": "悟道有声MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1480",
+  "robotId": "1480",
+  "engineVoiceId": "create_voice_guagua_1480",
+  "referenceText": "事情已经到了这一步，退后反而更危险。如果必须有人留下，那就让我来。窗外车声一闪而过，语气也慢慢稳住了。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/现代",
+  "audioFile": "0599_悟道有声MK-III_1480.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0599_悟道有声MK-III_1480.mp3",
+  "audioHash": "b9900e9cc7a68c069f7e3231a00d3b04dfceb820719cd477a5d6db1d29245d03",
+  "durationMs": 12816,
+  "materialId": 810619208,
+  "bookId": 112487,
+  "chapterId": 25527159,
+  "updatedAt": "2026-06-22T17:21:29.571Z"
+}

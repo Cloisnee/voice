@@ -1,0 +1,20 @@
+{
+  "id": 1156,
+  "name": "陈皮MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1156",
+  "robotId": "1156",
+  "engineVoiceId": "create_voice_guagua_1156",
+  "referenceText": "事情已经到了这一步，退后反而更危险。如果必须有人留下，那就让我来。窗外车声一闪而过，语气也慢慢稳住了。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/现代",
+  "audioFile": "0407_陈皮MK-III_1156.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0407_陈皮MK-III_1156.mp3",
+  "audioHash": "8cc3521af74b0a9bce521cf723e2c1c6846a819b40b4f722f2af92c630e23ac0",
+  "durationMs": 13896,
+  "materialId": 810608137,
+  "bookId": 112295,
+  "chapterId": 25526610,
+  "updatedAt": "2026-06-22T17:12:40.699Z"
+}

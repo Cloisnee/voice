@@ -1,0 +1,20 @@
+{
+  "id": 1761,
+  "name": "念慈MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1761",
+  "robotId": "1761",
+  "engineVoiceId": "create_voice_guagua_1761",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。如果还有机会，我想重新来一次。停了一会儿，语气终于慢慢平稳下来。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0748_念慈MK-III_1761.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0748_念慈MK-III_1761.mp3",
+  "audioHash": "240108d49e28d61e2ba3db1eb09b298a7538884e527764c62cde3ee0a18ce60f",
+  "durationMs": 17760,
+  "materialId": 810621013,
+  "bookId": 112635,
+  "chapterId": 25527394,
+  "updatedAt": "2026-06-22T17:22:52.925Z"
+}

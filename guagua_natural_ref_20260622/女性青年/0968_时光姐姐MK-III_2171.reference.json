@@ -1,0 +1,20 @@
+{
+  "id": 2171,
+  "name": "时光姐姐MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2171",
+  "robotId": "2171",
+  "engineVoiceId": "create_voice_guagua_2171",
+  "referenceText": "她还是有一点被吵醒了，嘴里嘟囔着，不知说着些什么，一下子就滚到了顾明宇的怀里。淡淡的香气从衾被里散发出来，沁人心脾，也融化了他的心。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0968_时光姐姐MK-III_2171.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0968_时光姐姐MK-III_2171.mp3",
+  "audioHash": "7fe991a7767d7639fa484d277fcde86f1e487c10665d78c38a73154ed791e7ed",
+  "durationMs": 15432,
+  "materialId": 810622368,
+  "bookId": 112855,
+  "chapterId": 25527820,
+  "updatedAt": "2026-06-22T17:24:56.672Z"
+}

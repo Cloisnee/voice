@@ -1,0 +1,20 @@
+{
+  "id": 2148,
+  "name": "声行者雁冰MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2148",
+  "robotId": "2148",
+  "engineVoiceId": "create_voice_guagua_2148",
+  "referenceText": "巍峨的紫宸殿里，武则天坐在高高的龙椅之上，俯瞰着群臣。而台下的众人也都一个个的交头接耳着，仿佛在商议着什么。\n武则天的嘴角露出一抹微不可察的笑容，随即悠悠开口道。武则天说完之后嘴角露出若有若无的笑容。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0954_声行者雁冰MK-III_2148.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0954_声行者雁冰MK-III_2148.mp3",
+  "audioHash": "12151f9161022e3a77d9ec7328a0f433fbd48b2fd2e66bc25be60c08130623fd",
+  "durationMs": 21120,
+  "materialId": 810621954,
+  "bookId": 112841,
+  "chapterId": 25527797,
+  "updatedAt": "2026-06-22T17:24:48.615Z"
+}

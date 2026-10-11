@@ -1,0 +1,20 @@
+{
+  "id": 1177,
+  "name": "罗兰MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1177",
+  "robotId": "1177",
+  "engineVoiceId": "create_voice_guagua_1177",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。我会把情绪收好，不影响接下来的事。手机屏幕暗下去以后，房间里只剩下彼此的呼吸。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/现代",
+  "audioFile": "0423_罗兰MK-III_1177.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0423_罗兰MK-III_1177.mp3",
+  "audioHash": "39ddf1376bd46f3a328f57fe1097745a64b27c1e57f6f8231352b5a46842bec3",
+  "durationMs": 15264,
+  "materialId": 810611017,
+  "bookId": 112311,
+  "chapterId": 25526640,
+  "updatedAt": "2026-06-22T17:17:05.131Z"
+}

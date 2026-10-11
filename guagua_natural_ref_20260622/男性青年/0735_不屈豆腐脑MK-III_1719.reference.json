@@ -1,0 +1,20 @@
+{
+  "id": 1719,
+  "name": "不屈豆腐脑MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1719",
+  "robotId": "1719",
+  "engineVoiceId": "create_voice_guagua_1719",
+  "referenceText": "你听，他们还在等我回去。如果必须有人留下，那就让我来。灯影晃了一下，心绪也跟着沉了下去。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0735_不屈豆腐脑MK-III_1719.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0735_不屈豆腐脑MK-III_1719.mp3",
+  "audioHash": "bd60ca7148cf9e2cd799189bc524fa56c273700c951b48498a06b40e9e997d73",
+  "durationMs": 12456,
+  "materialId": 810620243,
+  "bookId": 112622,
+  "chapterId": 25527376,
+  "updatedAt": "2026-06-22T17:22:45.861Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 160,
+  "name": "天龙MK-II",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG160",
+  "robotId": "160",
+  "engineVoiceId": "create_voice_guagua_160",
+  "referenceText": "这件事没你想得那么简单。该问的一个都不能漏。屋里忽然安静下来，连呼吸声都显得格外清楚。等证据齐了，再做决定。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/悬疑",
+  "audioFile": "0053_天龙MK-II_160.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0053_天龙MK-II_160.mp3",
+  "audioHash": "322e3e1de9304fcedcf225301daa292e1f1c89d30ff01792af4883bfcdd32c38",
+  "durationMs": 12864,
+  "materialId": 810398179,
+  "bookId": 112023,
+  "chapterId": 25524434,
+  "updatedAt": "2026-06-22T14:40:42.720Z"
+}

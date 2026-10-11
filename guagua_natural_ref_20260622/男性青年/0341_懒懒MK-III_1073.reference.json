@@ -1,0 +1,20 @@
+{
+  "id": 1073,
+  "name": "懒懒MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1073",
+  "robotId": "1073",
+  "engineVoiceId": "create_voice_guagua_1073",
+  "referenceText": "你听，他们还在等我回去。别担心，我知道自己在做什么。灯影晃了一下，心绪也跟着沉了下去。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0341_懒懒MK-III_1073.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0341_懒懒MK-III_1073.mp3",
+  "audioHash": "0ee2d03b348d43e5651d9fec663ce75231ea1abf3d0e12f5facff62f8e50e45b",
+  "durationMs": 9264,
+  "materialId": 810597161,
+  "bookId": 112229,
+  "chapterId": 25526426,
+  "updatedAt": "2026-06-22T17:03:15.885Z"
+}

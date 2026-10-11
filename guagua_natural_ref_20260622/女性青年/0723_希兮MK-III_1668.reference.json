@@ -1,0 +1,20 @@
+{
+  "id": 1668,
+  "name": "希兮MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1668",
+  "robotId": "1668",
+  "engineVoiceId": "create_voice_guagua_1668",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。我会把情绪收好，不影响接下来的事。停了一会儿，语气终于慢慢平稳下来。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0723_希兮MK-III_1668.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0723_希兮MK-III_1668.mp3",
+  "audioHash": "f612aca918dd170433e6b36065e99c68e910c76aa1759f4c0ba99f3c4d282e87",
+  "durationMs": 14904,
+  "materialId": 810620057,
+  "bookId": 112610,
+  "chapterId": 25527348,
+  "updatedAt": "2026-06-22T17:22:39.172Z"
+}

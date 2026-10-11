@@ -1,0 +1,20 @@
+{
+  "id": 702,
+  "name": "柳先生MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG702",
+  "robotId": "702",
+  "engineVoiceId": "create_voice_guagua_702",
+  "referenceText": "嘿嘿！作者刚才不是说了嘛！场地太小，干啥都施展不开。俩人儿叠罗汉似的躺地上鼓秋半天，吭哧吭哧累个半死。这打又打不过人家，气的他狠狠朝那人裤裆就踩了一脚。疼的那人哇一声大叫，蹭地一下！就...站了起来！",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0153_柳先生MK-III_702.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0153_柳先生MK-III_702.mp3",
+  "audioHash": "e160bf2126423a70bc568cb2919356e99a73185c30137c08d8896cbb6bb9e3ce",
+  "durationMs": 20496,
+  "materialId": 810472968,
+  "bookId": 112062,
+  "chapterId": 25525083,
+  "updatedAt": "2026-06-22T15:31:03.704Z"
+}

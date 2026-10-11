@@ -1,0 +1,20 @@
+{
+  "id": 2022,
+  "name": "白狐老头MK-III",
+  "category": "男性老年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2022",
+  "robotId": "2022",
+  "engineVoiceId": "create_voice_guagua_2022",
+  "referenceText": "对对对，你娘说的没错，根本就没关系。儿子，爹就想不明白，茅房那么大地方，你到底是咋掉进去的？",
+  "emotionProfile": "阅历感、慢节奏、劝诫语气",
+  "sampleStyle": "男性老年/古风",
+  "audioFile": "0883_白狐老头MK-III_2022.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性老年/0883_白狐老头MK-III_2022.mp3",
+  "audioHash": "5030dc5589627587c8ce82fa18ef0ba62c315fb146c60d29c505d7f6b3cb42e4",
+  "durationMs": 12480,
+  "materialId": 810621579,
+  "bookId": 112770,
+  "chapterId": 25527669,
+  "updatedAt": "2026-06-22T17:24:08.867Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1651,
+  "name": "焦糖豆MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1651",
+  "robotId": "1651",
+  "engineVoiceId": "create_voice_guagua_1651",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。如果还有机会，我想重新来一次。灯影晃了一下，心绪也跟着沉了下去。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0709_焦糖豆MK-III_1651.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0709_焦糖豆MK-III_1651.mp3",
+  "audioHash": "ab16e8043bcd36430629786f7a79ad1e8f123a10e259e6995af3068ae729ebb4",
+  "durationMs": 11592,
+  "materialId": 810620239,
+  "bookId": 112596,
+  "chapterId": 25527319,
+  "updatedAt": "2026-06-22T17:22:31.342Z"
+}

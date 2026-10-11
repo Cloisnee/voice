@@ -1,0 +1,20 @@
+{
+  "id": 2039,
+  "name": "河川玄幻MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2039",
+  "robotId": "2039",
+  "engineVoiceId": "create_voice_guagua_2039",
+  "referenceText": "我的代表作是：沧源图，规则怪谈~",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0894_河川玄幻MK-III_2039.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0894_河川玄幻MK-III_2039.mp3",
+  "audioHash": "8d26304156f6b0d9f6b0dbd5692b4c390a17e96a500b68a584234260ad147582",
+  "durationMs": 5280,
+  "materialId": 810621650,
+  "bookId": 112781,
+  "chapterId": 25527686,
+  "updatedAt": "2026-06-22T17:24:15.298Z"
+}

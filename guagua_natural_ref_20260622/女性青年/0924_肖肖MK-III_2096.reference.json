@@ -1,0 +1,20 @@
+{
+  "id": 2096,
+  "name": "肖肖MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2096",
+  "robotId": "2096",
+  "engineVoiceId": "create_voice_guagua_2096",
+  "referenceText": "而天冰人鱼则没那么多想法，它天生厌恶炎热，炎阳自带的高温让它极度不适。还有高温导致的水汽快速蒸发，也让它有种口干舌燥，甚至连鱼鳞都要炸起来了。不止如此，在对面宠兽身上，它感受到了一股强大的压迫力。它的",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0924_肖肖MK-III_2096.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0924_肖肖MK-III_2096.mp3",
+  "audioHash": "aaf1379c0d023062566e9b09c3a91f9fd5e9aabfe41fdf4b069459f5da29715f",
+  "durationMs": 20928,
+  "materialId": 810622064,
+  "bookId": 112811,
+  "chapterId": 25527741,
+  "updatedAt": "2026-06-22T17:24:31.905Z"
+}

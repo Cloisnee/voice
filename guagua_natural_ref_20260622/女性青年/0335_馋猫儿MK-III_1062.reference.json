@@ -1,0 +1,20 @@
+{
+  "id": 1062,
+  "name": "馋猫儿MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1062",
+  "robotId": "1062",
+  "engineVoiceId": "create_voice_guagua_1062",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。我会把情绪收好，不影响接下来的事。停了一会儿，语气终于慢慢平稳下来。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0335_馋猫儿MK-III_1062.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0335_馋猫儿MK-III_1062.mp3",
+  "audioHash": "6888a71e30cc0d57c00c5d78989947b3f874d6b8fb568315f8b46778ba08f6a3",
+  "durationMs": 16608,
+  "materialId": 810592339,
+  "bookId": 112223,
+  "chapterId": 25526416,
+  "updatedAt": "2026-06-22T16:58:26.760Z"
+}

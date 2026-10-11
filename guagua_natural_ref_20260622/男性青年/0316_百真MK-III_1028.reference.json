@@ -1,0 +1,20 @@
+{
+  "id": 1028,
+  "name": "百真MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1028",
+  "robotId": "1028",
+  "engineVoiceId": "create_voice_guagua_1028",
+  "referenceText": "刚才那句话，我不是随便说说。别担心，我知道自己在做什么。灯影晃了一下，心绪也跟着沉了下去。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0316_百真MK-III_1028.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0316_百真MK-III_1028.mp3",
+  "audioHash": "d23406fb2a4287b4b10cd0cf9229eb0052cdcf727e5cede56bb4838b549a3861",
+  "durationMs": 10968,
+  "materialId": 810590336,
+  "bookId": 112204,
+  "chapterId": 25526385,
+  "updatedAt": "2026-06-22T16:58:22.897Z"
+}

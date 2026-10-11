@@ -1,0 +1,20 @@
+{
+  "id": 1619,
+  "name": "清磁MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1619",
+  "robotId": "1619",
+  "engineVoiceId": "create_voice_guagua_1619",
+  "referenceText": "我当然会怕，可是现在不能停下。先稳住呼吸，再看清楚前面的路。帘外风声一紧，话到嘴边便轻了半分。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0690_清磁MK-III_1619.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0690_清磁MK-III_1619.mp3",
+  "audioHash": "3967cbbb9b937395884b083074aec280caf2aaa0998f44b207c37ffae28be998",
+  "durationMs": 12720,
+  "materialId": 810619877,
+  "bookId": 112578,
+  "chapterId": 25527292,
+  "updatedAt": "2026-06-22T17:22:20.493Z"
+}

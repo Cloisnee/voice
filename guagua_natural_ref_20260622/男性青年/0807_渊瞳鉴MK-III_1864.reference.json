@@ -1,0 +1,20 @@
+{
+  "id": 1864,
+  "name": "渊瞳鉴MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1864",
+  "robotId": "1864",
+  "engineVoiceId": "create_voice_guagua_1864",
+  "referenceText": "事情已经到了这一步，退后反而更危险。如果必须有人留下，那就让我来。停了一会儿，语气终于慢慢平稳下来。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0807_渊瞳鉴MK-III_1864.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0807_渊瞳鉴MK-III_1864.mp3",
+  "audioHash": "361a759174ee330af2158319b87ac148fbb0d9227fb7c75801e232a0470b4d80",
+  "durationMs": 14256,
+  "materialId": 810620985,
+  "bookId": 112694,
+  "chapterId": 25527554,
+  "updatedAt": "2026-06-22T17:23:27.188Z"
+}

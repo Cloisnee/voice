@@ -1,0 +1,20 @@
+{
+  "id": 2178,
+  "name": "纪灵MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2178",
+  "robotId": "2178",
+  "engineVoiceId": "create_voice_guagua_2178",
+  "referenceText": "姜兰馨忍无可忍，想要把那喋喋不休的记者推出去，奈何体力上根本不是对手，反而被他推搡了两下险些就要摔倒。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/现代",
+  "audioFile": "0970_纪灵MK-III_2178.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0970_纪灵MK-III_2178.mp3",
+  "audioHash": "e2b253690570556b509a4fefdee52f908cde1e44503c07f8340df09668e497cd",
+  "durationMs": 10944,
+  "materialId": 810621965,
+  "bookId": 112857,
+  "chapterId": 25527824,
+  "updatedAt": "2026-06-22T17:24:57.740Z"
+}

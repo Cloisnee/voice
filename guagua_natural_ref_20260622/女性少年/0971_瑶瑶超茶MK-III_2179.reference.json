@@ -1,0 +1,20 @@
+{
+  "id": 2179,
+  "name": "瑶瑶超茶MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2179",
+  "robotId": "2179",
+  "engineVoiceId": "create_voice_guagua_2179",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。我会把情绪收好，不影响接下来的事。这句话不需要喊出来，却要让人听得真切。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0971_瑶瑶超茶MK-III_2179.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0971_瑶瑶超茶MK-III_2179.mp3",
+  "audioHash": "6f95637315ad3f05c9b191eb8fe4106970391f30482e03a2280f55494ed1600c",
+  "durationMs": 15528,
+  "materialId": 810622005,
+  "bookId": 112858,
+  "chapterId": 25527826,
+  "updatedAt": "2026-06-22T17:24:58.258Z"
+}

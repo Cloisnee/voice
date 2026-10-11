@@ -1,0 +1,20 @@
+{
+  "id": 1115,
+  "name": "小羽喵喵MK-III",
+  "category": "女性儿童",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1115",
+  "robotId": "1115",
+  "engineVoiceId": "create_voice_guagua_1115",
+  "referenceText": "我把声音放小一点，你还会听见我吗？我下次一定会小心的。灯影晃了一下，心绪也跟着沉了下去。我会慢慢说清楚的。",
+  "emotionProfile": "害怕到安心，轻声停顿，尾音柔软",
+  "sampleStyle": "女性儿童/古风",
+  "audioFile": "0373_小羽喵喵MK-III_1115.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性儿童/0373_小羽喵喵MK-III_1115.mp3",
+  "audioHash": "d46d71dd6dd0636571e80b693793dd7d6cd66a3c5cbc69f1dafc5dae885a92b6",
+  "durationMs": 13176,
+  "materialId": 810603805,
+  "bookId": 112261,
+  "chapterId": 25526475,
+  "updatedAt": "2026-06-22T17:08:00.508Z"
+}

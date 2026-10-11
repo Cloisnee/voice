@@ -1,0 +1,20 @@
+{
+  "id": 973,
+  "name": "金花婆婆MK-III",
+  "category": "女性老年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG973",
+  "robotId": "973",
+  "engineVoiceId": "create_voice_guagua_973",
+  "referenceText": "人这一辈子啊，总有几件事是放不下的。心里有话，就轻轻说出来。帘外风声一紧，话到嘴边便轻了半分。我在这儿等着你。",
+  "emotionProfile": "慈祥、缓慢、带回忆感",
+  "sampleStyle": "女性老年/古风",
+  "audioFile": "0284_金花婆婆MK-III_973.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性老年/0284_金花婆婆MK-III_973.mp3",
+  "audioHash": "111ac82c052da30b771d5be20aee0cc8958c80fec074227b004b686d9642e3db",
+  "durationMs": 17400,
+  "materialId": 810573067,
+  "bookId": 112172,
+  "chapterId": 25526340,
+  "updatedAt": "2026-06-22T16:40:39.837Z"
+}

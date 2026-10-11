@@ -1,0 +1,20 @@
+{
+  "id": 1029,
+  "name": "梦境MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1029",
+  "robotId": "1029",
+  "engineVoiceId": "create_voice_guagua_1029",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。你不用立刻回答，我可以等。这句话不需要喊出来，却要让人听得真切。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0317_梦境MK-III_1029.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0317_梦境MK-III_1029.mp3",
+  "audioHash": "79f8374da9ea8fa5461240d3c8300eb1a5034a89f8bbf83ddeb7a853d62c31ea",
+  "durationMs": 13536,
+  "materialId": 810590256,
+  "bookId": 112205,
+  "chapterId": 25526386,
+  "updatedAt": "2026-06-22T16:53:32.562Z"
+}

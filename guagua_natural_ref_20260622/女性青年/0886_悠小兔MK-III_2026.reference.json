@@ -1,0 +1,20 @@
+{
+  "id": 2026,
+  "name": "悠小兔MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2026",
+  "robotId": "2026",
+  "engineVoiceId": "create_voice_guagua_2026",
+  "referenceText": "尘缘中琴声，月皎波澄。人们神怡心旷之际，耳边一阵微风忽起伏。远远传来缕缕琴声，悠悠扬扬，一种情韵却令人回肠荡气。虽琴声如诉，所有最静好的时光，最灿烂的风霜，而或最初的模样，都缓缓流淌起来。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0886_悠小兔MK-III_2026.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0886_悠小兔MK-III_2026.mp3",
+  "audioHash": "8bf6fddbacb66a2c418e5fd33b0ecee4f88db3ac931f616fdc91e23f6ae0b6b6",
+  "durationMs": 24072,
+  "materialId": 810621595,
+  "bookId": 112773,
+  "chapterId": 25527672,
+  "updatedAt": "2026-06-22T17:24:10.605Z"
+}

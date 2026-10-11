@@ -1,0 +1,20 @@
+{
+  "id": 1046,
+  "name": "墨菲MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1046",
+  "robotId": "1046",
+  "engineVoiceId": "create_voice_guagua_1046",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。算了，我们先往前走吧。手机屏幕暗下去以后，房间里只剩下彼此的呼吸。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/现代",
+  "audioFile": "0326_墨菲MK-III_1046.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0326_墨菲MK-III_1046.mp3",
+  "audioHash": "b85ebeb4c87718a33b495a075c0206fec42739dae023b233bb9b90e57e9d4b99",
+  "durationMs": 13440,
+  "materialId": 810592096,
+  "bookId": 112214,
+  "chapterId": 25526400,
+  "updatedAt": "2026-06-22T16:58:24.907Z"
+}

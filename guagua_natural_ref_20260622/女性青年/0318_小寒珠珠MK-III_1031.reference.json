@@ -1,0 +1,20 @@
+{
+  "id": 1031,
+  "name": "小寒珠珠MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1031",
+  "robotId": "1031",
+  "engineVoiceId": "create_voice_guagua_1031",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。算了，我们先往前走吧。窗外车声一闪而过，语气也慢慢稳住了。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/现代",
+  "audioFile": "0318_小寒珠珠MK-III_1031.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0318_小寒珠珠MK-III_1031.mp3",
+  "audioHash": "c988660059a42c0ffafd42f2e8c3ad6214ceb6ffd4c740cce0fc913fc71656d2",
+  "durationMs": 18168,
+  "materialId": 810590726,
+  "bookId": 112206,
+  "chapterId": 25526388,
+  "updatedAt": "2026-06-22T16:58:23.140Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1862,
+  "name": "霖霖子MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1862",
+  "robotId": "1862",
+  "engineVoiceId": "create_voice_guagua_1862",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。算了，我们先往前走吧。灯影晃了一下，心绪也跟着沉了下去。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0806_霖霖子MK-III_1862.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0806_霖霖子MK-III_1862.mp3",
+  "audioHash": "b8d9c7bd2b71e0c49be66e4353203c53ec357cb07494162fa8791aaec6e6c754",
+  "durationMs": 16320,
+  "materialId": 810620986,
+  "bookId": 112693,
+  "chapterId": 25527553,
+  "updatedAt": "2026-06-22T17:23:26.557Z"
+}

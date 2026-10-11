@@ -1,0 +1,20 @@
+{
+  "id": 420,
+  "name": "微微MK-II",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG420",
+  "robotId": "420",
+  "engineVoiceId": "create_voice_guagua_420",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。算了，我们先往前走吧。帘外风声一紧，话到嘴边便轻了半分。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0123_微微MK-II_420.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0123_微微MK-II_420.mp3",
+  "audioHash": "50ef63624191dfbbe159fd784362406c11fc50230dceec0ebd580f1ca3a0863b",
+  "durationMs": 16296,
+  "materialId": 810398837,
+  "bookId": 112032,
+  "chapterId": 25524451,
+  "updatedAt": "2026-06-22T14:40:45.340Z"
+}

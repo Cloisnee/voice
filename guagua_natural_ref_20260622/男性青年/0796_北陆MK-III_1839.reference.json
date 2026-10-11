@@ -1,0 +1,20 @@
+{
+  "id": 1839,
+  "name": "北陆MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1839",
+  "robotId": "1839",
+  "engineVoiceId": "create_voice_guagua_1839",
+  "referenceText": "事情已经到了这一步，退后反而更危险。别担心，我知道自己在做什么。帘外风声一紧，话到嘴边便轻了半分。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0796_北陆MK-III_1839.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0796_北陆MK-III_1839.mp3",
+  "audioHash": "d62af4a9fcb153364f28489b00a728c2f2c9a03089dfdc74eb0005bbda22efb2",
+  "durationMs": 13080,
+  "materialId": 810621574,
+  "bookId": 112683,
+  "chapterId": 25527539,
+  "updatedAt": "2026-06-22T17:23:20.492Z"
+}

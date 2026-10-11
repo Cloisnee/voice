@@ -1,0 +1,20 @@
+{
+  "id": 1195,
+  "name": "林灵兔MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1195",
+  "robotId": "1195",
+  "engineVoiceId": "create_voice_guagua_1195",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。算了，我们先往前走吧。屋里忽然安静下来，连呼吸声都显得格外清楚。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/悬疑",
+  "audioFile": "0438_林灵兔MK-III_1195.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0438_林灵兔MK-III_1195.mp3",
+  "audioHash": "47d8c7f2c164d877df9e2fd77631ae5d2cc84123d961bc607d623aa22cc91122",
+  "durationMs": 15816,
+  "materialId": 810612778,
+  "bookId": 112326,
+  "chapterId": 25526667,
+  "updatedAt": "2026-06-22T17:17:08.492Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1154,
+  "name": "郭金非旁白MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1154",
+  "robotId": "1154",
+  "engineVoiceId": "create_voice_guagua_1154",
+  "referenceText": "我不是不相信你，只是现在必须谨慎。该问的一个都不能漏。窗外车声一闪而过，语气也慢慢稳住了。这句话我只说一遍，你记住。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/现代",
+  "audioFile": "0405_郭金非旁白MK-III_1154.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0405_郭金非旁白MK-III_1154.mp3",
+  "audioHash": "7cd7cce7e21ed217db3c3c95203be6a5622ac50be6ff7bee6a2b909328074d05",
+  "durationMs": 12984,
+  "materialId": 810608441,
+  "bookId": 112293,
+  "chapterId": 25526607,
+  "updatedAt": "2026-06-22T17:12:40.294Z"
+}

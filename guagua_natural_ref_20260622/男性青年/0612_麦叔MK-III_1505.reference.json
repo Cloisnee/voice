@@ -1,0 +1,20 @@
+{
+  "id": 1505,
+  "name": "麦叔MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1505",
+  "robotId": "1505",
+  "engineVoiceId": "create_voice_guagua_1505",
+  "referenceText": "我当然会怕，可是现在不能停下。别担心，我知道自己在做什么。帘外风声一紧，话到嘴边便轻了半分。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0612_麦叔MK-III_1505.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0612_麦叔MK-III_1505.mp3",
+  "audioHash": "ba23534b805e2811119b3ee4fe6dbc7ac6ee74420132f09aaab7f866bed1f20c",
+  "durationMs": 13176,
+  "materialId": 810618815,
+  "bookId": 112500,
+  "chapterId": 25527179,
+  "updatedAt": "2026-06-22T17:21:36.707Z"
+}

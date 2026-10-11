@@ -1,0 +1,20 @@
+{
+  "id": 2213,
+  "name": "崽悟MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2213",
+  "robotId": "2213",
+  "engineVoiceId": "create_voice_guagua_2213",
+  "referenceText": "我想用声音，陪你走过一段安静的时光。有人说，声音是藏在空气里的温柔。它不刺眼，不张扬，却能在你疲惫的时候，轻轻落在心上。我喜欢用最舒服的语气，讲最真诚的话，不刻意。希望，我的声音，能被你记住。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0989_崽悟MK-III_2213.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0989_崽悟MK-III_2213.mp3",
+  "audioHash": "c880566a7644a2c26f7ad4533c6f4adf37a50ff80c84b703a7f1eae203d4795d",
+  "durationMs": 19992,
+  "materialId": 810622108,
+  "bookId": 112876,
+  "chapterId": 25527854,
+  "updatedAt": "2026-06-22T17:25:07.815Z"
+}

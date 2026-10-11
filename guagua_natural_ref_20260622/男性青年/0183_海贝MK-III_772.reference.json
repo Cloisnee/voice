@@ -1,0 +1,20 @@
+{
+  "id": 772,
+  "name": "海贝MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG772",
+  "robotId": "772",
+  "engineVoiceId": "create_voice_guagua_772",
+  "referenceText": "事情已经到了这一步，退后反而更危险。如果必须有人留下，那就让我来。帘外风声一紧，话到嘴边便轻了半分。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0183_海贝MK-III_772.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0183_海贝MK-III_772.mp3",
+  "audioHash": "04fd86d8e93bf2453de7cfea00f6942412322b0f311725dc00eb503b905d03a3",
+  "durationMs": 13272,
+  "materialId": 810508761,
+  "bookId": 112092,
+  "chapterId": 25525799,
+  "updatedAt": "2026-06-22T15:55:20.951Z"
+}

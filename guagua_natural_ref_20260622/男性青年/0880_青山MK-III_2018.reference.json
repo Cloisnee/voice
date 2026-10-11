@@ -1,0 +1,20 @@
+{
+  "id": 2018,
+  "name": "青山MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2018",
+  "robotId": "2018",
+  "engineVoiceId": "create_voice_guagua_2018",
+  "referenceText": "你听，他们还在等我回去。别担心，我知道自己在做什么。这句话不需要喊出来，却要让人听得真切。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0880_青山MK-III_2018.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0880_青山MK-III_2018.mp3",
+  "audioHash": "4cb3e77047247633990f53b4af0821a6deab57bd1666f7ac93a4780bd795abe6",
+  "durationMs": 10944,
+  "materialId": 810621815,
+  "bookId": 112767,
+  "chapterId": 25527664,
+  "updatedAt": "2026-06-22T17:24:07.320Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1859,
+  "name": "冰家漂漂MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1859",
+  "robotId": "1859",
+  "engineVoiceId": "create_voice_guagua_1859",
+  "referenceText": "酒会在一座思人别墅里举行，二楼是私人地方，没有邀请*一般人无法上去。陆知朝着二楼走去，刚一过拐角，就听见门后*有隐忍的嘶吼声传来。她疑惑了一番，四周看了看，见走廊空荡荡的，便壮着胆子推开门。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0804_冰家漂漂MK-III_1859.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0804_冰家漂漂MK-III_1859.mp3",
+  "audioHash": "b289ae8acc65acb16818359850e77e3d1353994a7a4fc86816554e0f24f07774",
+  "durationMs": 20424,
+  "materialId": 810621435,
+  "bookId": 112691,
+  "chapterId": 25527551,
+  "updatedAt": "2026-06-22T17:23:25.376Z"
+}

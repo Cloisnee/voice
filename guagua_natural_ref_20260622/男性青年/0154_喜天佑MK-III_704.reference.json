@@ -1,0 +1,20 @@
+{
+  "id": 704,
+  "name": "喜天佑MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG704",
+  "robotId": "704",
+  "engineVoiceId": "create_voice_guagua_704",
+  "referenceText": "你听，他们还在等我回去。先稳住呼吸，再看清楚前面的路。灯影晃了一下，心绪也跟着沉了下去。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0154_喜天佑MK-III_704.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0154_喜天佑MK-III_704.mp3",
+  "audioHash": "a95451bdf200047b6a3a6cdd1ae3e09b42ef6963bb398b1bf704a9af28c2e3ae",
+  "durationMs": 12000,
+  "materialId": 810472551,
+  "bookId": 112063,
+  "chapterId": 25525084,
+  "updatedAt": "2026-06-22T15:31:03.907Z"
+}

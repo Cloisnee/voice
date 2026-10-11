@@ -1,0 +1,20 @@
+{
+  "id": 1818,
+  "name": "暴躁妞子MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1818",
+  "robotId": "1818",
+  "engineVoiceId": "create_voice_guagua_1818",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。如果还有机会，我想重新来一次。灯影晃了一下，心绪也跟着沉了下去。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0784_暴躁妞子MK-III_1818.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0784_暴躁妞子MK-III_1818.mp3",
+  "audioHash": "55bf3c12a428e987224f283c6df0429588df2d4774b44e94c86ff65da501464f",
+  "durationMs": 14280,
+  "materialId": 810620934,
+  "bookId": 112671,
+  "chapterId": 25527447,
+  "updatedAt": "2026-06-22T17:23:13.275Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 2062,
+  "name": "樱桃MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2062",
+  "robotId": "2062",
+  "engineVoiceId": "create_voice_guagua_2062",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。算了，我们先往前走吧。这句话不需要喊出来，却要让人听得真切。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0902_樱桃MK-III_2062.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0902_樱桃MK-III_2062.mp3",
+  "audioHash": "51bcb4d96e820cb4d942b242e752982986c5e1ab83dc641296aa32b52031d7a7",
+  "durationMs": 13200,
+  "materialId": 810621929,
+  "bookId": 112789,
+  "chapterId": 25527701,
+  "updatedAt": "2026-06-22T17:24:19.521Z"
+}

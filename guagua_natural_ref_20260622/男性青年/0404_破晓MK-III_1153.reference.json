@@ -1,0 +1,20 @@
+{
+  "id": 1153,
+  "name": "破晓MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1153",
+  "robotId": "1153",
+  "engineVoiceId": "create_voice_guagua_1153",
+  "referenceText": "我当然会怕，可是现在不能停下。别担心，我知道自己在做什么。停了一会儿，语气终于慢慢平稳下来。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0404_破晓MK-III_1153.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0404_破晓MK-III_1153.mp3",
+  "audioHash": "ce51d9734dd20ec762c018e59a24e3b9bf1cbf232fde01352b8e84184c3e28d0",
+  "durationMs": 11088,
+  "materialId": 810608382,
+  "bookId": 112292,
+  "chapterId": 25526605,
+  "updatedAt": "2026-06-22T17:12:40.116Z"
+}

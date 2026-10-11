@@ -1,0 +1,20 @@
+{
+  "id": 1096,
+  "name": "阿柴MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1096",
+  "robotId": "1096",
+  "engineVoiceId": "create_voice_guagua_1096",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。算了，我们先往前走吧。这句话不需要喊出来，却要让人听得真切。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0358_阿柴MK-III_1096.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0358_阿柴MK-III_1096.mp3",
+  "audioHash": "bfe63aa8b4a269b7e0a3f0cd4272b0470e025754ffbf10dc09378f6ebf1269cc",
+  "durationMs": 17136,
+  "materialId": 810598617,
+  "bookId": 112246,
+  "chapterId": 25526452,
+  "updatedAt": "2026-06-22T17:03:19.896Z"
+}

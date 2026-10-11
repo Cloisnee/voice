@@ -1,0 +1,20 @@
+{
+  "id": 1490,
+  "name": "龙喜兒MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1490",
+  "robotId": "1490",
+  "engineVoiceId": "create_voice_guagua_1490",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。算了，我们先往前走吧。帘外风声一紧，话到嘴边便轻了半分。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0603_龙喜兒MK-III_1490.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0603_龙喜兒MK-III_1490.mp3",
+  "audioHash": "93ef7f512acec2927353edff1b8e04314c918a5e28634a411c2852860fe7710d",
+  "durationMs": 15624,
+  "materialId": 810618701,
+  "bookId": 112491,
+  "chapterId": 25527164,
+  "updatedAt": "2026-06-22T17:21:31.944Z"
+}

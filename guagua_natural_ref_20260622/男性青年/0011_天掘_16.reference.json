@@ -1,0 +1,20 @@
+{
+  "id": 16,
+  "name": "天掘",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG16",
+  "robotId": "16",
+  "engineVoiceId": "create_voice_guagua_16",
+  "referenceText": "事情已经到了这一步，退后反而更危险。先稳住呼吸，再看清楚前面的路。帘外风声一紧，话到嘴边便轻了半分。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0011_天掘_16.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0011_天掘_16.mp3",
+  "audioHash": "db214963e66596069b250899fb65c1a146da3ae301cbaed89d6192fcd1408ea0",
+  "durationMs": 15216,
+  "materialId": 810354765,
+  "bookId": 111974,
+  "chapterId": 25523532,
+  "updatedAt": "2026-06-22T14:25:26.166Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1301,
+  "name": "逸风MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1301",
+  "robotId": "1301",
+  "engineVoiceId": "create_voice_guagua_1301",
+  "referenceText": "你听，他们还在等我回去。我会把人带回来，也会给你一个交代。这句话不需要喊出来，却要让人听得真切。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0505_逸风MK-III_1301.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0505_逸风MK-III_1301.mp3",
+  "audioHash": "020f4377870fab5bcdc339a05c8aa18f5c9d707290d124df6d5d2ef833d02520",
+  "durationMs": 13608,
+  "materialId": 810616317,
+  "bookId": 112393,
+  "chapterId": 25526812,
+  "updatedAt": "2026-06-22T17:20:56.528Z"
+}

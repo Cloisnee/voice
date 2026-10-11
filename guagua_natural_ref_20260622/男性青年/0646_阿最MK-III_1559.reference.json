@@ -1,0 +1,20 @@
+{
+  "id": 1559,
+  "name": "阿最MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1559",
+  "robotId": "1559",
+  "engineVoiceId": "create_voice_guagua_1559",
+  "referenceText": "我当然会怕，可是现在不能停下。先稳住呼吸，再看清楚前面的路。停了一会儿，语气终于慢慢平稳下来。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0646_阿最MK-III_1559.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0646_阿最MK-III_1559.mp3",
+  "audioHash": "b7fc86dc3a08d9e29c8395c518bcd781a9d536c8a661c15767eb0fcbfc6be5d9",
+  "durationMs": 10632,
+  "materialId": 810619431,
+  "bookId": 112534,
+  "chapterId": 25527227,
+  "updatedAt": "2026-06-22T17:21:56.203Z"
+}

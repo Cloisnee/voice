@@ -1,0 +1,20 @@
+{
+  "id": 2009,
+  "name": "江湖老猫MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2009",
+  "robotId": "2009",
+  "engineVoiceId": "create_voice_guagua_2009",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。如果还有机会，我想重新来一次。帘外风声一紧，话到嘴边便轻了半分。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0876_江湖老猫MK-III_2009.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0876_江湖老猫MK-III_2009.mp3",
+  "audioHash": "72e00767707018c104c5545b66410efeb9591f61d470f93c2611968f9b1b8690",
+  "durationMs": 16320,
+  "materialId": 810621557,
+  "bookId": 112763,
+  "chapterId": 25527658,
+  "updatedAt": "2026-06-22T17:24:05.116Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1832,
+  "name": "石头2.0MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1832",
+  "robotId": "1832",
+  "engineVoiceId": "create_voice_guagua_1832",
+  "referenceText": "你听，他们还在等我回去。先稳住呼吸，再看清楚前面的路。灯影晃了一下，心绪也跟着沉了下去。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0794_石头2.0MK-III_1832.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0794_石头2.0MK-III_1832.mp3",
+  "audioHash": "57383d745f5eb74a26c6d107781ae686fa2dd47c8d3e29140001bf35dbd8e07e",
+  "durationMs": 12648,
+  "materialId": 810620958,
+  "bookId": 112681,
+  "chapterId": 25527537,
+  "updatedAt": "2026-06-22T17:23:19.165Z"
+}

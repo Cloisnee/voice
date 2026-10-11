@@ -1,0 +1,20 @@
+{
+  "id": 1475,
+  "name": "乐观者MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1475",
+  "robotId": "1475",
+  "engineVoiceId": "create_voice_guagua_1475",
+  "referenceText": "事情已经到了这一步，退后反而更危险。别担心，我知道自己在做什么。停了一会儿，语气终于慢慢平稳下来。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0596_乐观者MK-III_1475.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0596_乐观者MK-III_1475.mp3",
+  "audioHash": "fcbe76dda15fa6956a6589dd12ffaefbb297ffcbeec3cb8fa511f0570f83b05b",
+  "durationMs": 13032,
+  "materialId": 810618616,
+  "bookId": 112484,
+  "chapterId": 25527154,
+  "updatedAt": "2026-06-22T17:21:27.992Z"
+}

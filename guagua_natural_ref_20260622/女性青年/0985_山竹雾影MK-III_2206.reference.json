@@ -1,0 +1,20 @@
+{
+  "id": 2206,
+  "name": "山竹雾影MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2206",
+  "robotId": "2206",
+  "engineVoiceId": "create_voice_guagua_2206",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。你不用立刻回答，我可以等。帘外风声一紧，话到嘴边便轻了半分。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0985_山竹雾影MK-III_2206.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0985_山竹雾影MK-III_2206.mp3",
+  "audioHash": "dafecece3b603280955655e680abde805dc479188b628d3117ee27f71ff81a8d",
+  "durationMs": 14136,
+  "materialId": 810622091,
+  "bookId": 112872,
+  "chapterId": 25527848,
+  "updatedAt": "2026-06-22T17:25:05.724Z"
+}

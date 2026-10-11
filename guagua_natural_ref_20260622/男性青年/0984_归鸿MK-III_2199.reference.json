@@ -1,0 +1,20 @@
+{
+  "id": 2199,
+  "name": "归鸿MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2199",
+  "robotId": "2199",
+  "engineVoiceId": "create_voice_guagua_2199",
+  "referenceText": "红烛，喜字，鸳鸯帐。\n身穿嫁衣的婀娜少女静静地坐在床头。\n林安应酬完宾客回到婚房，看到的就是这样温馨的画面。\n他反手拉上门闩，急切地走向床边，掀开盖头时，却不禁放慢了速度",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0984_归鸿MK-III_2199.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0984_归鸿MK-III_2199.mp3",
+  "audioHash": "5204cd6193dcfd11386b77ef8cf08066b9358e9245898625f50ebac2088c24b9",
+  "durationMs": 18672,
+  "materialId": 810622094,
+  "bookId": 112871,
+  "chapterId": 25527847,
+  "updatedAt": "2026-06-22T17:25:05.148Z"
+}

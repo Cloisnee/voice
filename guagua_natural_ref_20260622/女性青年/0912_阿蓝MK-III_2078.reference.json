@@ -1,0 +1,20 @@
+{
+  "id": 2078,
+  "name": "阿蓝MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2078",
+  "robotId": "2078",
+  "engineVoiceId": "create_voice_guagua_2078",
+  "referenceText": "姜小娟这趟过来看似啥事都没有，但实际上收获很多，最起码，她心里多多少少有了些以前从来不敢想的期待。当然，姜小娟也一遍遍的提醒自己，要平常心，不能怀有特别大的希望。因为这种事谁都不敢打包票。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/现代",
+  "audioFile": "0912_阿蓝MK-III_2078.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0912_阿蓝MK-III_2078.mp3",
+  "audioHash": "74fea232ff7f2b74d4515207df20b8eaaf4f871c16a440b75cdc40ce0d8cc5cf",
+  "durationMs": 19512,
+  "materialId": 810621962,
+  "bookId": 112799,
+  "chapterId": 25527720,
+  "updatedAt": "2026-06-22T17:24:25.204Z"
+}

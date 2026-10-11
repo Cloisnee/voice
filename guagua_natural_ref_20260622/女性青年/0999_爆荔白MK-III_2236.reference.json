@@ -1,0 +1,20 @@
+{
+  "id": 2236,
+  "name": "爆荔白MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2236",
+  "robotId": "2236",
+  "engineVoiceId": "create_voice_guagua_2236",
+  "referenceText": "至于怎么搞钱?翟远虽然还没想到，但也不慌。八十年代的香江，正处于经济腾飞的时期，多得是赚钱的门路。\n就算真的废物到什么也做不成，凭翟远现在的年纪，他还有一条退路。少年一贯快马扬鞭，高档小区入职保安！",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0999_爆荔白MK-III_2236.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0999_爆荔白MK-III_2236.mp3",
+  "audioHash": "f8d4d3ad7e5c85662520c5048ef644e403dc38cc8db7448b63ffa13f9c8cfd1b",
+  "durationMs": 22776,
+  "materialId": 810622153,
+  "bookId": 112886,
+  "chapterId": 25527870,
+  "updatedAt": "2026-06-22T17:25:13.285Z"
+}

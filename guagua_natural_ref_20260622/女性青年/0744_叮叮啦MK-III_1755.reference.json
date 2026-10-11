@@ -1,0 +1,20 @@
+{
+  "id": 1755,
+  "name": "叮叮啦MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1755",
+  "robotId": "1755",
+  "engineVoiceId": "create_voice_guagua_1755",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。如果还有机会，我想重新来一次。屋里忽然安静下来，连呼吸声都显得格外清楚。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/悬疑",
+  "audioFile": "0744_叮叮啦MK-III_1755.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0744_叮叮啦MK-III_1755.mp3",
+  "audioHash": "19038f7c65cb73c8c7dd7cc4963a9576dffeb49049a3911045f19398ae6927f6",
+  "durationMs": 16992,
+  "materialId": 810620944,
+  "bookId": 112631,
+  "chapterId": 25527388,
+  "updatedAt": "2026-06-22T17:22:50.675Z"
+}

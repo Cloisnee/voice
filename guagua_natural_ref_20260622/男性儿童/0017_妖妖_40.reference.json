@@ -1,0 +1,20 @@
+{
+  "id": 40,
+  "name": "妖妖",
+  "category": "男性儿童",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG40",
+  "robotId": "40",
+  "engineVoiceId": "create_voice_guagua_40",
+  "referenceText": "我才没有哭呢……只是风太大了。你看，我马上就追上你。说完这句，眼睛又亮了一点。这次我会勇敢一点。",
+  "emotionProfile": "逞强、害怕、恢复勇气",
+  "sampleStyle": "男性儿童/童真",
+  "audioFile": "0017_妖妖_40.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性儿童/0017_妖妖_40.mp3",
+  "audioHash": "8874de3c2ede9b5c7d537dea7196cf1420570254141173ff3f96e4b88c74d5f2",
+  "durationMs": 12840,
+  "materialId": 810355176,
+  "bookId": 111980,
+  "chapterId": 25523542,
+  "updatedAt": "2026-06-22T14:25:26.208Z"
+}

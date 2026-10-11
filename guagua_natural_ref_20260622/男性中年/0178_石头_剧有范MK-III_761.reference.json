@@ -1,0 +1,20 @@
+{
+  "id": 761,
+  "name": "石头_剧有范MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG761",
+  "robotId": "761",
+  "engineVoiceId": "create_voice_guagua_761",
+  "referenceText": "我不是不相信你，只是现在必须谨慎。你把人手安排好，我去看现场。帘外风声一紧，话到嘴边便轻了半分。别慌，先按计划来。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0178_石头_剧有范MK-III_761.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0178_石头_剧有范MK-III_761.mp3",
+  "audioHash": "31e166491328a1bf885a42bdb5133f363afa040e56b712b854c7093b9f3853ac",
+  "durationMs": 13440,
+  "materialId": 810508613,
+  "bookId": 112087,
+  "chapterId": 25525118,
+  "updatedAt": "2026-06-22T15:55:19.845Z"
+}

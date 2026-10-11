@@ -1,0 +1,20 @@
+{
+  "id": 1189,
+  "name": "家雀哥MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1189",
+  "robotId": "1189",
+  "engineVoiceId": "create_voice_guagua_1189",
+  "referenceText": "先别急着下结论，把前因后果都弄清楚再说。该问的一个都不能漏。灯影晃了一下，心绪也跟着沉了下去。这句话我只说一遍，你记住。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0433_家雀哥MK-III_1189.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0433_家雀哥MK-III_1189.mp3",
+  "audioHash": "58e34d4afa79d61e44c9141e25d49d6520465e98c850a781736d37872c4aec1a",
+  "durationMs": 12288,
+  "materialId": 810610943,
+  "bookId": 112321,
+  "chapterId": 25526657,
+  "updatedAt": "2026-06-22T17:17:07.260Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1826,
+  "name": "清甜妹纸MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1826",
+  "robotId": "1826",
+  "engineVoiceId": "create_voice_guagua_1826",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。你不用立刻回答，我可以等。停了一会儿，语气终于慢慢平稳下来。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0789_清甜妹纸MK-III_1826.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0789_清甜妹纸MK-III_1826.mp3",
+  "audioHash": "ca0c605494d9374e3c1401e883c50b8996e7d71d84d94a7f0a688137e846154a",
+  "durationMs": 15120,
+  "materialId": 810620939,
+  "bookId": 112676,
+  "chapterId": 25527530,
+  "updatedAt": "2026-06-22T17:23:16.372Z"
+}

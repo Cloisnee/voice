@@ -1,0 +1,20 @@
+{
+  "id": 1176,
+  "name": "塞纳的雪MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1176",
+  "robotId": "1176",
+  "engineVoiceId": "create_voice_guagua_1176",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。算了，我们先往前走吧。这句话不需要喊出来，却要让人听得真切。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0422_塞纳的雪MK-III_1176.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0422_塞纳的雪MK-III_1176.mp3",
+  "audioHash": "783780c627bfd6952aaaaade111a0f35ae4c0afd14223b4b85f83469856c5a89",
+  "durationMs": 12648,
+  "materialId": 810610706,
+  "bookId": 112310,
+  "chapterId": 25526638,
+  "updatedAt": "2026-06-22T17:17:04.939Z"
+}

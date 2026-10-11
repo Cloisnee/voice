@@ -1,0 +1,20 @@
+{
+  "id": 645,
+  "name": "煋焱MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG645",
+  "robotId": "645",
+  "engineVoiceId": "create_voice_guagua_645",
+  "referenceText": "刚才那句话，我不是随便说说。如果必须有人留下，那就让我来。门外那一点动静，让所有话都停在了半空。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/悬疑",
+  "audioFile": "0135_煋焱MK-III_645.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0135_煋焱MK-III_645.mp3",
+  "audioHash": "bb8f1aa852c152854a8825ca27235fdd9d7ae8d387ae51e51457facb31a85837",
+  "durationMs": 14448,
+  "materialId": 810435253,
+  "bookId": 112044,
+  "chapterId": 25524472,
+  "updatedAt": "2026-06-22T15:06:22.512Z"
+}

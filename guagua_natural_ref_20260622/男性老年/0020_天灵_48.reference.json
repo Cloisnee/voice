@@ -1,0 +1,20 @@
+{
+  "id": 48,
+  "name": "天灵",
+  "category": "男性老年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG48",
+  "robotId": "48",
+  "engineVoiceId": "create_voice_guagua_48",
+  "referenceText": "风浪见多了，就知道什么该放，什么该守。急没有用，心要稳。灯影晃了一下，心绪也跟着沉了下去。记住这句话，以后用得上。",
+  "emotionProfile": "阅历感、慢节奏、劝诫语气",
+  "sampleStyle": "男性老年/古风",
+  "audioFile": "0020_天灵_48.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性老年/0020_天灵_48.mp3",
+  "audioHash": "15df5a1b59965b11db3f7a3ef26d2e29f15e4e5280157f9beb94cd5b27e44828",
+  "durationMs": 15624,
+  "materialId": 810355458,
+  "bookId": 111983,
+  "chapterId": 25523560,
+  "updatedAt": "2026-06-22T14:25:26.220Z"
+}

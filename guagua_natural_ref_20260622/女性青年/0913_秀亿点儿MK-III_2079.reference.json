@@ -1,0 +1,20 @@
+{
+  "id": 2079,
+  "name": "秀亿点儿MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2079",
+  "robotId": "2079",
+  "engineVoiceId": "create_voice_guagua_2079",
+  "referenceText": "舒雅嘴角勾起一抹苦涩的弧度，眼底闪过一丝无奈与挣扎。她放下水杯，强迫自己从这种消极的情绪中抽离出来。迅速地保存文件，关闭电脑，然后起身走向衣帽间。\n换装，化妆，一连串动作干净利落，仿佛经过无数次的演练",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0913_秀亿点儿MK-III_2079.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0913_秀亿点儿MK-III_2079.mp3",
+  "audioHash": "d2340a9d452b0f085b7487d8370b3e662e93ac5e84b805a36c04578699a20fa9",
+  "durationMs": 23424,
+  "materialId": 810621777,
+  "bookId": 112800,
+  "chapterId": 25527721,
+  "updatedAt": "2026-06-22T17:24:25.759Z"
+}

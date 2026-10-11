@@ -1,0 +1,20 @@
+{
+  "id": 1756,
+  "name": "昔的分身MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1756",
+  "robotId": "1756",
+  "engineVoiceId": "create_voice_guagua_1756",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。你不用立刻回答，我可以等。帘外风声一紧，话到嘴边便轻了半分。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0745_昔的分身MK-III_1756.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0745_昔的分身MK-III_1756.mp3",
+  "audioHash": "b48a9ad8cff09fe40820fb8b6e83db2177dc613f8e80fccc0032883ccec24023",
+  "durationMs": 15744,
+  "materialId": 810620455,
+  "bookId": 112632,
+  "chapterId": 25527391,
+  "updatedAt": "2026-06-22T17:22:51.240Z"
+}

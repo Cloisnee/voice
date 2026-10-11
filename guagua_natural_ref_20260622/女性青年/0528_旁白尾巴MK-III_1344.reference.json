@@ -1,0 +1,20 @@
+{
+  "id": 1344,
+  "name": "旁白尾巴MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1344",
+  "robotId": "1344",
+  "engineVoiceId": "create_voice_guagua_1344",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。如果还有机会，我想重新来一次。灯影晃了一下，心绪也跟着沉了下去。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0528_旁白尾巴MK-III_1344.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0528_旁白尾巴MK-III_1344.mp3",
+  "audioHash": "17335911288365babad031b9f47168ee7e35248f4d97a1b353bde9db1202b064",
+  "durationMs": 14712,
+  "materialId": 810617103,
+  "bookId": 112416,
+  "chapterId": 25526855,
+  "updatedAt": "2026-06-22T17:21:01.904Z"
+}

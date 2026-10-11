@@ -1,0 +1,20 @@
+{
+  "id": 1001,
+  "name": "万人敌MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1001",
+  "robotId": "1001",
+  "engineVoiceId": "create_voice_guagua_1001",
+  "referenceText": "刚才那句话，我不是随便说说。如果必须有人留下，那就让我来。灯影晃了一下，心绪也跟着沉了下去。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0299_万人敌MK-III_1001.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0299_万人敌MK-III_1001.mp3",
+  "audioHash": "32202530e500291b8e51cbe24993a9f93e3e17eec9b09503890063d5c484e4a9",
+  "durationMs": 14256,
+  "materialId": 810580370,
+  "bookId": 112187,
+  "chapterId": 25526360,
+  "updatedAt": "2026-06-22T16:48:34.634Z"
+}

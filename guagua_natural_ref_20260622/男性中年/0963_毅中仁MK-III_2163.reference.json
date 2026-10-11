@@ -1,0 +1,20 @@
+{
+  "id": 2163,
+  "name": "毅中仁MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2163",
+  "robotId": "2163",
+  "engineVoiceId": "create_voice_guagua_2163",
+  "referenceText": "我的祖父叫胡国华，胡家祖上是十里八乡有名的大地主，最辉煌的时期在城里买了三条胡同相连的四十多间宅子，其间也曾出过一些当官的和经商的，捐过前清的粮台、槽运的帮办。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0963_毅中仁MK-III_2163.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0963_毅中仁MK-III_2163.mp3",
+  "audioHash": "5feb38a04b887d7e514df943410af914cb6d3491e77acb2605b81e9eabf287e5",
+  "durationMs": 16944,
+  "materialId": 810621967,
+  "bookId": 112850,
+  "chapterId": 25527813,
+  "updatedAt": "2026-06-22T17:24:53.737Z"
+}

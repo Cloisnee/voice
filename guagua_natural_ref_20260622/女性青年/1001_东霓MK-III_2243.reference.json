@@ -1,0 +1,20 @@
+{
+  "id": 2243,
+  "name": "东霓MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2243",
+  "robotId": "2243",
+  "engineVoiceId": "create_voice_guagua_2243",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。你不用立刻回答，我可以等。灯影晃了一下，心绪也跟着沉了下去。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "1001_东霓MK-III_2243.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/1001_东霓MK-III_2243.mp3",
+  "audioHash": "9cd8e038e065acd4295d9f93de7f1f1631862e1ebdb3c2e59f0d21b5268eccb6",
+  "durationMs": 12312,
+  "materialId": 810622139,
+  "bookId": 112888,
+  "chapterId": 25527874,
+  "updatedAt": "2026-06-22T17:25:14.397Z"
+}

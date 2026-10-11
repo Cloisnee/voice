@@ -1,0 +1,20 @@
+{
+  "id": 20,
+  "name": "小魔仙",
+  "category": "女性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG20",
+  "robotId": "20",
+  "engineVoiceId": "create_voice_guagua_20",
+  "referenceText": "这些年我见过太多分别，也见过太多人回头。把前因后果理清楚，再往下走。帘外风声一紧，话到嘴边便轻了半分。这话不重，可你得记在心里。",
+  "emotionProfile": "沉稳安抚，低强度情绪起伏",
+  "sampleStyle": "女性中年/古风",
+  "audioFile": "0013_小魔仙_20.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性中年/0013_小魔仙_20.mp3",
+  "audioHash": "c08c6a7046aa0128b86d0b31a176ef84c1f19413460c7aebbcf7102999b932f2",
+  "durationMs": 15192,
+  "materialId": 810355460,
+  "bookId": 111976,
+  "chapterId": 25523535,
+  "updatedAt": "2026-06-22T14:25:26.175Z"
+}

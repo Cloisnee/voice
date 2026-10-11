@@ -1,0 +1,20 @@
+{
+  "id": 968,
+  "name": "小小悠MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG968",
+  "robotId": "968",
+  "engineVoiceId": "create_voice_guagua_968",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。你不用立刻回答，我可以等。帘外风声一紧，话到嘴边便轻了半分。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0281_小小悠MK-III_968.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0281_小小悠MK-III_968.mp3",
+  "audioHash": "6b386b9a0bfec18fa598cca372688edc29d90766560a5ec3befdf586253d6f76",
+  "durationMs": 17064,
+  "materialId": 810572924,
+  "bookId": 112169,
+  "chapterId": 25526321,
+  "updatedAt": "2026-06-22T16:40:39.279Z"
+}

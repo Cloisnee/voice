@@ -1,0 +1,20 @@
+{
+  "id": 733,
+  "name": "禾匕MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG733",
+  "robotId": "733",
+  "engineVoiceId": "create_voice_guagua_733",
+  "referenceText": "事情已经到了这一步，退后反而更危险。先稳住呼吸，再看清楚前面的路。停了一会儿，语气终于慢慢平稳下来。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0166_禾匕MK-III_733.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0166_禾匕MK-III_733.mp3",
+  "audioHash": "bb39634794b728082b288d9ba048a337ced188f43958798549d08e0556996a67",
+  "durationMs": 10848,
+  "materialId": 810484614,
+  "bookId": 112075,
+  "chapterId": 25525101,
+  "updatedAt": "2026-06-22T15:40:16.123Z"
+}

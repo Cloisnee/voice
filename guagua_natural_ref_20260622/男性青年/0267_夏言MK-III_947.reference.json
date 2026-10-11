@@ -1,0 +1,20 @@
+{
+  "id": 947,
+  "name": "夏言MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG947",
+  "robotId": "947",
+  "engineVoiceId": "create_voice_guagua_947",
+  "referenceText": "你听，他们还在等我回去。如果必须有人留下，那就让我来。灯影晃了一下，心绪也跟着沉了下去。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0267_夏言MK-III_947.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0267_夏言MK-III_947.mp3",
+  "audioHash": "d6b1298258c50b8084cdea7656e6b9b0609830d2dde6b91d3461c4e0471bd268",
+  "durationMs": 13008,
+  "materialId": 810564093,
+  "bookId": 112155,
+  "chapterId": 25526298,
+  "updatedAt": "2026-06-22T16:35:11.404Z"
+}

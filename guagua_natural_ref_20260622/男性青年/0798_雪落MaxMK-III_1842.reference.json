@@ -1,0 +1,20 @@
+{
+  "id": 1842,
+  "name": "雪落MaxMK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1842",
+  "robotId": "1842",
+  "engineVoiceId": "create_voice_guagua_1842",
+  "referenceText": "刚才那句话，我不是随便说说。先稳住呼吸，再看清楚前面的路。这句话不需要喊出来，却要让人听得真切。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0798_雪落MaxMK-III_1842.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0798_雪落MaxMK-III_1842.mp3",
+  "audioHash": "bf85bf16d41e645063a97c71adf3dde4f5e37f50de0dda626916023b72e503be",
+  "durationMs": 11712,
+  "materialId": 810621267,
+  "bookId": 112685,
+  "chapterId": 25527541,
+  "updatedAt": "2026-06-22T17:23:21.624Z"
+}

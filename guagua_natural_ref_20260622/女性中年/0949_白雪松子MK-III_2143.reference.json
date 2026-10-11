@@ -1,0 +1,20 @@
+{
+  "id": 2143,
+  "name": "白雪松子MK-III",
+  "category": "女性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2143",
+  "robotId": "2143",
+  "engineVoiceId": "create_voice_guagua_2143",
+  "referenceText": "熊彼特认为，创新和发明创造并不完全相同。只有当发明被应用于经济活动时，它才成为创新。他解释说，创新是一种创造性的活动，需要有眼光和勇气，而且任何一种创新活动都有风险，而领导者就是这些风险的承担者。",
+  "emotionProfile": "沉稳安抚，低强度情绪起伏",
+  "sampleStyle": "女性中年/古风",
+  "audioFile": "0949_白雪松子MK-III_2143.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性中年/0949_白雪松子MK-III_2143.mp3",
+  "audioHash": "80027118aa58972f640c7a2ad2efe9fa4b5df053fdee6a9ebda0fd87b73b0cb8",
+  "durationMs": 21792,
+  "materialId": 810621932,
+  "bookId": 112836,
+  "chapterId": 25527787,
+  "updatedAt": "2026-06-22T17:24:45.852Z"
+}

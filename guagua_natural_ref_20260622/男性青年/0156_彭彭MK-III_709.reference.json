@@ -1,0 +1,20 @@
+{
+  "id": 709,
+  "name": "彭彭MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG709",
+  "robotId": "709",
+  "engineVoiceId": "create_voice_guagua_709",
+  "referenceText": "我当然会怕，可是现在不能停下。别担心，我知道自己在做什么。帘外风声一紧，话到嘴边便轻了半分。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0156_彭彭MK-III_709.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0156_彭彭MK-III_709.mp3",
+  "audioHash": "44917153a1a47b65beba5c3ca4fef0cd2a68be9160fae5e83c23facc5a3cfa10",
+  "durationMs": 13200,
+  "materialId": 810472645,
+  "bookId": 112065,
+  "chapterId": 25525088,
+  "updatedAt": "2026-06-22T15:31:04.300Z"
+}

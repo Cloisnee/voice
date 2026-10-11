@@ -1,0 +1,20 @@
+{
+  "id": 872,
+  "name": "阿怪MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG872",
+  "robotId": "872",
+  "engineVoiceId": "create_voice_guagua_872",
+  "referenceText": "事情已经到了这一步，退后反而更危险。如果必须有人留下，那就让我来。窗外车声一闪而过，语气也慢慢稳住了。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/现代",
+  "audioFile": "0231_阿怪MK-III_872.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0231_阿怪MK-III_872.mp3",
+  "audioHash": "ed9ca172a98633a43f2cbedb7834f4f9c2c96537f99366e89d93910976f1a84c",
+  "durationMs": 13200,
+  "materialId": 810551405,
+  "bookId": 112130,
+  "chapterId": 25525859,
+  "updatedAt": "2026-06-22T16:20:59.350Z"
+}

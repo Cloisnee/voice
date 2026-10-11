@@ -1,0 +1,20 @@
+{
+  "id": 836,
+  "name": "暮沉MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG836",
+  "robotId": "836",
+  "engineVoiceId": "create_voice_guagua_836",
+  "referenceText": "你听，他们还在等我回去。先稳住呼吸，再看清楚前面的路。灯影晃了一下，心绪也跟着沉了下去。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0206_暮沉MK-III_836.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0206_暮沉MK-III_836.mp3",
+  "audioHash": "fed282488d192179c83feafb934a7d826d34ee7959419fdf9dfe51082d91151e",
+  "durationMs": 13296,
+  "materialId": 810543153,
+  "bookId": 112115,
+  "chapterId": 25525836,
+  "updatedAt": "2026-06-22T16:16:31.980Z"
+}

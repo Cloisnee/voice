@@ -1,0 +1,20 @@
+{
+  "id": 2208,
+  "name": "清汤面MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2208",
+  "robotId": "2208",
+  "engineVoiceId": "create_voice_guagua_2208",
+  "referenceText": "记忆里那个“爹”很慈爱，对孩子充满关爱与呵护，会用心地教导她，哪怕她是一个女娃，他也很用心，甚至因为她学东西快，而引以为豪。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0986_清汤面MK-III_2208.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0986_清汤面MK-III_2208.mp3",
+  "audioHash": "6a0ae23760336f86abf3fe7f1a0e234c9cea88cebd8467281a22e26e73e98a11",
+  "durationMs": 13896,
+  "materialId": 810622098,
+  "bookId": 112873,
+  "chapterId": 25527851,
+  "updatedAt": "2026-06-22T17:25:06.229Z"
+}

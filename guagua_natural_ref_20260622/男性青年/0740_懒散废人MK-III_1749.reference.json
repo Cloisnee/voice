@@ -1,0 +1,20 @@
+{
+  "id": 1749,
+  "name": "懒散废人MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1749",
+  "robotId": "1749",
+  "engineVoiceId": "create_voice_guagua_1749",
+  "referenceText": "我当然会怕，可是现在不能停下。别担心，我知道自己在做什么。帘外风声一紧，话到嘴边便轻了半分。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0740_懒散废人MK-III_1749.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0740_懒散废人MK-III_1749.mp3",
+  "audioHash": "d4090840d98142f4e201397f7f667fac2377751ec091ba089804dd1c1a10de18",
+  "durationMs": 10848,
+  "materialId": 810620428,
+  "bookId": 112627,
+  "chapterId": 25527383,
+  "updatedAt": "2026-06-22T17:22:48.422Z"
+}

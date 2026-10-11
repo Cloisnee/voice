@@ -1,0 +1,20 @@
+{
+  "id": 1720,
+  "name": "海利布MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1720",
+  "robotId": "1720",
+  "engineVoiceId": "create_voice_guagua_1720",
+  "referenceText": "刚才那句话，我不是随便说说。别担心，我知道自己在做什么。这句话不需要喊出来，却要让人听得真切。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0736_海利布MK-III_1720.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0736_海利布MK-III_1720.mp3",
+  "audioHash": "f274fee029b774bff238b8222c97a13acb29cbc4a1d0d893e55b106e7dff61a5",
+  "durationMs": 12672,
+  "materialId": 810620245,
+  "bookId": 112623,
+  "chapterId": 25527377,
+  "updatedAt": "2026-06-22T17:22:46.398Z"
+}

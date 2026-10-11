@@ -1,0 +1,20 @@
+{
+  "id": 1372,
+  "name": "刑侦咖MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1372",
+  "robotId": "1372",
+  "engineVoiceId": "create_voice_guagua_1372",
+  "referenceText": "北方的冬天格外严酷，人们常说洒水可成冰，那寒冷便如同天然的冰箱。在这样的环境下，弃置数日的尸体竟然依然栩栩如生，如同被时间凝固在了发现之刻。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0541_刑侦咖MK-III_1372.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0541_刑侦咖MK-III_1372.mp3",
+  "audioHash": "64d5d1b62f293a6e4da80525d5bfd610e2561da0b9cdde147842afce21145221",
+  "durationMs": 17448,
+  "materialId": 810617655,
+  "bookId": 112429,
+  "chapterId": 25526878,
+  "updatedAt": "2026-06-22T17:21:04.808Z"
+}

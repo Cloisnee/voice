@@ -1,0 +1,20 @@
+{
+  "id": 1009,
+  "name": "清婉婉MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1009",
+  "robotId": "1009",
+  "engineVoiceId": "create_voice_guagua_1009",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。你不用立刻回答，我可以等。灯影晃了一下，心绪也跟着沉了下去。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0305_清婉婉MK-III_1009.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0305_清婉婉MK-III_1009.mp3",
+  "audioHash": "5ecd046e092844c915ffe5afee01784b93369741523c556b0077622bd87afb0e",
+  "durationMs": 14784,
+  "materialId": 810580907,
+  "bookId": 112193,
+  "chapterId": 25526369,
+  "updatedAt": "2026-06-22T16:48:35.953Z"
+}

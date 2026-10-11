@@ -1,0 +1,20 @@
+{
+  "id": 1795,
+  "name": "天下第六茅MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1795",
+  "robotId": "1795",
+  "engineVoiceId": "create_voice_guagua_1795",
+  "referenceText": "我当然会怕，可是现在不能停下。先稳住呼吸，再看清楚前面的路。帘外风声一紧，话到嘴边便轻了半分。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0770_天下第六茅MK-III_1795.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0770_天下第六茅MK-III_1795.mp3",
+  "audioHash": "1619e091e2ae9b2e464b2ab88cee3ec1659f011b5cb9780dae797639f5c47baa",
+  "durationMs": 12144,
+  "materialId": 810620732,
+  "bookId": 112657,
+  "chapterId": 25527426,
+  "updatedAt": "2026-06-22T17:23:05.299Z"
+}

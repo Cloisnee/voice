@@ -1,0 +1,20 @@
+{
+  "id": 678,
+  "name": "月月MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG678",
+  "robotId": "678",
+  "engineVoiceId": "create_voice_guagua_678",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。你不用立刻回答，我可以等。帘外风声一紧，话到嘴边便轻了半分。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0141_月月MK-III_678.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0141_月月MK-III_678.mp3",
+  "audioHash": "a9d4fc72395c7e337f66c56d96cf3acef5235b88b212c13f96b633ffb6c486f6",
+  "durationMs": 14712,
+  "materialId": 810435645,
+  "bookId": 112050,
+  "chapterId": 25524481,
+  "updatedAt": "2026-06-22T15:06:23.698Z"
+}

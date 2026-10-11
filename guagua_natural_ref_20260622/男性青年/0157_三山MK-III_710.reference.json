@@ -1,0 +1,20 @@
+{
+  "id": 710,
+  "name": "三山MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG710",
+  "robotId": "710",
+  "engineVoiceId": "create_voice_guagua_710",
+  "referenceText": "事情已经到了这一步，退后反而更危险。我会把人带回来，也会给你一个交代。窗外车声一闪而过，语气也慢慢稳住了。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/现代",
+  "audioFile": "0157_三山MK-III_710.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0157_三山MK-III_710.mp3",
+  "audioHash": "b2bd777f73d4c564c0f6ec5dac0d67806c2c6ac9877f471c1e8786bc27766628",
+  "durationMs": 13848,
+  "materialId": 810472670,
+  "bookId": 112066,
+  "chapterId": 25525089,
+  "updatedAt": "2026-06-22T15:31:04.473Z"
+}

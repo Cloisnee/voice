@@ -1,0 +1,20 @@
+{
+  "id": 1804,
+  "name": "永远MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1804",
+  "robotId": "1804",
+  "engineVoiceId": "create_voice_guagua_1804",
+  "referenceText": "刚才那句话，我不是随便说说。别担心，我知道自己在做什么。灯影晃了一下，心绪也跟着沉了下去。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0776_永远MK-III_1804.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0776_永远MK-III_1804.mp3",
+  "audioHash": "04170005fd2dfd623097de380db19176d79fb982e77ff1ba6cf0cc6c01c31ef3",
+  "durationMs": 12384,
+  "materialId": 810620906,
+  "bookId": 112663,
+  "chapterId": 25527435,
+  "updatedAt": "2026-06-22T17:23:08.722Z"
+}

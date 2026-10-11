@@ -1,0 +1,20 @@
+{
+  "id": 4,
+  "name": "百合",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG4",
+  "robotId": "4",
+  "engineVoiceId": "create_voice_guagua_4",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。如果还有机会，我想重新来一次。帘外风声一紧，话到嘴边便轻了半分。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0001_百合_4.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0001_百合_4.mp3",
+  "audioHash": "bcf0714aa5b484842c9b42979844f8653aca2d08912ae3ebee5cd88fef1370b1",
+  "durationMs": 17088,
+  "materialId": null,
+  "bookId": null,
+  "chapterId": null,
+  "updatedAt": "2026-06-22T14:25:26.120Z"
+}

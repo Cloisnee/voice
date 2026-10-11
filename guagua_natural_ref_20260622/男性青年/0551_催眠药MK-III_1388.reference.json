@@ -1,0 +1,20 @@
+{
+  "id": 1388,
+  "name": "催眠药MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1388",
+  "robotId": "1388",
+  "engineVoiceId": "create_voice_guagua_1388",
+  "referenceText": "事情已经到了这一步，退后反而更危险。如果必须有人留下，那就让我来。停了一会儿，语气终于慢慢平稳下来。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0551_催眠药MK-III_1388.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0551_催眠药MK-III_1388.mp3",
+  "audioHash": "f2e4dc78bfe97ca73f6e10e3eff3f0af075ffe630d0d26f65abc4882481516ab",
+  "durationMs": 12648,
+  "materialId": 810617546,
+  "bookId": 112439,
+  "chapterId": 25526895,
+  "updatedAt": "2026-06-22T17:21:07.302Z"
+}

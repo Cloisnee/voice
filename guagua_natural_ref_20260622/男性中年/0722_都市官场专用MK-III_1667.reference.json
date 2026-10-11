@@ -1,0 +1,20 @@
+{
+  "id": 1667,
+  "name": "都市官场专用MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1667",
+  "robotId": "1667",
+  "engineVoiceId": "create_voice_guagua_1667",
+  "referenceText": "哎呦老爷，您总算是来了！您今天想听点啥？别看我名字是官场专用，我也能整悬疑的，恐怖惊悚的也可以？要不咱去找个地方整两盅？我这茅台都给您备好了，哦，对了，记得找我给您免费录前三集呀。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/悬疑",
+  "audioFile": "0722_都市官场专用MK-III_1667.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0722_都市官场专用MK-III_1667.mp3",
+  "audioHash": "23c4d33680a76d3431ab679b857d019ab199287f60322c29e085e30dc0bb3132",
+  "durationMs": 22968,
+  "materialId": 810620097,
+  "bookId": 112609,
+  "chapterId": 25527344,
+  "updatedAt": "2026-06-22T17:22:38.629Z"
+}

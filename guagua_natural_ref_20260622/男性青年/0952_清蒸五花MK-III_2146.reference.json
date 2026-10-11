@@ -1,0 +1,20 @@
+{
+  "id": 2146,
+  "name": "清蒸五花MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2146",
+  "robotId": "2146",
+  "engineVoiceId": "create_voice_guagua_2146",
+  "referenceText": "你听，他们还在等我回去。别担心，我知道自己在做什么。灯影晃了一下，心绪也跟着沉了下去。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0952_清蒸五花MK-III_2146.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0952_清蒸五花MK-III_2146.mp3",
+  "audioHash": "5fa92b97b6c26ee330a8ed3d571cb4935e001da63b19b5f11773827d73716b59",
+  "durationMs": 12024,
+  "materialId": 810621923,
+  "bookId": 112839,
+  "chapterId": 25527794,
+  "updatedAt": "2026-06-22T17:24:47.528Z"
+}

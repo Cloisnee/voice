@@ -1,0 +1,20 @@
+{
+  "id": 1975,
+  "name": "黑桃MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1975",
+  "robotId": "1975",
+  "engineVoiceId": "create_voice_guagua_1975",
+  "referenceText": "事情已经到了这一步，退后反而更危险。别担心，我知道自己在做什么。窗外车声一闪而过，语气也慢慢稳住了。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/现代",
+  "audioFile": "0856_黑桃MK-III_1975.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0856_黑桃MK-III_1975.mp3",
+  "audioHash": "66fd8a5f060b2ee3a20f7ac7204813ec9619df4d8143f3e2e0e946242aee550d",
+  "durationMs": 13416,
+  "materialId": 810621361,
+  "bookId": 112743,
+  "chapterId": 25527627,
+  "updatedAt": "2026-06-22T17:23:54.114Z"
+}

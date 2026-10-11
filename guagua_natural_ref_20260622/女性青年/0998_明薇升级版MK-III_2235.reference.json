@@ -1,0 +1,20 @@
+{
+  "id": 2235,
+  "name": "明薇升级版MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2235",
+  "robotId": "2235",
+  "engineVoiceId": "create_voice_guagua_2235",
+  "referenceText": "林五郎从牙缝里挤出三个字，双眼喷火！他猛的从地上弹起来，几步冲到林婉婉面前，一张俊脸涨的通红，指着林婉婉的鼻子，气的手指都在颤抖。。。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0998_明薇升级版MK-III_2235.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0998_明薇升级版MK-III_2235.mp3",
+  "audioHash": "21edaffa3fa840e8236b11a59851edbf4cb5ad1f007bf645c0757e243f149db8",
+  "durationMs": 14232,
+  "materialId": 810622411,
+  "bookId": 112885,
+  "chapterId": 25527869,
+  "updatedAt": "2026-06-22T17:25:12.736Z"
+}

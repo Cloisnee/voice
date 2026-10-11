@@ -1,0 +1,20 @@
+{
+  "id": 1584,
+  "name": "女中提琴MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1584",
+  "robotId": "1584",
+  "engineVoiceId": "create_voice_guagua_1584",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。我会把情绪收好，不影响接下来的事。停了一会儿，语气终于慢慢平稳下来。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0667_女中提琴MK-III_1584.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0667_女中提琴MK-III_1584.mp3",
+  "audioHash": "ac74dd3edb4c2ab8fde8594f612ceabdab5321625ba31fac8af22ef63b04d10d",
+  "durationMs": 16608,
+  "materialId": 810619651,
+  "bookId": 112555,
+  "chapterId": 25527260,
+  "updatedAt": "2026-06-22T17:22:08.007Z"
+}

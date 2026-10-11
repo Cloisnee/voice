@@ -1,0 +1,20 @@
+{
+  "id": 1528,
+  "name": "阿傀一号MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1528",
+  "robotId": "1528",
+  "engineVoiceId": "create_voice_guagua_1528",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。我会把情绪收好，不影响接下来的事。帘外风声一紧，话到嘴边便轻了半分。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0623_阿傀一号MK-III_1528.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0623_阿傀一号MK-III_1528.mp3",
+  "audioHash": "ddf4d1c280c39df994718ebb096e72e1ebcaa77b3b0cb9c425867232d5814be6",
+  "durationMs": 15648,
+  "materialId": 810619132,
+  "bookId": 112511,
+  "chapterId": 25527193,
+  "updatedAt": "2026-06-22T17:21:42.951Z"
+}

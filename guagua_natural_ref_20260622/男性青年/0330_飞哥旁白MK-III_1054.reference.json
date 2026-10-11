@@ -1,0 +1,20 @@
+{
+  "id": 1054,
+  "name": "飞哥旁白MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1054",
+  "robotId": "1054",
+  "engineVoiceId": "create_voice_guagua_1054",
+  "referenceText": "刚才那句话，我不是随便说说。先稳住呼吸，再看清楚前面的路。灯影晃了一下，心绪也跟着沉了下去。把灯拿稳，我们继续走。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0330_飞哥旁白MK-III_1054.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0330_飞哥旁白MK-III_1054.mp3",
+  "audioHash": "60f22e9861fda8f8e7fe13a0d2c3bd572702015336fbcd5ae639a0b8c46950d8",
+  "durationMs": 14712,
+  "materialId": 810592391,
+  "bookId": 112218,
+  "chapterId": 25526408,
+  "updatedAt": "2026-06-22T16:58:25.756Z"
+}

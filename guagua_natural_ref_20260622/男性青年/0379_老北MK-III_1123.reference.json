@@ -1,0 +1,20 @@
+{
+  "id": 1123,
+  "name": "老北MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1123",
+  "robotId": "1123",
+  "engineVoiceId": "create_voice_guagua_1123",
+  "referenceText": "你听，他们还在等我回去。如果必须有人留下，那就让我来。灯影晃了一下，心绪也跟着沉了下去。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0379_老北MK-III_1123.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0379_老北MK-III_1123.mp3",
+  "audioHash": "990c3da416104ee36314b5b798ba655a84acadaf28f2f67d4b2fba711c496b05",
+  "durationMs": 13752,
+  "materialId": 810604008,
+  "bookId": 112267,
+  "chapterId": 25526485,
+  "updatedAt": "2026-06-22T17:08:01.948Z"
+}

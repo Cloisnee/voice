@@ -1,0 +1,20 @@
+{
+  "id": 1808,
+  "name": "冰家奥索MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1808",
+  "robotId": "1808",
+  "engineVoiceId": "create_voice_guagua_1808",
+  "referenceText": "两个多月前，阿布努尔看到陆云在发布会上，宣布要启动人类基因进化时，就决定要绑架陆云了，不仅在暗网悬赏了3亿美刀，还安排了20多个有东大国籍的人潜入东大，寻找绑架陆云的机会，只是一直没找到合适的时机。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0779_冰家奥索MK-III_1808.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0779_冰家奥索MK-III_1808.mp3",
+  "audioHash": "4ec50888fc59907f6534669fd1db8407e4d31101b4995b9d559b7374936b15cf",
+  "durationMs": 19224,
+  "materialId": 810620895,
+  "bookId": 112666,
+  "chapterId": 25527439,
+  "updatedAt": "2026-06-22T17:23:10.491Z"
+}

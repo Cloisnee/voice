@@ -1,0 +1,20 @@
+{
+  "id": 1085,
+  "name": "摇滚的渔夫MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1085",
+  "robotId": "1085",
+  "engineVoiceId": "create_voice_guagua_1085",
+  "referenceText": "我不是不相信你，只是现在必须谨慎。你把人手安排好，我去看现场。帘外风声一紧，话到嘴边便轻了半分。别慌，先按计划来。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0350_摇滚的渔夫MK-III_1085.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0350_摇滚的渔夫MK-III_1085.mp3",
+  "audioHash": "92ff496290e9d4f9b9eb73734a04f17e42e2e40b4b7b97a847ba08d23aa28997",
+  "durationMs": 15768,
+  "materialId": 810598223,
+  "bookId": 112238,
+  "chapterId": 25526440,
+  "updatedAt": "2026-06-22T17:03:17.995Z"
+}

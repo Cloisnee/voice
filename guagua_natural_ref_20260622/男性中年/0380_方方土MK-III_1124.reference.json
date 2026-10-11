@@ -1,0 +1,20 @@
+{
+  "id": 1124,
+  "name": "方方土MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1124",
+  "robotId": "1124",
+  "engineVoiceId": "create_voice_guagua_1124",
+  "referenceText": "多年经验告诉我，越平静的地方越要小心。稳住局面，比什么都重要。灯影晃了一下，心绪也跟着沉了下去。等证据齐了，再做决定。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0380_方方土MK-III_1124.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0380_方方土MK-III_1124.mp3",
+  "audioHash": "79af8a07c0469093c34d83f875b64ce584e51ca46690a3b90420644da973114a",
+  "durationMs": 12888,
+  "materialId": 810604270,
+  "bookId": 112268,
+  "chapterId": 25526486,
+  "updatedAt": "2026-06-22T17:08:02.174Z"
+}

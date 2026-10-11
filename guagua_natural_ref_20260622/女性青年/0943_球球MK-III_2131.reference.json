@@ -1,0 +1,20 @@
+{
+  "id": 2131,
+  "name": "球球MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2131",
+  "robotId": "2131",
+  "engineVoiceId": "create_voice_guagua_2131",
+  "referenceText": "与此同时，忠义侯姜闻远和夫人秦曼姝也同时看向了她！只见苍蝇满天飞的鱼摊上，小姑娘一身粗布麻衣。小手按着鱼身开膛破腹，案板被她跺得哒哒响，动作娴熟又利落。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0943_球球MK-III_2131.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0943_球球MK-III_2131.mp3",
+  "audioHash": "464b4cbf2c4738e597e1b4190eaeadb24cdc4d7ac9a16f2b99cbade6b9a8c6e3",
+  "durationMs": 17352,
+  "materialId": 810621872,
+  "bookId": 112830,
+  "chapterId": 25527777,
+  "updatedAt": "2026-06-22T17:24:42.472Z"
+}

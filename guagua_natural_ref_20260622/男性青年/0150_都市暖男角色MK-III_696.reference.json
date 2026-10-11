@@ -1,0 +1,20 @@
+{
+  "id": 696,
+  "name": "都市暖男角色MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG696",
+  "robotId": "696",
+  "engineVoiceId": "create_voice_guagua_696",
+  "referenceText": "主人，我已经等你很久了，快让我给你干活吧，我的替身系列包括了都市猛男，都市官场，都市暖男，还有一个社科2哥，我的大刀已饥渴难耐，快让我为您免费录制前三集吧。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0150_都市暖男角色MK-III_696.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0150_都市暖男角色MK-III_696.mp3",
+  "audioHash": "1a183a45688ba0777c180652a9209b2faac2fb6e090667546aea0330d9298d2b",
+  "durationMs": 17184,
+  "materialId": 810472637,
+  "bookId": 112059,
+  "chapterId": 25525078,
+  "updatedAt": "2026-06-22T15:31:02.731Z"
+}

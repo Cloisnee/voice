@@ -1,0 +1,20 @@
+{
+  "id": 1274,
+  "name": "霸气御姐MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1274",
+  "robotId": "1274",
+  "engineVoiceId": "create_voice_guagua_1274",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。如果还有机会，我想重新来一次。灯影晃了一下，心绪也跟着沉了下去。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0488_霸气御姐MK-III_1274.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0488_霸气御姐MK-III_1274.mp3",
+  "audioHash": "78c931e96e46662eb8f03abe105543299a3e65376cd9c8c2e0e3c7661ceea8ce",
+  "durationMs": 15288,
+  "materialId": 810615884,
+  "bookId": 112376,
+  "chapterId": 25526777,
+  "updatedAt": "2026-06-22T17:20:52.520Z"
+}

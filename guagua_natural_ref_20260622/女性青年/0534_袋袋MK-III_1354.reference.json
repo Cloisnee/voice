@@ -1,0 +1,20 @@
+{
+  "id": 1354,
+  "name": "袋袋MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1354",
+  "robotId": "1354",
+  "engineVoiceId": "create_voice_guagua_1354",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。算了，我们先往前走吧。这句话不需要喊出来，却要让人听得真切。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0534_袋袋MK-III_1354.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0534_袋袋MK-III_1354.mp3",
+  "audioHash": "b885f4c7015e473d484f4990b285eb05bbc54ec189e7aabfa410ca810a5e2ba8",
+  "durationMs": 12312,
+  "materialId": 810617295,
+  "bookId": 112422,
+  "chapterId": 25526867,
+  "updatedAt": "2026-06-22T17:21:03.165Z"
+}

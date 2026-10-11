@@ -1,0 +1,20 @@
+{
+  "id": 1411,
+  "name": "阿紫MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1411",
+  "robotId": "1411",
+  "engineVoiceId": "create_voice_guagua_1411",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。算了，我们先往前走吧。停了一会儿，语气终于慢慢平稳下来。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0558_阿紫MK-III_1411.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0558_阿紫MK-III_1411.mp3",
+  "audioHash": "9e17d4b285ae016ced5d4d263a14ee6a34e5839fc44214cedcf0195bb9efcfaf",
+  "durationMs": 15864,
+  "materialId": 810617834,
+  "bookId": 112446,
+  "chapterId": 25526908,
+  "updatedAt": "2026-06-22T17:21:08.943Z"
+}

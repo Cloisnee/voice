@@ -1,0 +1,20 @@
+{
+  "id": 1468,
+  "name": "七娘MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1468",
+  "robotId": "1468",
+  "engineVoiceId": "create_voice_guagua_1468",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。你不用立刻回答，我可以等。停了一会儿，语气终于慢慢平稳下来。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0593_七娘MK-III_1468.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0593_七娘MK-III_1468.mp3",
+  "audioHash": "6eceeddc428d1ae15b8bcc1a2f1060dd658bb6378e8e5c8097e81d75edec1f7b",
+  "durationMs": 16800,
+  "materialId": 810618550,
+  "bookId": 112481,
+  "chapterId": 25527149,
+  "updatedAt": "2026-06-22T17:21:26.307Z"
+}

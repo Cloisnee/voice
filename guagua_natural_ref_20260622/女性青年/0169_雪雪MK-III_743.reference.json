@@ -1,0 +1,20 @@
+{
+  "id": 743,
+  "name": "雪雪MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG743",
+  "robotId": "743",
+  "engineVoiceId": "create_voice_guagua_743",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。你不用立刻回答，我可以等。这句话不需要喊出来，却要让人听得真切。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0169_雪雪MK-III_743.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0169_雪雪MK-III_743.mp3",
+  "audioHash": "6d440ace693e9c0d267596beffa1d3742cad9d7e82ce37fc63aa45a501d9c93c",
+  "durationMs": 13512,
+  "materialId": 810484902,
+  "bookId": 112078,
+  "chapterId": 25525106,
+  "updatedAt": "2026-06-22T15:40:16.723Z"
+}

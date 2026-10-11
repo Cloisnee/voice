@@ -1,0 +1,20 @@
+{
+  "id": 1075,
+  "name": "北极熊MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1075",
+  "robotId": "1075",
+  "engineVoiceId": "create_voice_guagua_1075",
+  "referenceText": "你听，他们还在等我回去。先稳住呼吸，再看清楚前面的路。灯影晃了一下，心绪也跟着沉了下去。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0343_北极熊MK-III_1075.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0343_北极熊MK-III_1075.mp3",
+  "audioHash": "787be4268a50c4d6707a0df72b23a63179a9e3d75cbd9e87e54bf4613f316d81",
+  "durationMs": 12168,
+  "materialId": 810597478,
+  "bookId": 112231,
+  "chapterId": 25526428,
+  "updatedAt": "2026-06-22T17:03:16.341Z"
+}

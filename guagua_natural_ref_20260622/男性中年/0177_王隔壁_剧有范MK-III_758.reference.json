@@ -1,0 +1,20 @@
+{
+  "id": 758,
+  "name": "王隔壁_剧有范MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG758",
+  "robotId": "758",
+  "engineVoiceId": "create_voice_guagua_758",
+  "referenceText": "我不是不相信你，只是现在必须谨慎。该问的一个都不能漏。帘外风声一紧，话到嘴边便轻了半分。这句话我只说一遍，你记住。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0177_王隔壁_剧有范MK-III_758.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0177_王隔壁_剧有范MK-III_758.mp3",
+  "audioHash": "196dd30402bd70850351d3a7836d284989c87a9ea4fe381736b8b6f23d807326",
+  "durationMs": 11112,
+  "materialId": 810508537,
+  "bookId": 112086,
+  "chapterId": 25525115,
+  "updatedAt": "2026-06-22T15:55:19.662Z"
+}

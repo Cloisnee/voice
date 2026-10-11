@@ -1,0 +1,20 @@
+{
+  "id": 964,
+  "name": "满宝MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG964",
+  "robotId": "964",
+  "engineVoiceId": "create_voice_guagua_964",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。你不用立刻回答，我可以等。帘外风声一紧，话到嘴边便轻了半分。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0277_满宝MK-III_964.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0277_满宝MK-III_964.mp3",
+  "audioHash": "b196f6156a08727b52e88b0cf173c56ab858aa160370a2401188fcb0cef431fa",
+  "durationMs": 17256,
+  "materialId": 810572074,
+  "bookId": 112165,
+  "chapterId": 25526314,
+  "updatedAt": "2026-06-22T16:40:38.426Z"
+}

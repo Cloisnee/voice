@@ -1,0 +1,20 @@
+{
+  "id": 742,
+  "name": "小螃蟹MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG742",
+  "robotId": "742",
+  "engineVoiceId": "create_voice_guagua_742",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。如果还有机会，我想重新来一次。灯影晃了一下，心绪也跟着沉了下去。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0168_小螃蟹MK-III_742.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0168_小螃蟹MK-III_742.mp3",
+  "audioHash": "fb6d864c8058111a5aa337b25657f319e4d7b1e85ff994c98ca76405f2cc74e6",
+  "durationMs": 14304,
+  "materialId": 810485468,
+  "bookId": 112077,
+  "chapterId": 25525104,
+  "updatedAt": "2026-06-22T15:40:16.514Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1457,
+  "name": "小辣椒MK-III",
+  "category": "女性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1457",
+  "robotId": "1457",
+  "engineVoiceId": "create_voice_guagua_1457",
+  "referenceText": "你先别急，事情还没到最坏的时候。把前因后果理清楚，再往下走。这句话不需要喊出来，却要让人听得真切。这话不重，可你得记在心里。",
+  "emotionProfile": "沉稳安抚，低强度情绪起伏",
+  "sampleStyle": "女性中年/通用",
+  "audioFile": "0585_小辣椒MK-III_1457.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性中年/0585_小辣椒MK-III_1457.mp3",
+  "audioHash": "7f5a0ec6664253c5438e6c6d3e0ceff1f2f5db52e96f010a0a2e5fa50926823e",
+  "durationMs": 14520,
+  "materialId": 810618469,
+  "bookId": 112473,
+  "chapterId": 25527138,
+  "updatedAt": "2026-06-22T17:21:21.984Z"
+}

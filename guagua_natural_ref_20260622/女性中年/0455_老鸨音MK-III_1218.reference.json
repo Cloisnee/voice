@@ -1,0 +1,20 @@
+{
+  "id": 1218,
+  "name": "老鸨音MK-III",
+  "category": "女性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1218",
+  "robotId": "1218",
+  "engineVoiceId": "create_voice_guagua_1218",
+  "referenceText": "这些年我见过太多分别，也见过太多人回头。我们先把眼前这一关过了。帘外风声一紧，话到嘴边便轻了半分。等你想明白了，再回来也不迟。",
+  "emotionProfile": "沉稳安抚，低强度情绪起伏",
+  "sampleStyle": "女性中年/古风",
+  "audioFile": "0455_老鸨音MK-III_1218.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性中年/0455_老鸨音MK-III_1218.mp3",
+  "audioHash": "0075e0098c363a3ded01ba4c841ac6978e3a5fedf635accd1d256efc50d245f8",
+  "durationMs": 17880,
+  "materialId": 810613987,
+  "bookId": 112343,
+  "chapterId": 25526694,
+  "updatedAt": "2026-06-22T17:17:12.231Z"
+}

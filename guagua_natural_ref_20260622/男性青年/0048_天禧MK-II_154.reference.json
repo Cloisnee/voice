@@ -1,0 +1,20 @@
+{
+  "id": 154,
+  "name": "天禧MK-II",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG154",
+  "robotId": "154",
+  "engineVoiceId": "create_voice_guagua_154",
+  "referenceText": "你听，他们还在等我回去。别担心，我知道自己在做什么。灯影晃了一下，心绪也跟着沉了下去。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0048_天禧MK-II_154.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0048_天禧MK-II_154.mp3",
+  "audioHash": "df43dc192b7410dc2ba6e2c26663fb93a70eac79604c6ed37ea365b6ab25e0a1",
+  "durationMs": 12240,
+  "materialId": 810397786,
+  "bookId": 112018,
+  "chapterId": 25524394,
+  "updatedAt": "2026-06-22T14:40:41.180Z"
+}

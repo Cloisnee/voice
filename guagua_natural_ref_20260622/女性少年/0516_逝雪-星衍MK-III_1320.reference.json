@@ -1,0 +1,20 @@
+{
+  "id": 1320,
+  "name": "逝雪-星衍MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1320",
+  "robotId": "1320",
+  "engineVoiceId": "create_voice_guagua_1320",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。如果还有机会，我想重新来一次。灯影晃了一下，心绪也跟着沉了下去。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0516_逝雪-星衍MK-III_1320.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0516_逝雪-星衍MK-III_1320.mp3",
+  "audioHash": "fcd08a59f7b6840529fa207cbdcc1acc1fd0740270b145d361040378ab7ce88a",
+  "durationMs": 13872,
+  "materialId": 810616637,
+  "bookId": 112404,
+  "chapterId": 25526832,
+  "updatedAt": "2026-06-22T17:20:58.981Z"
+}

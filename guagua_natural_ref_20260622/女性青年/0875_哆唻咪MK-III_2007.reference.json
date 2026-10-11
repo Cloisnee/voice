@@ -1,0 +1,20 @@
+{
+  "id": 2007,
+  "name": "哆唻咪MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2007",
+  "robotId": "2007",
+  "engineVoiceId": "create_voice_guagua_2007",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。我会把情绪收好，不影响接下来的事。灯影晃了一下，心绪也跟着沉了下去。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0875_哆唻咪MK-III_2007.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0875_哆唻咪MK-III_2007.mp3",
+  "audioHash": "1e2eca88b170c8eb9057d81ff2b37460df95da92b9ea726a3405c78d84ded303",
+  "durationMs": 14760,
+  "materialId": 810621570,
+  "bookId": 112762,
+  "chapterId": 25527657,
+  "updatedAt": "2026-06-22T17:24:04.541Z"
+}

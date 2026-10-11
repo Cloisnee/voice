@@ -1,0 +1,20 @@
+{
+  "id": 1961,
+  "name": "韧合小狼MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1961",
+  "robotId": "1961",
+  "engineVoiceId": "create_voice_guagua_1961",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。你不用立刻回答，我可以等。这句话不需要喊出来，却要让人听得真切。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0849_韧合小狼MK-III_1961.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0849_韧合小狼MK-III_1961.mp3",
+  "audioHash": "6d2def458c44a12d6ac1d1a094de1ddc468b1e5c173bd732c8023218a24bc6c7",
+  "durationMs": 14064,
+  "materialId": 810621577,
+  "bookId": 112736,
+  "chapterId": 25527616,
+  "updatedAt": "2026-06-22T17:23:50.114Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 949,
+  "name": "番茄MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG949",
+  "robotId": "949",
+  "engineVoiceId": "create_voice_guagua_949",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。如果还有机会，我想重新来一次。帘外风声一紧，话到嘴边便轻了半分。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0268_番茄MK-III_949.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0268_番茄MK-III_949.mp3",
+  "audioHash": "ed2c1ba2c1c46374e871eb1514833c832707de7785887e28c3d880791e91aa6e",
+  "durationMs": 19488,
+  "materialId": 810571551,
+  "bookId": 112156,
+  "chapterId": 25526300,
+  "updatedAt": "2026-06-22T16:40:36.703Z"
+}

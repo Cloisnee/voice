@@ -1,0 +1,20 @@
+{
+  "id": 898,
+  "name": "雪儿MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG898",
+  "robotId": "898",
+  "engineVoiceId": "create_voice_guagua_898",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。你不用立刻回答，我可以等。帘外风声一紧，话到嘴边便轻了半分。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0249_雪儿MK-III_898.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0249_雪儿MK-III_898.mp3",
+  "audioHash": "488dd3dc11e48bef62141d09186e177188143f2eb050931cb224d90700a7c9d8",
+  "durationMs": 14064,
+  "materialId": 810561004,
+  "bookId": 112137,
+  "chapterId": 25526271,
+  "updatedAt": "2026-06-22T16:28:05.455Z"
+}

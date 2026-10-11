@@ -1,0 +1,20 @@
+{
+  "id": 919,
+  "name": "小春花MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG919",
+  "robotId": "919",
+  "engineVoiceId": "create_voice_guagua_919",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。你不用立刻回答，我可以等。这句话不需要喊出来，却要让人听得真切。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/通用",
+  "audioFile": "0257_小春花MK-III_919.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0257_小春花MK-III_919.mp3",
+  "audioHash": "360b741e2e7d226e9ed5486aab3fc13e8b8e6867faccbf38919e1726948ee6fc",
+  "durationMs": 14256,
+  "materialId": 810561268,
+  "bookId": 112145,
+  "chapterId": 25526283,
+  "updatedAt": "2026-06-22T16:28:07.216Z"
+}

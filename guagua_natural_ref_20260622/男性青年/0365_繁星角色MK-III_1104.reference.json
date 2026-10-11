@@ -1,0 +1,20 @@
+{
+  "id": 1104,
+  "name": "繁星角色MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1104",
+  "robotId": "1104",
+  "engineVoiceId": "create_voice_guagua_1104",
+  "referenceText": "我当然会怕，可是现在不能停下。别担心，我知道自己在做什么。帘外风声一紧，话到嘴边便轻了半分。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0365_繁星角色MK-III_1104.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0365_繁星角色MK-III_1104.mp3",
+  "audioHash": "2eb9a98bb4af35855051e111eff2e4b84a2eece3d47d522060ae043b8bc9fd53",
+  "durationMs": 12216,
+  "materialId": 810603218,
+  "bookId": 112253,
+  "chapterId": 25526463,
+  "updatedAt": "2026-06-22T17:07:58.713Z"
+}

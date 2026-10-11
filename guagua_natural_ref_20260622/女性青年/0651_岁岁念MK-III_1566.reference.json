@@ -1,0 +1,20 @@
+{
+  "id": 1566,
+  "name": "岁岁念MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1566",
+  "robotId": "1566",
+  "engineVoiceId": "create_voice_guagua_1566",
+  "referenceText": "我以为自己已经习惯了，可听见那句话的时候，心里还是轻轻颤了一下。我会把情绪收好，不影响接下来的事。帘外风声一紧，话到嘴边便轻了半分。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0651_岁岁念MK-III_1566.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0651_岁岁念MK-III_1566.mp3",
+  "audioHash": "bbe59c76e64692f4d93b865aeb220883d8ee1ef42860d3ffc092fab23e1b3504",
+  "durationMs": 17040,
+  "materialId": 810619461,
+  "bookId": 112539,
+  "chapterId": 25527236,
+  "updatedAt": "2026-06-22T17:21:58.871Z"
+}

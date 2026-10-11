@@ -1,0 +1,20 @@
+{
+  "id": 1208,
+  "name": "大发一号MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1208",
+  "robotId": "1208",
+  "engineVoiceId": "create_voice_guagua_1208",
+  "referenceText": "刚才那一刻，我差点以为自己撑不住了。如果还有机会，我想重新来一次。灯影晃了一下，心绪也跟着沉了下去。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0448_大发一号MK-III_1208.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0448_大发一号MK-III_1208.mp3",
+  "audioHash": "6c111104074ed363d836dc5522a32aa8223dd5fabed13e92a768f6d9b4d329f3",
+  "durationMs": 14400,
+  "materialId": 810613689,
+  "bookId": 112336,
+  "chapterId": 25526681,
+  "updatedAt": "2026-06-22T17:17:10.772Z"
+}

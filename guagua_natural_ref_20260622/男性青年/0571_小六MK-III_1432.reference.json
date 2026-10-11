@@ -1,0 +1,20 @@
+{
+  "id": 1432,
+  "name": "小六MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1432",
+  "robotId": "1432",
+  "engineVoiceId": "create_voice_guagua_1432",
+  "referenceText": "事情已经到了这一步，退后反而更危险。如果必须有人留下，那就让我来。停了一会儿，语气终于慢慢平稳下来。只要还有一口气，就不能放弃。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0571_小六MK-III_1432.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0571_小六MK-III_1432.mp3",
+  "audioHash": "d8808053a24fccd64cc1deb725b0e2c3424043b4f40e2b68fceb9d4db9e62b9b",
+  "durationMs": 12360,
+  "materialId": 810618238,
+  "bookId": 112459,
+  "chapterId": 25526930,
+  "updatedAt": "2026-06-22T17:21:14.445Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 963,
+  "name": "小志MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG963",
+  "robotId": "963",
+  "engineVoiceId": "create_voice_guagua_963",
+  "referenceText": "事情已经到了这一步，退后反而更危险。别担心，我知道自己在做什么。帘外风声一紧，话到嘴边便轻了半分。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0276_小志MK-III_963.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0276_小志MK-III_963.mp3",
+  "audioHash": "575b0f2c9d7dbca16552a0cb833856d76778d3fe08b57f23b9f3687111fdfa7f",
+  "durationMs": 13872,
+  "materialId": 810572084,
+  "bookId": 112164,
+  "chapterId": 25526313,
+  "updatedAt": "2026-06-22T16:40:38.241Z"
+}

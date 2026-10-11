@@ -1,0 +1,20 @@
+{
+  "id": 2126,
+  "name": "兔喜MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2126",
+  "robotId": "2126",
+  "engineVoiceId": "create_voice_guagua_2126",
+  "referenceText": "映入眼帘的是一个卧室，门口放着一张古筝，上面落满了灰尘，前方不远处是一张木床，木床上放着一张红色被子，因为长时间没人进入，一股霉味扑面而来。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0940_兔喜MK-III_2126.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0940_兔喜MK-III_2126.mp3",
+  "audioHash": "883a267db3b79415c7fd65e2b1d4b8474f03cac47de74af0da51efc3e396a1a7",
+  "durationMs": 16512,
+  "materialId": 810621871,
+  "bookId": 112827,
+  "chapterId": 25527771,
+  "updatedAt": "2026-06-22T17:24:40.858Z"
+}

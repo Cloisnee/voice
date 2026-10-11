@@ -1,0 +1,20 @@
+{
+  "id": 1276,
+  "name": "周肆MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1276",
+  "robotId": "1276",
+  "engineVoiceId": "create_voice_guagua_1276",
+  "referenceText": "我当然会怕，可是现在不能停下。我会把人带回来，也会给你一个交代。帘外风声一紧，话到嘴边便轻了半分。这一次，我不会再迟到。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0489_周肆MK-III_1276.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0489_周肆MK-III_1276.mp3",
+  "audioHash": "853ff26709b28020065eef369c2f6e8c43f610dbf9ffaa9f7f4c97c33806a0c3",
+  "durationMs": 11064,
+  "materialId": 810615877,
+  "bookId": 112377,
+  "chapterId": 25526781,
+  "updatedAt": "2026-06-22T17:20:52.721Z"
+}

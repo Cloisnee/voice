@@ -1,0 +1,20 @@
+{
+  "id": 967,
+  "name": "苏千纹MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG967",
+  "robotId": "967",
+  "engineVoiceId": "create_voice_guagua_967",
+  "referenceText": "卿禾听到这个声音·脑袋恢复一丝清明，她本体是一只拥有太阳真火的凤凰，在涅槃重生时被魔气侵扰，差点魂飞魄散。涅槃失败的她被推入黑色旋涡·与任务系统签订了契约。完成了契约任务·她可以回到天界重新涅槃重生。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0280_苏千纹MK-III_967.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0280_苏千纹MK-III_967.mp3",
+  "audioHash": "f6d88e1a3a989360fc4a5538d7549adb14daab35629426d70d5db5fbe84a1c9a",
+  "durationMs": 23400,
+  "materialId": 810572181,
+  "bookId": 112168,
+  "chapterId": 25526319,
+  "updatedAt": "2026-06-22T16:40:39.076Z"
+}

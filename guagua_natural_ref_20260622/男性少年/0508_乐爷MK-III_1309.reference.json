@@ -1,0 +1,20 @@
+{
+  "id": 1309,
+  "name": "乐爷MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1309",
+  "robotId": "1309",
+  "engineVoiceId": "create_voice_guagua_1309",
+  "referenceText": "我当然会怕，可是现在不能停下。别担心，我知道自己在做什么。停了一会儿，语气终于慢慢平稳下来。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/通用",
+  "audioFile": "0508_乐爷MK-III_1309.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0508_乐爷MK-III_1309.mp3",
+  "audioHash": "e7555449357be4d8e4c33c1db3d3dd88a96749e514345f5fe3e1e4fb115ecd89",
+  "durationMs": 12216,
+  "materialId": 810616509,
+  "bookId": 112396,
+  "chapterId": 25526817,
+  "updatedAt": "2026-06-22T17:20:57.164Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1635,
+  "name": "瓜总女频MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1635",
+  "robotId": "1635",
+  "engineVoiceId": "create_voice_guagua_1635",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。我会把情绪收好，不影响接下来的事。灯影晃了一下，心绪也跟着沉了下去。你看，其实我已经没那么害怕了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0699_瓜总女频MK-III_1635.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0699_瓜总女频MK-III_1635.mp3",
+  "audioHash": "b60b12c0ca7b7708049fe7fb14af22d57df095acb3ba0566339f36c60dc5355e",
+  "durationMs": 16896,
+  "materialId": 810619933,
+  "bookId": 112587,
+  "chapterId": 25527305,
+  "updatedAt": "2026-06-22T17:22:26.131Z"
+}

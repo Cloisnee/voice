@@ -1,0 +1,20 @@
+{
+  "id": 1237,
+  "name": "小宛儿MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1237",
+  "robotId": "1237",
+  "engineVoiceId": "create_voice_guagua_1237",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。你不用立刻回答，我可以等。灯影晃了一下，心绪也跟着沉了下去。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0465_小宛儿MK-III_1237.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0465_小宛儿MK-III_1237.mp3",
+  "audioHash": "8cfe4e5cf4e8bbea0bb3500d50ec2c199aef2950cef234ad21f5a0e663fe1e71",
+  "durationMs": 13728,
+  "materialId": 810614993,
+  "bookId": 112353,
+  "chapterId": 25526711,
+  "updatedAt": "2026-06-22T17:17:14.180Z"
+}

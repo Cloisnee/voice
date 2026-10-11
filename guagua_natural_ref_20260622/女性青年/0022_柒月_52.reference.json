@@ -1,0 +1,20 @@
+{
+  "id": 52,
+  "name": "柒月",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG52",
+  "robotId": "52",
+  "engineVoiceId": "create_voice_guagua_52",
+  "referenceText": "有些事不是不在意，只是不能一直停在原地。算了，我们先往前走吧。灯影晃了一下，心绪也跟着沉了下去。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0022_柒月_52.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0022_柒月_52.mp3",
+  "audioHash": "d8057d58701f52e115f7635e01c93ac50b356c5a0d8c5d08f5fe909c0325cb35",
+  "durationMs": 13512,
+  "materialId": 810371338,
+  "bookId": 111985,
+  "chapterId": 25524057,
+  "updatedAt": "2026-06-22T14:25:49.097Z"
+}

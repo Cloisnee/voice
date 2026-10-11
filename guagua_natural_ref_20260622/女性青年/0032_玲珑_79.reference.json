@@ -1,0 +1,20 @@
+{
+  "id": 79,
+  "name": "玲珑",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG79",
+  "robotId": "79",
+  "engineVoiceId": "create_voice_guagua_79",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。如果还有机会，我想重新来一次。帘外风声一紧，话到嘴边便轻了半分。风一吹过来，人反而清醒了。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0032_玲珑_79.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0032_玲珑_79.mp3",
+  "audioHash": "be93653c4df063bf455d1bb919bb4329a5ed05cf27cb8209868138dacff5023a",
+  "durationMs": 16656,
+  "materialId": 810371919,
+  "bookId": 111995,
+  "chapterId": 25524074,
+  "updatedAt": "2026-06-22T14:25:58.204Z"
+}

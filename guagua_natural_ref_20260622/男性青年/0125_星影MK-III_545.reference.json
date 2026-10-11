@@ -1,0 +1,20 @@
+{
+  "id": 545,
+  "name": "星影MK-III",
+  "category": "男性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG545",
+  "robotId": "545",
+  "engineVoiceId": "create_voice_guagua_545",
+  "referenceText": "你听，他们还在等我回去。我会把人带回来，也会给你一个交代。灯影晃了一下，心绪也跟着沉了下去。天黑之前，我们还有机会。",
+  "emotionProfile": "紧张但坚定，气口清楚",
+  "sampleStyle": "男性青年/古风",
+  "audioFile": "0125_星影MK-III_545.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性青年/0125_星影MK-III_545.mp3",
+  "audioHash": "efce05c82e96693c3c485632bb8374e1a0389ad234808abaf807225b0ada5ee7",
+  "durationMs": 12216,
+  "materialId": 810410632,
+  "bookId": 112034,
+  "chapterId": 25524455,
+  "updatedAt": "2026-06-22T14:49:31.193Z"
+}

@@ -1,0 +1,20 @@
+{
+  "id": 1902,
+  "name": "丹墨MK-III",
+  "category": "女性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1902",
+  "robotId": "1902",
+  "engineVoiceId": "create_voice_guagua_1902",
+  "referenceText": "有些话说出口以前，总要在心里转上好几遍。把前因后果理清楚，再往下走。帘外风声一紧，话到嘴边便轻了半分。这话不重，可你得记在心里。",
+  "emotionProfile": "沉稳安抚，低强度情绪起伏",
+  "sampleStyle": "女性中年/古风",
+  "audioFile": "0821_丹墨MK-III_1902.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性中年/0821_丹墨MK-III_1902.mp3",
+  "audioHash": "dd81e4cfb001bbe36b1760f839bac90893bd519314caaa32b7aa4e3288c4c1aa",
+  "durationMs": 14520,
+  "materialId": 810621055,
+  "bookId": 112708,
+  "chapterId": 25527575,
+  "updatedAt": "2026-06-22T17:23:34.772Z"
+}

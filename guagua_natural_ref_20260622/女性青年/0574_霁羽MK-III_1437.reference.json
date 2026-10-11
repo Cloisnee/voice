@@ -1,0 +1,20 @@
+{
+  "id": 1437,
+  "name": "霁羽MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG1437",
+  "robotId": "1437",
+  "engineVoiceId": "create_voice_guagua_1437",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。算了，我们先往前走吧。窗外车声一闪而过，语气也慢慢稳住了。等天亮以后，一切都会有答案。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/现代",
+  "audioFile": "0574_霁羽MK-III_1437.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0574_霁羽MK-III_1437.mp3",
+  "audioHash": "02011c2d0c8a486731654843697ea36aac094dc80e157788e6a4dd1e7c4cab32",
+  "durationMs": 15744,
+  "materialId": 810618283,
+  "bookId": 112462,
+  "chapterId": 25526936,
+  "updatedAt": "2026-06-22T17:21:16.029Z"
+}

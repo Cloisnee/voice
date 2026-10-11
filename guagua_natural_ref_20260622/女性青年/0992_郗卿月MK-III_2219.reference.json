@@ -1,0 +1,20 @@
+{
+  "id": 2219,
+  "name": "郗卿月MK-III",
+  "category": "女性青年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG2219",
+  "robotId": "2219",
+  "engineVoiceId": "create_voice_guagua_2219",
+  "referenceText": "我知道现在说这些有点晚，可我还是想把话讲完。如果还有机会，我想重新来一次。帘外风声一紧，话到嘴边便轻了半分。至少这一次，我没有躲开。",
+  "emotionProfile": "细腻、微颤、释然，重音自然",
+  "sampleStyle": "女性青年/古风",
+  "audioFile": "0992_郗卿月MK-III_2219.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/女性青年/0992_郗卿月MK-III_2219.mp3",
+  "audioHash": "2904a42eb5830bd44f109a1048cba39946598aa71151bfae7c12409fc16119a4",
+  "durationMs": 13488,
+  "materialId": 810622106,
+  "bookId": 112879,
+  "chapterId": 25527859,
+  "updatedAt": "2026-06-22T17:25:09.609Z"
+}

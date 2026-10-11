@@ -1,0 +1,20 @@
+{
+  "id": 840,
+  "name": "818茶香MK-III",
+  "category": "男性中年",
+  "sourceVendor": "呱呱",
+  "voiceId": "GG840",
+  "robotId": "840",
+  "engineVoiceId": "create_voice_guagua_840",
+  "referenceText": "多年经验告诉我，越平静的地方越要小心。稳住局面，比什么都重要。灯影晃了一下，心绪也跟着沉了下去。天亮之前，我们必须有结果。",
+  "emotionProfile": "稳重、判断感、低沉停顿",
+  "sampleStyle": "男性中年/古风",
+  "audioFile": "0208_818茶香MK-III_840.mp3",
+  "audioPath": "/Users/wujing/Downloads/呱呱正式无水印_真人参考_官方音色/男性中年/0208_818茶香MK-III_840.mp3",
+  "audioHash": "86de65b481ec29d347f9b812ebdc4ea25453019ad489964d5270af6a8b6b6498",
+  "durationMs": 12360,
+  "materialId": 810542557,
+  "bookId": 112117,
+  "chapterId": 25525839,
+  "updatedAt": "2026-06-22T16:16:32.346Z"
+}
